@@ -23,6 +23,11 @@ on:
         required: true
         default: "50"
         type: string
+      continue_on_source_error:
+        description: "Continue the pipeline if one source, such as 1001Tracklists, fails"
+        required: true
+        default: true
+        type: boolean
   schedule:
     # Friday at 10:07 AM America/New_York. The :07 avoids the busiest top-of-hour queue.
     - cron: "7 10 * * 5"
@@ -61,6 +66,7 @@ jobs:
       REPO_SECRETS_TOKEN: ${{ secrets.REPO_SECRETS_TOKEN }}
       PUSH_PLAYLISTS: ${{ github.event_name == 'schedule' || inputs.push_playlists == true }}
       SKIP_REFRESH: ${{ inputs.skip_refresh || false }}
+      CONTINUE_ON_SOURCE_ERROR: ${{ github.event_name == 'schedule' || inputs.continue_on_source_error == true }}
       CANDIDATE_POOL_SIZE: ${{ inputs.candidate_pool_size || '150' }}
       SOUNDCLOUD_TARGET_COUNT: ${{ inputs.soundcloud_target_count || '50' }}
 
@@ -91,7 +97,7 @@ jobs:
             local destination="$3"
 
             if [ -n "$b64_value" ]; then
-              printf '%s' "$b64_value" | base64 --decode > "$destination"
+              printf '%s' "$b64_value" | tr -d '[:space:]' | base64 --decode > "$destination"
             elif [ -n "$raw_value" ]; then
               printf '%s' "$raw_value" > "$destination"
             fi
@@ -126,6 +132,10 @@ jobs:
 
           if [ "$SKIP_REFRESH" = "true" ]; then
             args+=(--skip-refresh)
+          fi
+
+          if [ "$CONTINUE_ON_SOURCE_ERROR" = "true" ]; then
+            args+=(--continue-on-source-error)
           fi
 
           python3 -m src.main "${args[@]}"
