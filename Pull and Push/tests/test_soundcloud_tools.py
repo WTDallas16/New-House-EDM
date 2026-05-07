@@ -49,6 +49,22 @@ def test_best_soundcloud_match_rejects_popular_wrong_upload():
     assert best_soundcloud_match("Sam Divine", "Club Muzik", tracks) is None
 
 
+def test_best_soundcloud_match_rejects_unofficial_upload_with_artists_in_title():
+    tracks = [
+        {
+            "id": 31,
+            "title": "Chris Lorenzo aMo HOTS 4 U",
+            "user": {"username": "prodlarks", "permalink": "prodlarks"},
+            "playback_count": 999999,
+            "release_year": 2026,
+            "release_month": 5,
+            "release_day": 1,
+        },
+    ]
+
+    assert best_soundcloud_match("Chris Lorenzo, aMo (um)", "HOTS 4 U", tracks, today=date(2026, 5, 7)) is None
+
+
 def test_best_soundcloud_match_rejects_common_split_artist_name():
     tracks = [
         {"id": 40, "title": "You Gave Me Love", "user": {"username": "Crown Heights Affair"}, "playback_count": 999999, "created_at": "2017-09-25T00:00:00Z"},

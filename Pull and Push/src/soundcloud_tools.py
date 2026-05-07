@@ -362,13 +362,13 @@ def best_soundcloud_match(
     best: tuple[float, dict[str, Any]] | None = None
     for track in tracks:
         candidate_title = normalize_title(track.get("title"))
-        user = track.get("user") or {}
-        publisher = track.get("publisher_metadata") or {}
         candidate_artists = soundcloud_candidate_artists(track)
+        identity_artists = soundcloud_identity_artists(track)
         candidate_all = normalize_text(f"{' '.join(candidate_artists)} {candidate_title}")
         title_score = soundcloud_title_score(target_title, candidate_title, candidate_all)
         artist_score = soundcloud_artist_score(target_artists, candidate_artists)
-        if title_score < 0.72 or artist_score < 0.72:
+        identity_score = soundcloud_artist_score(target_artists, identity_artists)
+        if title_score < 0.72 or artist_score < 0.72 or identity_score < 0.72:
             continue
         if not soundcloud_track_is_in_window(track, cutoff=cutoff, current_day=current_day):
             continue
@@ -397,6 +397,15 @@ def artist_aliases(artist: str) -> list[str]:
 
 
 def soundcloud_candidate_artists(track: dict[str, Any]) -> list[str]:
+    values = [*soundcloud_identity_artists(track)]
+    title = clean_text(track.get("title"))
+    parsed = parse_track_artist_prefix(title)
+    if parsed:
+        values.append(parsed)
+    return unique_nonempty(normalize_text(value) for value in values if value)
+
+
+def soundcloud_identity_artists(track: dict[str, Any]) -> list[str]:
     user = track.get("user") or {}
     publisher = track.get("publisher_metadata") or {}
     values = [
@@ -405,10 +414,6 @@ def soundcloud_candidate_artists(track: dict[str, Any]) -> list[str]:
         user.get("username"),
         user.get("permalink"),
     ]
-    title = clean_text(track.get("title"))
-    parsed = parse_track_artist_prefix(title)
-    if parsed:
-        values.append(parsed)
     return unique_nonempty(normalize_text(value) for value in values if value)
 
 

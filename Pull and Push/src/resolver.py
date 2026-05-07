@@ -9,8 +9,15 @@ from typing import Any
 
 from src.models import ResolvedTrack
 from src.normalize import normalize_text, normalize_title
-from src.soundcloud_tools import SoundCloudTools, soundcloud_artist_score, soundcloud_candidate_artists, soundcloud_title_score, soundcloud_track_is_in_window
-from src.spotify_tools import SpotifyRateLimited, SpotifyTools, spotify_track_id_from_record, write_spotify_backlog
+from src.soundcloud_tools import (
+    SoundCloudTools,
+    soundcloud_artist_score,
+    soundcloud_candidate_artists,
+    soundcloud_identity_artists,
+    soundcloud_title_score,
+    soundcloud_track_is_in_window,
+)
+from src.spotify_tools import SpotifyRateLimited, SpotifyTools, write_spotify_backlog
 
 LOGGER = logging.getLogger(__name__)
 
@@ -52,7 +59,7 @@ def resolve_top_tracks(
             track.notes.append("discarded_untrusted_cached_soundcloud_match")
             track.soundcloud_track_id = None
             track.soundcloud_url = None
-        if track.spotify_id and not cached_spotify_match_is_trusted(item, cached, track):
+        if track.spotify_id and not cached_spotify_match_is_trusted(cached):
             track.notes.append("discarded_legacy_cached_spotify_match")
             track.spotify_id = None
             track.spotify_uri = None
@@ -83,7 +90,7 @@ def resolve_top_tracks(
             "spotify_url": track.spotify_url,
             "spotify_uri": track.spotify_uri,
             "spotify_id": track.spotify_id,
-            "spotify_match_version": "strict_v2" if track.spotify_id else None,
+            "spotify_match_version": "strict_v3_date_checked" if track.spotify_id else None,
             "soundcloud_url": track.soundcloud_url,
             "soundcloud_track_id": track.soundcloud_track_id,
             "updated_at": datetime.now(timezone.utc).isoformat(),
@@ -106,20 +113,19 @@ def cached_soundcloud_match_is_trusted(item: dict[str, Any], soundcloud: SoundCl
         LOGGER.warning("Could not validate cached SoundCloud match for %s - %s: %s", track.artist, track.title, exc)
         return False
     candidate_artists = soundcloud_candidate_artists(payload)
+    identity_artists = soundcloud_identity_artists(payload)
     candidate_title = normalize_title(payload.get("title"))
     candidate_all = normalize_text(f"{' '.join(candidate_artists)} {payload.get('title') or ''}")
     title_ok = soundcloud_title_score(target_title, candidate_title, candidate_all) >= 0.72
     artist_ok = soundcloud_artist_score(target_artists, candidate_artists, candidate_all) >= 0.72
+    identity_ok = soundcloud_artist_score(target_artists, identity_artists, candidate_all) >= 0.72
     current_day = date.today()
     date_ok = soundcloud_track_is_in_window(payload, cutoff=current_day - timedelta(days=lookback_days), current_day=current_day)
-    return title_ok and artist_ok and date_ok
+    return title_ok and artist_ok and identity_ok and date_ok
 
 
-def cached_spotify_match_is_trusted(item: dict[str, Any], cached: dict[str, Any], track: ResolvedTrack) -> bool:
-    direct_id = spotify_track_id_from_record(item)
-    if direct_id and direct_id == track.spotify_id:
-        return True
-    return cached.get("spotify_match_version") == "strict_v2"
+def cached_spotify_match_is_trusted(cached: dict[str, Any]) -> bool:
+    return cached.get("spotify_match_version") == "strict_v3_date_checked"
 
 
 def cache_key(item: dict[str, Any]) -> str:

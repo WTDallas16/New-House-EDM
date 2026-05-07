@@ -61,11 +61,7 @@ class SpotifyTools:
     def resolve_track(self, item: dict[str, Any], lookback_days: int = 7, today: date | None = None) -> dict[str, str | None]:
         direct_id = spotify_track_id_from_record(item)
         if direct_id:
-            return {
-                "spotify_id": direct_id,
-                "spotify_uri": f"spotify:track:{direct_id}",
-                "spotify_url": f"https://open.spotify.com/track/{direct_id}",
-            }
+            return self.resolve_direct_track_id(direct_id, item, lookback_days=lookback_days, today=today)
 
         artist = clean_text(item.get("artist"))
         title = clean_text(item.get("track_or_project_title"))
@@ -89,6 +85,35 @@ class SpotifyTools:
             "spotify_id": track_id or None,
             "spotify_uri": f"spotify:track:{track_id}" if track_id else None,
             "spotify_url": str((best.get("external_urls") or {}).get("spotify") or f"https://open.spotify.com/track/{track_id}"),
+        }
+
+    def resolve_direct_track_id(
+        self,
+        track_id: str,
+        item: dict[str, Any],
+        lookback_days: int = 7,
+        today: date | None = None,
+    ) -> dict[str, str | None]:
+        artist = clean_text(item.get("artist"))
+        title = clean_text(item.get("track_or_project_title"))
+        if not artist or not title:
+            return {"spotify_id": None, "spotify_uri": None, "spotify_url": None}
+        try:
+            track = self.client.track(track_id, market="US")
+        except SpotifyException as exc:
+            if getattr(exc, "http_status", None) == 429:
+                raise SpotifyRateLimited(retry_after_seconds(exc)) from exc
+            LOGGER.warning("Spotify direct track lookup failed for %s: %s", track_id, exc)
+            return {"spotify_id": None, "spotify_uri": None, "spotify_url": None}
+        best = best_spotify_match(artist, title, [track], lookback_days=lookback_days, today=today)
+        if not best:
+            LOGGER.info("Discarded Spotify track %s for %s - %s because it did not pass title/artist/date checks", track_id, artist, title)
+            return {"spotify_id": None, "spotify_uri": None, "spotify_url": None}
+        resolved_id = str(best.get("id") or track_id)
+        return {
+            "spotify_id": resolved_id,
+            "spotify_uri": f"spotify:track:{resolved_id}",
+            "spotify_url": str((best.get("external_urls") or {}).get("spotify") or f"https://open.spotify.com/track/{resolved_id}"),
         }
 
     def find_or_create_playlist(self, name: str, public: bool = False) -> str:
@@ -194,7 +219,7 @@ def spotify_track_is_in_window(track: dict[str, Any], cutoff: date, current_day:
     album = track.get("album") or {}
     release_date = parse_spotify_date(album.get("release_date"), album.get("release_date_precision"))
     if release_date is None:
-        return True
+        return False
     return cutoff <= release_date <= current_day
 
 
