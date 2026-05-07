@@ -95,7 +95,9 @@ class SoundCloudTokenManager:
             timeout=30,
         )
         response.raise_for_status()
-        refreshed = response.json()
+        refreshed = parse_json_response(response)
+        if not isinstance(refreshed, dict):
+            raise RuntimeError("SoundCloud token refresh returned an unexpected non-object response.")
         expires_in = int(refreshed.get("expires_in") or 3600)
         refreshed["expires_at"] = (datetime.now(timezone.utc) + timedelta(seconds=expires_in)).timestamp()
         if "refresh_token" not in refreshed:
@@ -210,7 +212,7 @@ class SoundCloudTools:
         return payload if isinstance(payload, dict) else {}
 
     def get_json(self, path_or_url: str, **params) -> Any:
-        return self._request("GET", path_or_url, params=params).json()
+        return parse_json_response(self._request("GET", path_or_url, params=params))
 
     def get_collection(self, path_or_url: str, limit: int = 50, max_items: int | None = None, **params) -> list[dict[str, Any]]:
         params = dict(params)
@@ -235,11 +237,11 @@ class SoundCloudTools:
         return collection
 
     def post(self, path_or_url: str, form_body: FormBody | None = None, json_body: dict[str, Any] | None = None) -> dict[str, Any]:
-        payload = self._request("POST", path_or_url, form_body=form_body, json_body=json_body).json()
+        payload = parse_json_response(self._request("POST", path_or_url, form_body=form_body, json_body=json_body))
         return payload if isinstance(payload, dict) else {}
 
     def put(self, path_or_url: str, form_body: FormBody | None = None, json_body: dict[str, Any] | None = None) -> dict[str, Any]:
-        payload = self._request("PUT", path_or_url, form_body=form_body, json_body=json_body).json()
+        payload = parse_json_response(self._request("PUT", path_or_url, form_body=form_body, json_body=json_body))
         return payload if isinstance(payload, dict) else {}
 
     def _request(
@@ -259,7 +261,7 @@ class SoundCloudTools:
             LOGGER.info("SoundCloud API returned 401; refreshing OAuth token and retrying once")
             self.token_manager.refresh_access_token(self.token_manager.load_token())
             response = self._send(method, url, params=params, form_body=form_body, json_body=json_body, include_auth=True)
-        if response.status_code == 401 and self.client_id:
+        if method.upper() == "GET" and response.status_code == 401 and self.client_id:
             LOGGER.info("SoundCloud API still returned 401; retrying public client_id request without OAuth header")
             response = self._send(method, url, params=params, form_body=form_body, json_body=json_body, include_auth=False)
         raise_for_status_with_body(response)
@@ -294,6 +296,25 @@ def raise_for_status_with_body(response: requests.Response) -> None:
         if body:
             message = f"{message} | response body: {body}"
         raise requests.HTTPError(message, response=response) from exc
+
+
+def parse_json_response(response: requests.Response) -> Any:
+    try:
+        return response.json()
+    except ValueError as exc:
+        method = response.request.method if response.request else "REQUEST"
+        body = response.text[:1000] if response.text else ""
+        content_type = response.headers.get("content-type", "")
+        message = (
+            "SoundCloud API returned a non-JSON response "
+            f"for {method} {response.url} "
+            f"(status={response.status_code}, content-type={content_type or 'unknown'})"
+        )
+        if body:
+            message = f"{message} | response body: {body}"
+        else:
+            message = f"{message} | response body was empty"
+        raise requests.RequestException(message, response=response) from exc
 
 
 FormBody = dict[str, Any] | list[tuple[str, Any]]

@@ -48,6 +48,11 @@ def push_playlists(
         soundcloud_ids = soundcloud_ids_from_tracks(soundcloud_tracks or tracks)
         report["soundcloud"]["attempted"] = True
         report["soundcloud"]["track_count"] = len(soundcloud_ids)
+        if not soundcloud_ids:
+            message = "No SoundCloud track IDs resolved; SoundCloud playlist was not changed."
+            report["soundcloud"]["error"] = message
+            LOGGER.warning(message)
+            return report
         try:
             soundcloud = SoundCloudTools(data_root)
             playlist_id = soundcloud.find_or_create_playlist(playlist_name, sharing=soundcloud_sharing)
