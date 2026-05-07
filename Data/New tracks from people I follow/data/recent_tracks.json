@@ -1,0 +1,3404 @@
+[
+  {
+    "artist": "Chris Lorenzo",
+    "track_or_project_title": "In This Bih' (DENNETT x Darby Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Chris Lorenzo - In This Bih' (DENNETT x Darby Edit)",
+    "source_article_url": "https://soundcloud.com/dennettofficial/chris-lorenzo-in-this-bih?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-05-01",
+    "ranking_score": 72.36,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 2,
+        "artist_followers": 46640,
+        "playback_count": 6304,
+        "likes_count": 1458,
+        "reposts_count": 109
+      },
+      "components": {
+        "recency": 0.8571,
+        "artist_followers": 0.7781,
+        "track_plays": 0.6333,
+        "track_likes": 0.6328,
+        "track_reposts": 0.5103,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/dennettofficial/chris-lorenzo-in-this-bih?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312943407",
+      "soundcloud_user_id": "504948057",
+      "soundcloud_username": "DENNETT",
+      "soundcloud_profile_url": "https://soundcloud.com/dennettofficial?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | LGOREMIX",
+      "followed_artist_edm_match_terms": "bass | dance",
+      "followed_artist_followers_count": "46640",
+      "all_artists": "Chris Lorenzo",
+      "genre": "",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "175774",
+      "playback_count": "6304",
+      "likes_count": "1458",
+      "reposts_count": "109",
+      "created_at": "2026/05/01 18:56:07 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "⠶ Dom Dolla ⠶",
+    "track_or_project_title": "Don't Worry Baby",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "⠶ Dom Dolla ⠶ - Don't Worry Baby",
+    "source_article_url": "https://soundcloud.com/domdolla/dontworrybaby?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-29",
+    "ranking_score": 69.8,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 4,
+        "artist_followers": 252563,
+        "playback_count": 10201,
+        "likes_count": 955,
+        "reposts_count": 44
+      },
+      "components": {
+        "recency": 0.7143,
+        "artist_followers": 0.9004,
+        "track_plays": 0.6681,
+        "track_likes": 0.5961,
+        "track_reposts": 0.4133,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/domdolla/dontworrybaby?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311540286",
+      "soundcloud_user_id": "627109",
+      "soundcloud_username": "⠶ Dom Dolla ⠶",
+      "soundcloud_profile_url": "https://soundcloud.com/domdolla?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Electronic | Dom Dolla\" Sydney AllianzStadium | Dance | Pop | Indie Dance\" \"Dance Pop | Techno | Melodic House & Techno",
+      "followed_artist_edm_match_terms": "breaks | club | dance | electronic | house | melodic house | techno",
+      "followed_artist_followers_count": "252563",
+      "all_artists": "⠶ Dom Dolla ⠶",
+      "genre": "Electronic",
+      "tag_list": "",
+      "label": "Three Six Zero Recordings/Columbia Records/Good Fortune Recods",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "207272",
+      "playback_count": "10201",
+      "likes_count": "955",
+      "reposts_count": "44",
+      "created_at": "2026/04/29 19:15:30 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Seven Lions",
+    "track_or_project_title": "Dreams",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Seven Lions - Dreams",
+    "source_article_url": "https://soundcloud.com/seven-lions/dreams?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 68.27,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 3642168,
+        "playback_count": 1921,
+        "likes_count": 225,
+        "reposts_count": 27
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 1.0,
+        "track_plays": 0.5473,
+        "track_likes": 0.4708,
+        "track_reposts": 0.3618,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/seven-lions/dreams?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312317877",
+      "soundcloud_user_id": "659761",
+      "soundcloud_username": "Seven Lions",
+      "soundcloud_profile_url": "https://soundcloud.com/seven-lions?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Ambient | Dance & EDM | Dubstep | Trance \"Dance & EDM | Electronic",
+      "followed_artist_edm_match_terms": "dance | dubstep | edm | electronic | trance",
+      "followed_artist_followers_count": "3642168",
+      "all_artists": "Seven Lions",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "233794",
+      "playback_count": "1921",
+      "likes_count": "225",
+      "reposts_count": "27",
+      "created_at": "2026/04/30 19:53:04 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Seven Lions",
+    "track_or_project_title": "A Crown of Seven Moons",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Seven Lions - A Crown of Seven Moons",
+    "source_article_url": "https://soundcloud.com/seven-lions/acrownofsevenmoons?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 67.45,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 3642168,
+        "playback_count": 2215,
+        "likes_count": 125,
+        "reposts_count": 21
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 1.0,
+        "track_plays": 0.5576,
+        "track_likes": 0.4201,
+        "track_reposts": 0.3356,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/seven-lions/acrownofsevenmoons?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312316566",
+      "soundcloud_user_id": "659761",
+      "soundcloud_username": "Seven Lions",
+      "soundcloud_profile_url": "https://soundcloud.com/seven-lions?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Ambient | Dance & EDM | Dubstep | Trance \"Dance & EDM | Electronic",
+      "followed_artist_edm_match_terms": "dance | dubstep | edm | electronic | trance",
+      "followed_artist_followers_count": "3642168",
+      "all_artists": "Seven Lions",
+      "genre": "Ambient",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "54187",
+      "playback_count": "2215",
+      "likes_count": "125",
+      "reposts_count": "21",
+      "created_at": "2026/04/30 19:50:13 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Seven Lions",
+    "track_or_project_title": "Summer",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Seven Lions - Summer",
+    "source_article_url": "https://soundcloud.com/seven-lions/summer?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 67.01,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 3642168,
+        "playback_count": 1522,
+        "likes_count": 160,
+        "reposts_count": 17
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 1.0,
+        "track_plays": 0.5304,
+        "track_likes": 0.4414,
+        "track_reposts": 0.3138,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/seven-lions/summer?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312318147",
+      "soundcloud_user_id": "659761",
+      "soundcloud_username": "Seven Lions",
+      "soundcloud_profile_url": "https://soundcloud.com/seven-lions?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Ambient | Dance & EDM | Dubstep | Trance \"Dance & EDM | Electronic",
+      "followed_artist_edm_match_terms": "dance | dubstep | edm | electronic | trance",
+      "followed_artist_followers_count": "3642168",
+      "all_artists": "Seven Lions",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "209336",
+      "playback_count": "1522",
+      "likes_count": "160",
+      "reposts_count": "17",
+      "created_at": "2026/04/30 19:53:41 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Seven Lions",
+    "track_or_project_title": "Strange and Eternal",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Seven Lions - Strange and Eternal",
+    "source_article_url": "https://soundcloud.com/seven-lions/strangeandeternal?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 66.99,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 3642168,
+        "playback_count": 1735,
+        "likes_count": 150,
+        "reposts_count": 15
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 1.0,
+        "track_plays": 0.5399,
+        "track_likes": 0.4358,
+        "track_reposts": 0.301,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/seven-lions/strangeandeternal?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312318546",
+      "soundcloud_user_id": "659761",
+      "soundcloud_username": "Seven Lions",
+      "soundcloud_profile_url": "https://soundcloud.com/seven-lions?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Ambient | Dance & EDM | Dubstep | Trance \"Dance & EDM | Electronic",
+      "followed_artist_edm_match_terms": "dance | dubstep | edm | electronic | trance",
+      "followed_artist_followers_count": "3642168",
+      "all_artists": "Seven Lions",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "157345",
+      "playback_count": "1735",
+      "likes_count": "150",
+      "reposts_count": "15",
+      "created_at": "2026/04/30 19:54:33 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Spinnin' Records",
+    "track_or_project_title": "New Music Friday Mini-Mix 19",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Spinnin' Records - New Music Friday Mini-Mix 19",
+    "source_article_url": "https://soundcloud.com/spinninrecords/new-music-friday-mini-mix-19?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-05-01",
+    "ranking_score": 66.22,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 2,
+        "artist_followers": 1811131,
+        "playback_count": 737,
+        "likes_count": 57,
+        "reposts_count": 14
+      },
+      "components": {
+        "recency": 0.8571,
+        "artist_followers": 1.0,
+        "track_plays": 0.478,
+        "track_likes": 0.3527,
+        "track_reposts": 0.294,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/spinninrecords/new-music-friday-mini-mix-19?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312660132",
+      "soundcloud_user_id": "175766",
+      "soundcloud_username": "Spinnin' Records",
+      "soundcloud_profile_url": "https://soundcloud.com/spinninrecords?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Dance & EDM\" Electronic House \"Deep House\" Techno | Dance & EDM\" Techno \"Deep House\" House Electronic | Dance & EDM\" Electronic Techno House \"Deep House\" mainstage | Dance & EDM\" Electronic Techno House \"Deep House | Dance & EDM\" Techno house \"Deep House\" Electronic | Dance & EDM\" House \"Deep House\" Techno Electronic | Dance & EDM\" House \"Deep House\" Electronic Techno",
+      "followed_artist_edm_match_terms": "dance | deep house | edm | electronic | house | techno",
+      "followed_artist_followers_count": "1811131",
+      "all_artists": "Spinnin' Records",
+      "genre": "Dance & EDM",
+      "tag_list": "\"Dance & EDM\" Electronic House \"Deep House\" Techno",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "422176",
+      "playback_count": "737",
+      "likes_count": "57",
+      "reposts_count": "14",
+      "created_at": "2026/05/01 08:44:35 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "VANIC Official",
+    "track_or_project_title": "Graveyard",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "VANIC Official - Graveyard",
+    "source_article_url": "https://soundcloud.com/djvanic/graveyard?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 66.1,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 338616,
+        "playback_count": 4395,
+        "likes_count": 456,
+        "reposts_count": 42
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 0.9216,
+        "track_plays": 0.6072,
+        "track_likes": 0.532,
+        "track_reposts": 0.4084,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/djvanic/graveyard?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310884408",
+      "soundcloud_user_id": "4091150",
+      "soundcloud_username": "VANIC Official",
+      "soundcloud_profile_url": "https://soundcloud.com/djvanic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Electronic | melodic trap vanic | dubstep trap edm electronic remix \"actin tough | dubstep remix wub house energetic | dubstep \"melodic dubstep\" vanic | Dance & EDM | melodic bass\" \"bass music\" dubstep edm | happy vanic melodic trap house",
+      "followed_artist_edm_match_terms": "bass | dance | dubstep | edm | electronic | house | trap",
+      "followed_artist_followers_count": "338616",
+      "all_artists": "VANIC Official",
+      "genre": "Electronic",
+      "tag_list": "melodic trap vanic",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "230434",
+      "playback_count": "4395",
+      "likes_count": "456",
+      "reposts_count": "42",
+      "created_at": "2026/04/28 17:25:53 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BUNT.",
+    "track_or_project_title": "TRIPPIN (Opera Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "BUNT. - TRIPPIN (Opera Edit)",
+    "source_article_url": "https://soundcloud.com/buntmusic/trippin-opera-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 66.01,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 80291,
+        "playback_count": 3846,
+        "likes_count": 329,
+        "reposts_count": 10
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 0.8174,
+        "track_plays": 0.5975,
+        "track_likes": 0.5037,
+        "track_reposts": 0.2603,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/buntmusic/trippin-opera-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312126183",
+      "soundcloud_user_id": "90730831",
+      "soundcloud_username": "BUNT.",
+      "soundcloud_profile_url": "https://soundcloud.com/buntmusic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Electronic | Electronic Pop | stutter house",
+      "followed_artist_edm_match_terms": "dance | electronic | house",
+      "followed_artist_followers_count": "80291",
+      "all_artists": "BUNT.",
+      "genre": "Dance",
+      "tag_list": "",
+      "label": "Arista Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "141000",
+      "playback_count": "3846",
+      "likes_count": "329",
+      "reposts_count": "10",
+      "created_at": "2026/04/30 14:12:02 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "2frers",
+    "track_or_project_title": "BE THERE WITH U [NCS Release]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "2frers - BE THERE WITH U [NCS Release]",
+    "source_article_url": "https://soundcloud.com/nocopyrightsounds/2frers-be-there-with-u-ncs?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 64.57,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 1547976,
+        "playback_count": 851,
+        "likes_count": 70,
+        "reposts_count": 10
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 1.0,
+        "track_plays": 0.4884,
+        "track_likes": 0.3703,
+        "track_reposts": 0.2603,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/nocopyrightsounds/2frers-be-there-with-u-ncs?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312146691",
+      "soundcloud_user_id": "16069159",
+      "soundcloud_username": "NCS",
+      "soundcloud_profile_url": "https://soundcloud.com/nocopyrightsounds?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Future Bass | UK Garage | Speed Garage | Drum & Bass | Witch House | Electronic",
+      "followed_artist_edm_match_terms": "bass | electronic | garage | house",
+      "followed_artist_followers_count": "1547976",
+      "all_artists": "2frers",
+      "genre": "",
+      "tag_list": "",
+      "label": "NCS",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "169692",
+      "playback_count": "851",
+      "likes_count": "70",
+      "reposts_count": "10",
+      "created_at": "2026/04/30 14:30:11 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Postcard, MNTRL, Sara Benyo",
+    "track_or_project_title": "back2u! [NCS Release]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Postcard, MNTRL, Sara Benyo - back2u! [NCS Release]",
+    "source_article_url": "https://soundcloud.com/nocopyrightsounds/postcard-mntrl-sara-benyo?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 64.51,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 1547976,
+        "playback_count": 2109,
+        "likes_count": 176,
+        "reposts_count": 27
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 1.0,
+        "track_plays": 0.554,
+        "track_likes": 0.4496,
+        "track_reposts": 0.3618,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/nocopyrightsounds/postcard-mntrl-sara-benyo?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310648272",
+      "soundcloud_user_id": "16069159",
+      "soundcloud_username": "NCS",
+      "soundcloud_profile_url": "https://soundcloud.com/nocopyrightsounds?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Future Bass | UK Garage | Speed Garage | Drum & Bass | Witch House | Electronic",
+      "followed_artist_edm_match_terms": "bass | electronic | garage | house",
+      "followed_artist_followers_count": "1547976",
+      "all_artists": "Postcard, MNTRL, Sara Benyo",
+      "genre": "Future Bass",
+      "tag_list": "",
+      "label": "NCS",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "246648",
+      "playback_count": "2109",
+      "likes_count": "176",
+      "reposts_count": "27",
+      "created_at": "2026/04/28 09:31:49 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Odd Mob",
+    "track_or_project_title": "Rock The Rhythm (I Like That) [feat. Luciana] (Extended Mix)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Odd Mob - Rock The Rhythm (I Like That) [feat. Luciana] (Extended Mix)",
+    "source_article_url": "https://soundcloud.com/oddmob/rock-the-rhythm-i-like-that?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 63.78,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 110562,
+        "playback_count": 34135,
+        "likes_count": 3019,
+        "reposts_count": 74
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 0.8406,
+        "track_plays": 0.7555,
+        "track_likes": 0.696,
+        "track_reposts": 0.4688,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/oddmob/rock-the-rhythm-i-like-that?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308355153",
+      "soundcloud_user_id": "34486918",
+      "soundcloud_username": "Odd Mob",
+      "soundcloud_profile_url": "https://soundcloud.com/oddmob?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Techno Rave \"Tech House\" \"Bass House\" EDM \"138 BPM\" Fierce \"Energetic | Techno \"Tech House\" \"Rave \" EDM \"128 BPM | Techno House \"Tech House\" \"Fierce \" \"Bass house \" EDM \"132 BPM | Melodic progressive \"minimal | House | Tech House\" \"Bass House\" Techno M.I.A Rave \"Energetic \" Fierce | Dance - Breaks",
+      "followed_artist_edm_match_terms": "bass | bass house | breaks | dance | edm | house | tech house | techno",
+      "followed_artist_followers_count": "110562",
+      "all_artists": "Odd Mob",
+      "genre": "Dance & EDM",
+      "tag_list": "Techno House \"Tech House\" \"Fierce \" \"Bass house \" EDM \"132 BPM\"",
+      "label": "October Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "218226",
+      "playback_count": "34135",
+      "likes_count": "3019",
+      "reposts_count": "74",
+      "created_at": "2026/04/24 04:33:35 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Becky Hill Official",
+    "track_or_project_title": ">>>hands on me<<<",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Becky Hill Official - >>>hands on me<<<",
+    "source_article_url": "https://soundcloud.com/becky-hill-official/hands-on-me-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-27",
+    "ranking_score": 63.45,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 6,
+        "artist_followers": 65337,
+        "playback_count": 14426,
+        "likes_count": 488,
+        "reposts_count": 18
+      },
+      "components": {
+        "recency": 0.5714,
+        "artist_followers": 0.8025,
+        "track_plays": 0.6932,
+        "track_likes": 0.5379,
+        "track_reposts": 0.3197,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/becky-hill-official/hands-on-me-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309971136",
+      "soundcloud_user_id": "19483220",
+      "soundcloud_username": "Becky Hill Official",
+      "soundcloud_profile_url": "https://soundcloud.com/becky-hill-official?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | House",
+      "followed_artist_edm_match_terms": "dance | house",
+      "followed_artist_followers_count": "65337",
+      "all_artists": "Becky Hill Official",
+      "genre": "Dance",
+      "tag_list": "",
+      "label": "Polydor Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "137561",
+      "playback_count": "14426",
+      "likes_count": "488",
+      "reposts_count": "18",
+      "created_at": "2026/04/27 10:21:53 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Odd Mob",
+    "track_or_project_title": "Dont Stop Make That Body Rock (Extended Mix)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Odd Mob - Dont Stop Make That Body Rock (Extended Mix)",
+    "source_article_url": "https://soundcloud.com/oddmob/dont-stop-make-that-body-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 62.73,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 110562,
+        "playback_count": 25070,
+        "likes_count": 2260,
+        "reposts_count": 60
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 0.8406,
+        "track_plays": 0.7332,
+        "track_likes": 0.6709,
+        "track_reposts": 0.4463,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/oddmob/dont-stop-make-that-body-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308357154",
+      "soundcloud_user_id": "34486918",
+      "soundcloud_username": "Odd Mob",
+      "soundcloud_profile_url": "https://soundcloud.com/oddmob?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Techno Rave \"Tech House\" \"Bass House\" EDM \"138 BPM\" Fierce \"Energetic | Techno \"Tech House\" \"Rave \" EDM \"128 BPM | Techno House \"Tech House\" \"Fierce \" \"Bass house \" EDM \"132 BPM | Melodic progressive \"minimal | House | Tech House\" \"Bass House\" Techno M.I.A Rave \"Energetic \" Fierce | Dance - Breaks",
+      "followed_artist_edm_match_terms": "bass | bass house | breaks | dance | edm | house | tech house | techno",
+      "followed_artist_followers_count": "110562",
+      "all_artists": "Odd Mob",
+      "genre": "Dance & EDM",
+      "tag_list": "Techno Rave \"Tech House\" \"Bass House\" EDM \"138 BPM\" Fierce \"Energetic \"",
+      "label": "October Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "222641",
+      "playback_count": "25070",
+      "likes_count": "2260",
+      "reposts_count": "60",
+      "created_at": "2026/04/24 04:40:13 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "MPH",
+    "track_or_project_title": "Unconditional",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "MPH - Unconditional",
+    "source_article_url": "https://soundcloud.com/mph-uk/unconditional-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 61.69,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 45730,
+        "playback_count": 18862,
+        "likes_count": 1933,
+        "reposts_count": 99
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 0.7767,
+        "track_plays": 0.7126,
+        "track_likes": 0.6573,
+        "track_reposts": 0.5,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/mph-uk/unconditional-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308545242",
+      "soundcloud_user_id": "69037974",
+      "soundcloud_username": "MPH",
+      "soundcloud_profile_url": "https://soundcloud.com/mph-uk?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "UKG | UKG \"Dance & EDM | Garage",
+      "followed_artist_edm_match_terms": "bass | dance | edm | garage | ukg",
+      "followed_artist_followers_count": "45730",
+      "all_artists": "MPH",
+      "genre": "UKG",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "180035",
+      "playback_count": "18862",
+      "likes_count": "1933",
+      "reposts_count": "99",
+      "created_at": "2026/04/24 13:45:08 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Arlo",
+    "track_or_project_title": "Nothing But You",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Arlo - Nothing But You",
+    "source_article_url": "https://soundcloud.com/arlobeets/nothing-but-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-05-01",
+    "ranking_score": 61.43,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 2,
+        "artist_followers": 3949,
+        "playback_count": 1118,
+        "likes_count": 141,
+        "reposts_count": 8
+      },
+      "components": {
+        "recency": 0.8571,
+        "artist_followers": 0.5994,
+        "track_plays": 0.5081,
+        "track_likes": 0.4305,
+        "track_reposts": 0.2386,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/arlobeets/nothing-but-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312583791",
+      "soundcloud_user_id": "903793981",
+      "soundcloud_username": "Arlo",
+      "soundcloud_profile_url": "https://soundcloud.com/arlobeets?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Dance",
+      "followed_artist_edm_match_terms": "dance | edm",
+      "followed_artist_followers_count": "3949",
+      "all_artists": "Arlo",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "191259",
+      "playback_count": "1118",
+      "likes_count": "141",
+      "reposts_count": "8",
+      "created_at": "2026/05/01 04:49:14 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Tame Impala",
+    "track_or_project_title": "Dracula (JENNIE Remix Instrumental)",
+    "release_type": "remix",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Tame Impala - Dracula (JENNIE Remix Instrumental)",
+    "source_article_url": "https://soundcloud.com/tame-impala/dracula-jennie-remix-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-29",
+    "ranking_score": 60.74,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 4,
+        "artist_followers": 438984,
+        "playback_count": 1031,
+        "likes_count": 69,
+        "reposts_count": 2
+      },
+      "components": {
+        "recency": 0.7143,
+        "artist_followers": 0.9404,
+        "track_plays": 0.5023,
+        "track_likes": 0.369,
+        "track_reposts": 0.1193,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/tame-impala/dracula-jennie-remix-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311658345",
+      "soundcloud_user_id": "5807211",
+      "soundcloud_username": "Tame Impala",
+      "soundcloud_profile_url": "https://soundcloud.com/tame-impala?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Alternative | Dance Indie",
+      "followed_artist_edm_match_terms": "dance",
+      "followed_artist_followers_count": "438984",
+      "all_artists": "Tame Impala",
+      "genre": "Alternative",
+      "tag_list": "Dance Indie",
+      "label": "Columbia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "209773",
+      "playback_count": "1031",
+      "likes_count": "69",
+      "reposts_count": "2",
+      "created_at": "2026/04/29 23:17:29 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Odd Mob",
+    "track_or_project_title": "Dancing Boys, Dancing Girls (Extended Mix)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Odd Mob - Dancing Boys, Dancing Girls (Extended Mix)",
+    "source_article_url": "https://soundcloud.com/oddmob/dancing-boys-dancing-girls-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 60.39,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 110562,
+        "playback_count": 13800,
+        "likes_count": 1104,
+        "reposts_count": 36
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 0.8406,
+        "track_plays": 0.69,
+        "track_likes": 0.6087,
+        "track_reposts": 0.392,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/oddmob/dancing-boys-dancing-girls-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308356233",
+      "soundcloud_user_id": "34486918",
+      "soundcloud_username": "Odd Mob",
+      "soundcloud_profile_url": "https://soundcloud.com/oddmob?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Techno Rave \"Tech House\" \"Bass House\" EDM \"138 BPM\" Fierce \"Energetic | Techno \"Tech House\" \"Rave \" EDM \"128 BPM | Techno House \"Tech House\" \"Fierce \" \"Bass house \" EDM \"132 BPM | Melodic progressive \"minimal | House | Tech House\" \"Bass House\" Techno M.I.A Rave \"Energetic \" Fierce | Dance - Breaks",
+      "followed_artist_edm_match_terms": "bass | bass house | breaks | dance | edm | house | tech house | techno",
+      "followed_artist_followers_count": "110562",
+      "all_artists": "Odd Mob",
+      "genre": "Dance & EDM",
+      "tag_list": "Techno \"Tech House\" \"Rave \" EDM \"128 BPM \"",
+      "label": "October Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "221570",
+      "playback_count": "13800",
+      "likes_count": "1104",
+      "reposts_count": "36",
+      "created_at": "2026/04/24 04:37:30 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Chris Lake",
+    "track_or_project_title": "Make You Fight",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Chris Lake - Make You Fight",
+    "source_article_url": "https://soundcloud.com/chrislake/make-you-fight?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-23",
+    "ranking_score": 59.38,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 10,
+        "artist_followers": 340214,
+        "playback_count": 8282,
+        "likes_count": 1097,
+        "reposts_count": 48
+      },
+      "components": {
+        "recency": 0.2857,
+        "artist_followers": 0.922,
+        "track_plays": 0.653,
+        "track_likes": 0.6081,
+        "track_reposts": 0.4225,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/chrislake/make-you-fight?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307705992",
+      "soundcloud_user_id": "118319",
+      "soundcloud_username": "Chris Lake",
+      "soundcloud_profile_url": "https://soundcloud.com/chrislake?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Tech House | Electronic | Tech House\" House | House",
+      "followed_artist_edm_match_terms": "electronic | house | tech house",
+      "followed_artist_followers_count": "340214",
+      "all_artists": "Chris Lake",
+      "genre": "Tech House",
+      "tag_list": "",
+      "label": "Black Book Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "175934",
+      "playback_count": "8282",
+      "likes_count": "1097",
+      "reposts_count": "48",
+      "created_at": "2026/04/23 10:21:14 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Eyezic",
+    "track_or_project_title": "POP DAT THANG (EYEZIC & CHRIZ JAVEY EDIT)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Eyezic - POP DAT THANG (EYEZIC & CHRIZ JAVEY EDIT)",
+    "source_article_url": "https://soundcloud.com/eyezic-music/pop-dat-thang-eyezic-chriz?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 58.6,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 12116,
+        "playback_count": 509,
+        "likes_count": 73,
+        "reposts_count": 6
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 0.6806,
+        "track_plays": 0.4513,
+        "track_likes": 0.3738,
+        "track_reposts": 0.2113,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/eyezic-music/pop-dat-thang-eyezic-chriz?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312389151",
+      "soundcloud_user_id": "251544187",
+      "soundcloud_username": "Eyezic",
+      "soundcloud_profile_url": "https://soundcloud.com/eyezic-music?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | electronic dance music edm pop dat | electronic dance music edm eyezic babsy | Electronic dance music edm \"Dance & EDM | ELECTRONIC DANCE MUSIC EDM | electronic dance music edm | Electronic dance music edm",
+      "followed_artist_edm_match_terms": "club | dance | edm | electronic",
+      "followed_artist_followers_count": "12116",
+      "all_artists": "Eyezic",
+      "genre": "Dance & EDM",
+      "tag_list": "electronic dance music edm pop dat",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "205714",
+      "playback_count": "509",
+      "likes_count": "73",
+      "reposts_count": "6",
+      "created_at": "2026/04/30 21:28:36 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Tsu Nami",
+    "track_or_project_title": "Alone (Dancing On My Own)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Tsu Nami - Alone (Dancing On My Own)",
+    "source_article_url": "https://soundcloud.com/tsunamimusicx/alone?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-27",
+    "ranking_score": 58.31,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 6,
+        "artist_followers": 11002,
+        "playback_count": 1818,
+        "likes_count": 256,
+        "reposts_count": 33
+      },
+      "components": {
+        "recency": 0.5714,
+        "artist_followers": 0.6736,
+        "track_plays": 0.5433,
+        "track_likes": 0.482,
+        "track_reposts": 0.3829,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/tsunamimusicx/alone?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310439502",
+      "soundcloud_user_id": "124902215",
+      "soundcloud_username": "Tsu Nami",
+      "soundcloud_profile_url": "https://soundcloud.com/tsunamimusicx?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | CLUB TSU | perfume \"tsu nami\" iaby | CLUBTSU | hardstyle | Hardstyle",
+      "followed_artist_edm_match_terms": "club | dance | edm",
+      "followed_artist_followers_count": "11002",
+      "all_artists": "Tsu Nami",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "197172",
+      "playback_count": "1818",
+      "likes_count": "256",
+      "reposts_count": "33",
+      "created_at": "2026/04/27 23:20:30 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Protocol Recordings",
+    "track_or_project_title": "Run To You (Extended Mix)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Protocol Recordings - Run To You (Extended Mix)",
+    "source_article_url": "https://soundcloud.com/protocolrecordings/run-to-you-extended-mix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 58.25,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 170278,
+        "playback_count": 164,
+        "likes_count": 24,
+        "reposts_count": 5
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 0.8719,
+        "track_plays": 0.3696,
+        "track_likes": 0.2796,
+        "track_reposts": 0.1945,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/protocolrecordings/run-to-you-extended-mix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312197352",
+      "soundcloud_user_id": "13909117",
+      "soundcloud_username": "Protocol Recordings",
+      "soundcloud_profile_url": "https://soundcloud.com/protocolrecordings?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Progressive House | Electro House | Dance-Pop",
+      "followed_artist_edm_match_terms": "dance | house | progressive house",
+      "followed_artist_followers_count": "170278",
+      "all_artists": "Protocol Recordings",
+      "genre": "Dance",
+      "tag_list": "\"Progressive House\"",
+      "label": "Protocol Recordings",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "260624",
+      "playback_count": "164",
+      "likes_count": "24",
+      "reposts_count": "5",
+      "created_at": "2026/04/30 16:19:11 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Alesso",
+    "track_or_project_title": "FADE (TOO BIASED Remix)",
+    "release_type": "remix",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Alesso - FADE (TOO BIASED Remix)",
+    "source_article_url": "https://soundcloud.com/alesso/fade-too-biased-remix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 57.48,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 741578,
+        "playback_count": 1766,
+        "likes_count": 268,
+        "reposts_count": 31
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 0.9784,
+        "track_plays": 0.5412,
+        "track_likes": 0.486,
+        "track_reposts": 0.3763,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/alesso/fade-too-biased-remix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308368518",
+      "soundcloud_user_id": "1953860",
+      "soundcloud_username": "Alesso",
+      "soundcloud_profile_url": "https://soundcloud.com/alesso?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance",
+      "followed_artist_edm_match_terms": "dance",
+      "followed_artist_followers_count": "741578",
+      "all_artists": "Alesso",
+      "genre": "Dance",
+      "tag_list": "",
+      "label": "Capitol Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "163200",
+      "playback_count": "1766",
+      "likes_count": "268",
+      "reposts_count": "31",
+      "created_at": "2026/04/24 05:16:59 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "The Chainsmokers",
+    "track_or_project_title": "Already Know",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "The Chainsmokers - Already Know",
+    "source_article_url": "https://soundcloud.com/thechainsmokers/already-know?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-21",
+    "ranking_score": 57.44,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 12,
+        "artist_followers": 1317793,
+        "playback_count": 14427,
+        "likes_count": 872,
+        "reposts_count": 46
+      },
+      "components": {
+        "recency": 0.1429,
+        "artist_followers": 1.0,
+        "track_plays": 0.6932,
+        "track_likes": 0.5882,
+        "track_reposts": 0.418,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/thechainsmokers/already-know?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306325449",
+      "soundcloud_user_id": "1642029",
+      "soundcloud_username": "The Chainsmokers",
+      "soundcloud_profile_url": "https://soundcloud.com/thechainsmokers?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Pop | Dance & EDM | Techno",
+      "followed_artist_edm_match_terms": "dance | edm | techno",
+      "followed_artist_followers_count": "1317793",
+      "all_artists": "The Chainsmokers",
+      "genre": "Dance",
+      "tag_list": "Pop",
+      "label": "Disruptor Records/Columbia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "157361",
+      "playback_count": "14427",
+      "likes_count": "872",
+      "reposts_count": "46",
+      "created_at": "2026/04/21 00:31:00 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "if found",
+    "track_or_project_title": "checkup",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "if found - checkup",
+    "source_article_url": "https://soundcloud.com/iffoundmusic/checkup?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-29",
+    "ranking_score": 56.87,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 4,
+        "artist_followers": 7250,
+        "playback_count": 362,
+        "likes_count": 71,
+        "reposts_count": 19
+      },
+      "components": {
+        "recency": 0.7143,
+        "artist_followers": 0.6434,
+        "track_plays": 0.4267,
+        "track_likes": 0.3715,
+        "track_reposts": 0.3253,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/iffoundmusic/checkup?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311457558",
+      "soundcloud_user_id": "6907854",
+      "soundcloud_username": "if found",
+      "soundcloud_profile_url": "https://soundcloud.com/iffoundmusic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Trap | Dubstep Electronic | Electronic | Electronic Trap | trap remix\" \"edm trap",
+      "followed_artist_edm_match_terms": "dubstep | edm | electronic | trap",
+      "followed_artist_followers_count": "7250",
+      "all_artists": "if found",
+      "genre": "Trap",
+      "tag_list": "Dubstep Electronic",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "162206",
+      "playback_count": "362",
+      "likes_count": "71",
+      "reposts_count": "19",
+      "created_at": "2026/04/29 16:25:44 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Drake",
+    "track_or_project_title": "TIme Flies (Babsy. Flip)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Drake - TIme Flies (Babsy. Flip)",
+    "source_article_url": "https://soundcloud.com/babsymusic/drake-time-flies-babsy-flip?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 56.51,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 5042,
+        "playback_count": 514,
+        "likes_count": 48,
+        "reposts_count": 3
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 0.6171,
+        "track_plays": 0.452,
+        "track_likes": 0.338,
+        "track_reposts": 0.1505,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/babsymusic/drake-time-flies-babsy-flip?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311795247",
+      "soundcloud_user_id": "123944763",
+      "soundcloud_username": "Babsy.",
+      "soundcloud_profile_url": "https://soundcloud.com/babsymusic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dubstep | edm dubstep bassmusic remix | Dance & EDM | ukg garage \"speed garage \" \"pink pantheress | edm \"in color\" headlights \"dance music\" melodic \"future bass | dubstep griz whethan edm dancemusic | Electronic | flume \"olivia dean\" edm \"dance music\" happy love ukg | dom dolla | Drum & Bass | edm \" dnb \"drum and \" \"liquid dnb",
+      "followed_artist_edm_match_terms": "bass | dance | dnb | dubstep | edm | electronic | garage | ukg",
+      "followed_artist_followers_count": "5042",
+      "all_artists": "Drake",
+      "genre": "Dubstep",
+      "tag_list": "edm dubstep bassmusic remix",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "144000",
+      "playback_count": "514",
+      "likes_count": "48",
+      "reposts_count": "3",
+      "created_at": "2026/04/30 05:04:37 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "jend",
+    "track_or_project_title": "Sudden Turn",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "jend - Sudden Turn",
+    "source_article_url": "https://soundcloud.com/jendbeats/jend-sudden-turn?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 54.77,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 4350,
+        "playback_count": 245,
+        "likes_count": 32,
+        "reposts_count": 3
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 0.6064,
+        "track_plays": 0.3985,
+        "track_likes": 0.3037,
+        "track_reposts": 0.1505,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/jendbeats/jend-sudden-turn?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312407151",
+      "soundcloud_user_id": "224119482",
+      "soundcloud_username": "jend",
+      "soundcloud_profile_url": "https://soundcloud.com/jendbeats?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "House",
+      "followed_artist_edm_match_terms": "house",
+      "followed_artist_followers_count": "4350",
+      "all_artists": "jend",
+      "genre": "House",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "134187",
+      "playback_count": "245",
+      "likes_count": "32",
+      "reposts_count": "3",
+      "created_at": "2026/04/30 21:54:53 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "FUZION",
+    "track_or_project_title": "SANTA FE",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "FUZION - SANTA FE",
+    "source_article_url": "https://soundcloud.com/fuzionukg/santa-fe?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 54.72,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 3987,
+        "playback_count": 775,
+        "likes_count": 92,
+        "reposts_count": 6
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 0.6001,
+        "track_plays": 0.4816,
+        "track_likes": 0.3937,
+        "track_reposts": 0.2113,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/fuzionukg/santa-fe?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311035245",
+      "soundcloud_user_id": "1515104344",
+      "soundcloud_username": "FUZION",
+      "soundcloud_profile_url": "https://soundcloud.com/fuzionukg?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Electronic | House",
+      "followed_artist_edm_match_terms": "dance | electronic | house",
+      "followed_artist_followers_count": "3987",
+      "all_artists": "FUZION",
+      "genre": "Dance",
+      "tag_list": "",
+      "label": "AAO Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "137245",
+      "playback_count": "775",
+      "likes_count": "92",
+      "reposts_count": "6",
+      "created_at": "2026/04/28 22:13:48 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Joel Corry & RAHH",
+    "track_or_project_title": "Devotion (VIP Mix) [FREE DOWNLOAD]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Joel Corry & RAHH - Devotion (VIP Mix) [FREE DOWNLOAD]",
+    "source_article_url": "https://soundcloud.com/joelcorry/devotionvip?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-22",
+    "ranking_score": 53.84,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 11,
+        "artist_followers": 100038,
+        "playback_count": 2555,
+        "likes_count": 269,
+        "reposts_count": 134
+      },
+      "components": {
+        "recency": 0.2143,
+        "artist_followers": 0.8334,
+        "track_plays": 0.5679,
+        "track_likes": 0.4863,
+        "track_reposts": 0.5326,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/joelcorry/devotionvip?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307243668",
+      "soundcloud_user_id": "15126749",
+      "soundcloud_username": "Joel Corry",
+      "soundcloud_profile_url": "https://soundcloud.com/joelcorry?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Dance | House",
+      "followed_artist_edm_match_terms": "club | dance | edm | house",
+      "followed_artist_followers_count": "100038",
+      "all_artists": "Joel Corry & RAHH",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "150047",
+      "playback_count": "2555",
+      "likes_count": "269",
+      "reposts_count": "134",
+      "created_at": "2026/04/22 15:33:36 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Sonny Fodera",
+    "track_or_project_title": "My Loving (Chrystal Remix)",
+    "release_type": "remix",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Sonny Fodera - My Loving (Chrystal Remix)",
+    "source_article_url": "https://soundcloud.com/sonnyfodera/my-loving-chrystal-remix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-22",
+    "ranking_score": 53.79,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 11,
+        "artist_followers": 212664,
+        "playback_count": 6023,
+        "likes_count": 376,
+        "reposts_count": 12
+      },
+      "components": {
+        "recency": 0.2143,
+        "artist_followers": 0.8879,
+        "track_plays": 0.63,
+        "track_likes": 0.5153,
+        "track_reposts": 0.2785,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/sonnyfodera/my-loving-chrystal-remix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307351365",
+      "soundcloud_user_id": "47486",
+      "soundcloud_username": "Sonny Fodera",
+      "soundcloud_profile_url": "https://soundcloud.com/sonnyfodera?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | House | Dance & EDM | SonnyFodera Dance MyLoving",
+      "followed_artist_edm_match_terms": "dance | edm | house",
+      "followed_artist_followers_count": "212664",
+      "all_artists": "Sonny Fodera",
+      "genre": "Dance",
+      "tag_list": "House",
+      "label": "Solotoko",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "215666",
+      "playback_count": "6023",
+      "likes_count": "376",
+      "reposts_count": "12",
+      "created_at": "2026/04/22 19:20:29 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Cosmo's Midnight",
+    "track_or_project_title": "I Don't Wanna Stop (Club Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Cosmo's Midnight - I Don't Wanna Stop (Club Edit)",
+    "source_article_url": "https://soundcloud.com/cosmosmidnight/i-dont-wanna-stop-club-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 52.89,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 91566,
+        "playback_count": 149,
+        "likes_count": 20,
+        "reposts_count": 2
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 0.827,
+        "track_plays": 0.3627,
+        "track_likes": 0.2644,
+        "track_reposts": 0.1193,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cosmosmidnight/i-dont-wanna-stop-club-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310796397",
+      "soundcloud_user_id": "967874",
+      "soundcloud_username": "Cosmo's Midnight",
+      "soundcloud_profile_url": "https://soundcloud.com/cosmosmidnight?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance - House | Dance - Melodic House & Techno | Electronic | Electropop | House | Dancehall | UKG | Dance | R&B | Other",
+      "followed_artist_edm_match_terms": "dance | electronic | house | melodic house | techno | ukg",
+      "followed_artist_followers_count": "91566",
+      "all_artists": "Cosmo's Midnight",
+      "genre": "Dance - House",
+      "tag_list": "\"Dance - Melodic House & Techno\"",
+      "label": "All Ways Dance",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "236468",
+      "playback_count": "149",
+      "likes_count": "20",
+      "reposts_count": "2",
+      "created_at": "2026/04/28 14:34:06 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Rivasᵁˢᴬ",
+    "track_or_project_title": "Yes Indeed (Rivas 'Loaded Gun' 2026 VIP Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Rivasᵁˢᴬ - Yes Indeed (Rivas 'Loaded Gun' 2026 VIP Edit)",
+    "source_article_url": "https://soundcloud.com/djrivas/yesindeed?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-23",
+    "ranking_score": 52.87,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 10,
+        "artist_followers": 76318,
+        "playback_count": 1426,
+        "likes_count": 159,
+        "reposts_count": 56
+      },
+      "components": {
+        "recency": 0.2857,
+        "artist_followers": 0.8138,
+        "track_plays": 0.5257,
+        "track_likes": 0.4408,
+        "track_reposts": 0.439,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/djrivas/yesindeed?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307528440",
+      "soundcloud_user_id": "1453252",
+      "soundcloud_username": "Rivasᵁˢᴬ",
+      "soundcloud_profile_url": "https://soundcloud.com/djrivas?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | happy \" \"high energy \" \"workout | dance pop uk edm fun remix alex warren | Strangers by Seven Lions | Myon | Shane 54 and Tove Lo",
+      "followed_artist_edm_match_terms": "dance | edm",
+      "followed_artist_followers_count": "76318",
+      "all_artists": "Rivasᵁˢᴬ",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "267990",
+      "playback_count": "1426",
+      "likes_count": "159",
+      "reposts_count": "56",
+      "created_at": "2026/04/23 02:30:04 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "DVBBS x JAKK RINSE",
+    "track_or_project_title": "Stay Tonight (Preview)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "DVBBS x JAKK RINSE - Stay Tonight (Preview)",
+    "source_article_url": "https://soundcloud.com/dvbbs/dvbbs-x-jakk-rinse-stay?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-20",
+    "ranking_score": 52.73,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 13,
+        "artist_followers": 446535,
+        "playback_count": 10739,
+        "likes_count": 536,
+        "reposts_count": 18
+      },
+      "components": {
+        "recency": 0.0714,
+        "artist_followers": 0.9416,
+        "track_plays": 0.6718,
+        "track_likes": 0.546,
+        "track_reposts": 0.3197,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/dvbbs/dvbbs-x-jakk-rinse-stay?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306101127",
+      "soundcloud_user_id": "4152527",
+      "soundcloud_username": "DVBBS",
+      "soundcloud_profile_url": "https://soundcloud.com/dvbbs?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance - House | Dance | UK Garage | Progressive House",
+      "followed_artist_edm_match_terms": "dance | garage | house | progressive house",
+      "followed_artist_followers_count": "446535",
+      "all_artists": "DVBBS x JAKK RINSE",
+      "genre": "",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "34742",
+      "playback_count": "10739",
+      "likes_count": "536",
+      "reposts_count": "18",
+      "created_at": "2026/04/20 17:28:10 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Spinnin' Records",
+    "track_or_project_title": "New Music Friday Mini-Mix 18",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Spinnin' Records - New Music Friday Mini-Mix 18",
+    "source_article_url": "https://soundcloud.com/spinninrecords/new-music-friday-mini-mix-18?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 52.22,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 1811131,
+        "playback_count": 1083,
+        "likes_count": 35,
+        "reposts_count": 3
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 1.0,
+        "track_plays": 0.5058,
+        "track_likes": 0.3113,
+        "track_reposts": 0.1505,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/spinninrecords/new-music-friday-mini-mix-18?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308461899",
+      "soundcloud_user_id": "175766",
+      "soundcloud_username": "Spinnin' Records",
+      "soundcloud_profile_url": "https://soundcloud.com/spinninrecords?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Dance & EDM\" Electronic House \"Deep House\" Techno | Dance & EDM\" Techno \"Deep House\" House Electronic | Dance & EDM\" Electronic Techno House \"Deep House\" mainstage | Dance & EDM\" Electronic Techno House \"Deep House | Dance & EDM\" Techno house \"Deep House\" Electronic | Dance & EDM\" House \"Deep House\" Techno Electronic | Dance & EDM\" House \"Deep House\" Electronic Techno",
+      "followed_artist_edm_match_terms": "dance | deep house | edm | electronic | house | techno",
+      "followed_artist_followers_count": "1811131",
+      "all_artists": "Spinnin' Records",
+      "genre": "Dance & EDM",
+      "tag_list": "\"Dance & EDM\" Techno \"Deep House\" House Electronic",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "398550",
+      "playback_count": "1083",
+      "likes_count": "35",
+      "reposts_count": "3",
+      "created_at": "2026/04/24 10:20:11 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "ILLENIUM",
+    "track_or_project_title": "Die Living (Back Road Version) [feat. David Guetta]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "ILLENIUM - Die Living (Back Road Version) [feat. David Guetta]",
+    "source_article_url": "https://soundcloud.com/illeniumofficial/die-living-back-road-version?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-21",
+    "ranking_score": 52.1,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 12,
+        "artist_followers": 608378,
+        "playback_count": 3146,
+        "likes_count": 277,
+        "reposts_count": 16
+      },
+      "components": {
+        "recency": 0.1429,
+        "artist_followers": 0.964,
+        "track_plays": 0.583,
+        "track_likes": 0.4888,
+        "track_reposts": 0.3076,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/illeniumofficial/die-living-back-road-version?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306565191",
+      "soundcloud_user_id": "27111815",
+      "soundcloud_username": "ILLENIUM",
+      "soundcloud_profile_url": "https://soundcloud.com/illeniumofficial?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Dance & EDM",
+      "followed_artist_edm_match_terms": "bass | dance | edm | electronic",
+      "followed_artist_followers_count": "608378",
+      "all_artists": "ILLENIUM",
+      "genre": "Dance",
+      "tag_list": "",
+      "label": "Illenium, LLC",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "172564",
+      "playback_count": "3146",
+      "likes_count": "277",
+      "reposts_count": "16",
+      "created_at": "2026/04/21 13:11:03 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Marc Shoals",
+    "track_or_project_title": "Chanel x David Guetta/Hypaton (Marc Shoals Progressive Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Marc Shoals - Chanel x David Guetta/Hypaton (Marc Shoals Progressive Edit)",
+    "source_article_url": "https://soundcloud.com/marcshoals/chanelprogressiveedit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-29",
+    "ranking_score": 51.54,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 4,
+        "artist_followers": 667,
+        "playback_count": 525,
+        "likes_count": 13,
+        "reposts_count": 6
+      },
+      "components": {
+        "recency": 0.7143,
+        "artist_followers": 0.4708,
+        "track_plays": 0.4535,
+        "track_likes": 0.2292,
+        "track_reposts": 0.2113,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/marcshoals/chanelprogressiveedit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311102709",
+      "soundcloud_user_id": "115124622",
+      "soundcloud_username": "Marc Shoals",
+      "soundcloud_profile_url": "https://soundcloud.com/marcshoals?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Electronic mashup freedownload | Dance & EDM\" melodic House | Dance & EDM\" \"Progressive house\" \"Big room\" mashup 2016 | Electronic | discolines futurebass \"Dance & EDM\" freedownload | Dance & EDM\" twofriends gryffin excision freedownload | Dance & EDM\" freedownload editpack mashuppack remix | House | Dance & EDM\" House \"Deep House\" liveset | progressive house\" 2010 bigroom \"Dance & EDM\" freedownload | futurebass \"Dance & EDM\" \" happy | Dance & EDM\" remix bigroom mainstage freedownload edit",
+      "followed_artist_edm_match_terms": "bass | dance | deep house | edm | electronic | house | melodic house | progressive house",
+      "followed_artist_followers_count": "667",
+      "all_artists": "Marc Shoals",
+      "genre": "Dance & EDM",
+      "tag_list": "Electronic mashup freedownload",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "153600",
+      "playback_count": "525",
+      "likes_count": "13",
+      "reposts_count": "6",
+      "created_at": "2026/04/29 00:42:06 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "SIDEPIECE",
+    "track_or_project_title": "Function (OUT NOW)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "SIDEPIECE - Function (OUT NOW)",
+    "source_article_url": "https://soundcloud.com/sidepiece/sidepiece-function-out-now?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-21",
+    "ranking_score": 51.31,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 12,
+        "artist_followers": 56796,
+        "playback_count": 3886,
+        "likes_count": 604,
+        "reposts_count": 25
+      },
+      "components": {
+        "recency": 0.1429,
+        "artist_followers": 0.7924,
+        "track_plays": 0.5983,
+        "track_likes": 0.5564,
+        "track_reposts": 0.3537,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/sidepiece/sidepiece-function-out-now?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306346569",
+      "soundcloud_user_id": "647038533",
+      "soundcloud_username": "SIDEPIECE",
+      "soundcloud_profile_url": "https://soundcloud.com/sidepiece?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "House | Techhouse \"SIDEPIECE | Tech house \" \"House music | Dubstep | Remix Sidepiece | Tech house \" \"House music \" NYC Sidepiece DJLC \"DJ Lover Club\" \"We Belong Here\" \"New York | Tech House\" \"House music \" september \"Cry for you \" sidepiece",
+      "followed_artist_edm_match_terms": "club | dubstep | house | tech house",
+      "followed_artist_followers_count": "56796",
+      "all_artists": "SIDEPIECE",
+      "genre": "House",
+      "tag_list": "Techhouse \"SIDEPIECE \"",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "173818",
+      "playback_count": "3886",
+      "likes_count": "604",
+      "reposts_count": "25",
+      "created_at": "2026/04/21 01:36:48 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "nowifi x `Enny-Mae",
+    "track_or_project_title": "Chaos",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "nowifi x `Enny-Mae - Chaos",
+    "source_article_url": "https://soundcloud.com/nowifimusic/chaos?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 51.1,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 10511,
+        "playback_count": 3665,
+        "likes_count": 109,
+        "reposts_count": 6
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 0.6703,
+        "track_plays": 0.594,
+        "track_likes": 0.4083,
+        "track_reposts": 0.2113,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/nowifimusic/chaos?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308500404",
+      "soundcloud_user_id": "412060683",
+      "soundcloud_username": "nowifi",
+      "soundcloud_profile_url": "https://soundcloud.com/nowifimusic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "House | uk house\" \"piano house\" dance edm | Drum & Bass | dnb \"liquid dnb | House mashup electronic dance | Electronic | speed garage\" house | Euphoric Piano House | UK House\" \"piano house\" \"euphoric edm\" \"euphoric house | Speed House | UK Garage\" ukg house | speed house\" \"piano house\" \"uk house\" ukg \"uk garage | Trance Techno \"uk house\" \"nina chuba\" house \"piano house\" ukg nowifi Remix",
+      "followed_artist_edm_match_terms": "bass | dance | dnb | edm | electronic | garage | house | techno | trance | ukg",
+      "followed_artist_followers_count": "10511",
+      "all_artists": "nowifi x `Enny-Mae",
+      "genre": "House",
+      "tag_list": "\"uk house\" \"piano house\" dance edm",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "144039",
+      "playback_count": "3665",
+      "likes_count": "109",
+      "reposts_count": "6",
+      "created_at": "2026/04/24 12:17:12 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "rux",
+    "track_or_project_title": "RYUKETSU",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "rux - RYUKETSU",
+    "source_article_url": "https://soundcloud.com/rux99/ryuketsu?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-30",
+    "ranking_score": 50.78,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 3,
+        "artist_followers": 651,
+        "playback_count": 199,
+        "likes_count": 11,
+        "reposts_count": 2
+      },
+      "components": {
+        "recency": 0.7857,
+        "artist_followers": 0.469,
+        "track_plays": 0.3835,
+        "track_likes": 0.2158,
+        "track_reposts": 0.1193,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/rux99/ryuketsu?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312420384",
+      "soundcloud_user_id": "805024267",
+      "soundcloud_username": "rux",
+      "soundcloud_profile_url": "https://soundcloud.com/rux99?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Electronic | kylebeats | Trap | moonboy matrix singular speedcore rawcore hardstyle tearout \"color bass\" orchestral metal | Hyperbounce",
+      "followed_artist_edm_match_terms": "bass | electronic | trap",
+      "followed_artist_followers_count": "651",
+      "all_artists": "rux",
+      "genre": "",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "109479",
+      "playback_count": "199",
+      "likes_count": "11",
+      "reposts_count": "2",
+      "created_at": "2026/04/30 22:23:15 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Mura Masa",
+    "track_or_project_title": "Tiroteo",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Mura Masa - Tiroteo",
+    "source_article_url": "https://soundcloud.com/muramasamusic/tiroteo?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-21",
+    "ranking_score": 50.61,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 12,
+        "artist_followers": 358147,
+        "playback_count": 1800,
+        "likes_count": 205,
+        "reposts_count": 21
+      },
+      "components": {
+        "recency": 0.1429,
+        "artist_followers": 0.9257,
+        "track_plays": 0.5426,
+        "track_likes": 0.4628,
+        "track_reposts": 0.3356,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/muramasamusic/tiroteo?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306582540",
+      "soundcloud_user_id": "27059681",
+      "soundcloud_username": "Mura Masa",
+      "soundcloud_profile_url": "https://soundcloud.com/muramasamusic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Latin Music | Latin | Dance | Dance - House | Electronic - Trap | Future Bass",
+      "followed_artist_edm_match_terms": "bass | dance | electronic | house | trap",
+      "followed_artist_followers_count": "358147",
+      "all_artists": "Mura Masa",
+      "genre": "Latin Music",
+      "tag_list": "Latin",
+      "label": "The Orchard / Inferno",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "137508",
+      "playback_count": "1800",
+      "likes_count": "205",
+      "reposts_count": "21",
+      "created_at": "2026/04/21 13:21:09 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "5STARRR",
+    "track_or_project_title": "ZHU with THEY.",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "5STARRR - ZHU with THEY.",
+    "source_article_url": "https://soundcloud.com/zhu/5starrr-zhu-with-they?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-22",
+    "ranking_score": 49.66,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 11,
+        "artist_followers": 465359,
+        "playback_count": 1822,
+        "likes_count": 68,
+        "reposts_count": 4
+      },
+      "components": {
+        "recency": 0.2143,
+        "artist_followers": 0.9446,
+        "track_plays": 0.5435,
+        "track_likes": 0.3678,
+        "track_reposts": 0.1747,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/zhu/5starrr-zhu-with-they?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307336422",
+      "soundcloud_user_id": "80395241",
+      "soundcloud_username": "ZHU",
+      "soundcloud_profile_url": "https://soundcloud.com/zhu?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Deep House",
+      "followed_artist_edm_match_terms": "dance | deep house | house",
+      "followed_artist_followers_count": "465359",
+      "all_artists": "5STARRR",
+      "genre": "",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "24111",
+      "playback_count": "1822",
+      "likes_count": "68",
+      "reposts_count": "4",
+      "created_at": "2026/04/22 18:52:25 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Cyazon",
+    "track_or_project_title": "Voyage [NCS Release]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Cyazon - Voyage [NCS Release]",
+    "source_article_url": "https://soundcloud.com/nocopyrightsounds/cyazon-voyage-ncs-release?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-20",
+    "ranking_score": 49.14,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 13,
+        "artist_followers": 1547976,
+        "playback_count": 2106,
+        "likes_count": 105,
+        "reposts_count": 18
+      },
+      "components": {
+        "recency": 0.0714,
+        "artist_followers": 1.0,
+        "track_plays": 0.5539,
+        "track_likes": 0.4051,
+        "track_reposts": 0.3197,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/nocopyrightsounds/cyazon-voyage-ncs-release?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306173982",
+      "soundcloud_user_id": "16069159",
+      "soundcloud_username": "NCS",
+      "soundcloud_profile_url": "https://soundcloud.com/nocopyrightsounds?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Future Bass | UK Garage | Speed Garage | Drum & Bass | Witch House | Electronic",
+      "followed_artist_edm_match_terms": "bass | electronic | garage | house",
+      "followed_artist_followers_count": "1547976",
+      "all_artists": "Cyazon",
+      "genre": "",
+      "tag_list": "",
+      "label": "NCS",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "187663",
+      "playback_count": "2106",
+      "likes_count": "105",
+      "reposts_count": "18",
+      "created_at": "2026/04/20 19:51:14 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "The Chainsmokers",
+    "track_or_project_title": "Already Know (Extended Version)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "The Chainsmokers - Already Know (Extended Version)",
+    "source_article_url": "https://soundcloud.com/thechainsmokers/already-know-extended-version?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-20",
+    "ranking_score": 48.47,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 13,
+        "artist_followers": 1317793,
+        "playback_count": 1053,
+        "likes_count": 125,
+        "reposts_count": 20
+      },
+      "components": {
+        "recency": 0.0714,
+        "artist_followers": 1.0,
+        "track_plays": 0.5038,
+        "track_likes": 0.4201,
+        "track_reposts": 0.3306,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/thechainsmokers/already-know-extended-version?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306307635",
+      "soundcloud_user_id": "1642029",
+      "soundcloud_username": "The Chainsmokers",
+      "soundcloud_profile_url": "https://soundcloud.com/thechainsmokers?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Pop | Dance & EDM | Techno",
+      "followed_artist_edm_match_terms": "dance | edm | techno",
+      "followed_artist_followers_count": "1317793",
+      "all_artists": "The Chainsmokers",
+      "genre": "Dance",
+      "tag_list": "Pop",
+      "label": "Disruptor Records/Columbia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "209815",
+      "playback_count": "1053",
+      "likes_count": "125",
+      "reposts_count": "20",
+      "created_at": "2026/04/20 23:56:05 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "R3HAB",
+    "track_or_project_title": "Watch my heart go...",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "R3HAB - Watch my heart go...",
+    "source_article_url": "https://soundcloud.com/r3hab/watch-my-heart-go?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-21",
+    "ranking_score": 48.12,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 12,
+        "artist_followers": 3938669,
+        "playback_count": 973,
+        "likes_count": 66,
+        "reposts_count": 6
+      },
+      "components": {
+        "recency": 0.1429,
+        "artist_followers": 1.0,
+        "track_plays": 0.4981,
+        "track_likes": 0.3652,
+        "track_reposts": 0.2113,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/r3hab/watch-my-heart-go?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306583413",
+      "soundcloud_user_id": "351064",
+      "soundcloud_username": "R3HAB",
+      "soundcloud_profile_url": "https://soundcloud.com/r3hab?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Electronic | Melodic House & Techno | Dance-Pop",
+      "followed_artist_edm_match_terms": "dance | electronic | house | melodic house | techno",
+      "followed_artist_followers_count": "3938669",
+      "all_artists": "R3HAB",
+      "genre": "Dance",
+      "tag_list": "",
+      "label": "Island Berlin",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "185495",
+      "playback_count": "973",
+      "likes_count": "66",
+      "reposts_count": "6",
+      "created_at": "2026/04/21 13:21:43 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Pat",
+    "track_or_project_title": "Shotgun [NCS Release]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Pat - Shotgun [NCS Release]",
+    "source_article_url": "https://soundcloud.com/nocopyrightsounds/pat-shotgun-ncs-release?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-20",
+    "ranking_score": 47.92,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 13,
+        "artist_followers": 1547976,
+        "playback_count": 1815,
+        "likes_count": 83,
+        "reposts_count": 9
+      },
+      "components": {
+        "recency": 0.0714,
+        "artist_followers": 1.0,
+        "track_plays": 0.5432,
+        "track_likes": 0.3849,
+        "track_reposts": 0.25,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/nocopyrightsounds/pat-shotgun-ncs-release?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2306177927",
+      "soundcloud_user_id": "16069159",
+      "soundcloud_username": "NCS",
+      "soundcloud_profile_url": "https://soundcloud.com/nocopyrightsounds?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Future Bass | UK Garage | Speed Garage | Drum & Bass | Witch House | Electronic",
+      "followed_artist_edm_match_terms": "bass | electronic | garage | house",
+      "followed_artist_followers_count": "1547976",
+      "all_artists": "Pat",
+      "genre": "UK Garage",
+      "tag_list": "",
+      "label": "NCS",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "125622",
+      "playback_count": "1815",
+      "likes_count": "83",
+      "reposts_count": "9",
+      "created_at": "2026/04/20 19:57:44 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Moon Boots",
+    "track_or_project_title": "Get On Up (Radio Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Moon Boots - Get On Up (Radio Edit)",
+    "source_article_url": "https://soundcloud.com/moonbootsmusic/get-on-up-radio-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-22",
+    "ranking_score": 47.35,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 11,
+        "artist_followers": 123609,
+        "playback_count": 866,
+        "likes_count": 60,
+        "reposts_count": 6
+      },
+      "components": {
+        "recency": 0.2143,
+        "artist_followers": 0.8487,
+        "track_plays": 0.4897,
+        "track_likes": 0.3571,
+        "track_reposts": 0.2113,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/moonbootsmusic/get-on-up-radio-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307237329",
+      "soundcloud_user_id": "4851683",
+      "soundcloud_username": "Moon Boots",
+      "soundcloud_profile_url": "https://soundcloud.com/moonbootsmusic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance - Funky | Groove | Jackin' House | Electronic | Mix | Freestyle House | 80s Synth \"Latin Freestyle\" House \"Pool Party | Dance - House | Moon Boots\" \"Ride Away (Remixed)\" Anjunadeep",
+      "followed_artist_edm_match_terms": "dance | electronic | house",
+      "followed_artist_followers_count": "123609",
+      "all_artists": "Moon Boots",
+      "genre": "Dance - Funky / Groove / Jackin' House",
+      "tag_list": "",
+      "label": "Jackies Music Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "241684",
+      "playback_count": "866",
+      "likes_count": "60",
+      "reposts_count": "6",
+      "created_at": "2026/04/22 15:16:56 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "demotapes",
+    "track_or_project_title": "END OF TIME (with Clearcast)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "demotapes - END OF TIME (with Clearcast)",
+    "source_article_url": "https://soundcloud.com/itsdemotapes/end-of-time-with-clearcast?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-22",
+    "ranking_score": 46.07,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 11,
+        "artist_followers": 5580,
+        "playback_count": 1141,
+        "likes_count": 124,
+        "reposts_count": 13
+      },
+      "components": {
+        "recency": 0.2143,
+        "artist_followers": 0.6245,
+        "track_plays": 0.5096,
+        "track_likes": 0.4194,
+        "track_reposts": 0.2865,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/itsdemotapes/end-of-time-with-clearcast?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307067277",
+      "soundcloud_user_id": "1708673",
+      "soundcloud_username": "demotapes",
+      "soundcloud_profile_url": "https://soundcloud.com/itsdemotapes?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM",
+      "followed_artist_edm_match_terms": "dance | edm",
+      "followed_artist_followers_count": "5580",
+      "all_artists": "demotapes",
+      "genre": "",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "166817",
+      "playback_count": "1141",
+      "likes_count": "124",
+      "reposts_count": "13",
+      "created_at": "2026/04/22 06:57:23 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Protocol Recordings",
+    "track_or_project_title": "Run To You",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Protocol Recordings - Run To You",
+    "source_article_url": "https://soundcloud.com/protocolrecordings/run-to-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-22",
+    "ranking_score": 44.51,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 11,
+        "artist_followers": 170278,
+        "playback_count": 203,
+        "likes_count": 29,
+        "reposts_count": 5
+      },
+      "components": {
+        "recency": 0.2143,
+        "artist_followers": 0.8719,
+        "track_plays": 0.3849,
+        "track_likes": 0.2954,
+        "track_reposts": 0.1945,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/protocolrecordings/run-to-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2307478643",
+      "soundcloud_user_id": "13909117",
+      "soundcloud_username": "Protocol Recordings",
+      "soundcloud_profile_url": "https://soundcloud.com/protocolrecordings?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance | Progressive House | Electro House | Dance-Pop",
+      "followed_artist_edm_match_terms": "dance | house | progressive house",
+      "followed_artist_followers_count": "170278",
+      "all_artists": "Protocol Recordings",
+      "genre": "Dance",
+      "tag_list": "\"Progressive House\"",
+      "label": "Protocol Recordings",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "191250",
+      "playback_count": "203",
+      "likes_count": "29",
+      "reposts_count": "5",
+      "created_at": "2026/04/22 23:57:53 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Elephante",
+    "track_or_project_title": "Anywhere With You",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Elephante - Anywhere With You",
+    "source_article_url": "https://soundcloud.com/iamtheelephante/anywhere-with-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 41.06,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 157545,
+        "playback_count": 0,
+        "likes_count": 0,
+        "reposts_count": 0
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 0.8662,
+        "track_plays": 0.0,
+        "track_likes": 0.0,
+        "track_reposts": 0.0,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/iamtheelephante/anywhere-with-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310765395",
+      "soundcloud_user_id": "10915053",
+      "soundcloud_username": "Elephante",
+      "soundcloud_profile_url": "https://soundcloud.com/iamtheelephante?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Electronic | Dance | Pop | Future Bass | lorde WhatWasThat Remix Electro glitch house \"Dance & EDM\" Elephante | Dance & EDM",
+      "followed_artist_edm_match_terms": "bass | dance | edm | electronic | house",
+      "followed_artist_followers_count": "157545",
+      "all_artists": "Elephante",
+      "genre": "Electronic",
+      "tag_list": "Dance",
+      "label": "Lost In Dreams",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "168196",
+      "playback_count": "",
+      "likes_count": "",
+      "reposts_count": "",
+      "created_at": "2026/04/28 14:15:07 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "PLS&TY & x.o.anne",
+    "track_or_project_title": "Every Dimension",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "PLS&TY & x.o.anne - Every Dimension",
+    "source_article_url": "https://soundcloud.com/pls-ty/everydimension?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 40.35,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 81450,
+        "playback_count": null,
+        "likes_count": null,
+        "reposts_count": null
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 0.8185,
+        "track_plays": 0.0,
+        "track_likes": 0.0,
+        "track_reposts": 0.0,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/pls-ty/everydimension?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310991388",
+      "soundcloud_user_id": "76527133",
+      "soundcloud_username": "PLS&TY",
+      "soundcloud_profile_url": "https://soundcloud.com/pls-ty?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Afro House\" House edm dance pls&ty plsandty \"every dimension | house edm mix dj set pls&ty \"proper manners \" radio insomniac | house edm mix dj set pls&ty \"proper manners\" insomniac radio | house dj mix set radio pls&ty \"proper manners\" insomniac edm | house dance edm pls&ty \"proper manners \" radio mix dj set | dance edm house pls&ty \"proper manners\" radio mix \"dj \" set | house dance edm dj set mix pls&ty \"proper manners\" radio | house dance edm dj set mix show insomniac \"proper manners | house edm dance pls&ty \"proper manners\" radio dj mix set | house dj mix set pls&ty \"proper manners\" radio",
+      "followed_artist_edm_match_terms": "afro house | dance | edm | house",
+      "followed_artist_followers_count": "81450",
+      "all_artists": "PLS&TY & x.o.anne",
+      "genre": "Dance & EDM",
+      "tag_list": "\"Afro House\" House edm dance pls&ty plsandty \"every dimension\"",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "167166",
+      "playback_count": "",
+      "likes_count": "",
+      "reposts_count": "",
+      "created_at": "2026/04/28 20:49:52 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Spacey Jane",
+    "track_or_project_title": "So You Wanna",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Spacey Jane - So You Wanna",
+    "source_article_url": "https://soundcloud.com/spacey-jane/so-you-wanna-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 37.09,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 4031,
+        "playback_count": 0,
+        "likes_count": 0,
+        "reposts_count": 0
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 0.6009,
+        "track_plays": 0.0,
+        "track_likes": 0.0,
+        "track_reposts": 0.0,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/spacey-jane/so-you-wanna-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310940097",
+      "soundcloud_user_id": "237821547",
+      "soundcloud_username": "Spacey Jane",
+      "soundcloud_profile_url": "https://soundcloud.com/spacey-jane?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Alternative",
+      "followed_artist_edm_match_terms": "bass",
+      "followed_artist_followers_count": "4031",
+      "all_artists": "Spacey Jane",
+      "genre": "Alternative",
+      "tag_list": "",
+      "label": "Spacey Jane",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "207962",
+      "playback_count": "",
+      "likes_count": "",
+      "reposts_count": "",
+      "created_at": "2026/04/28 19:12:11 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Spacey Jane",
+    "track_or_project_title": "Old Enough",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Spacey Jane - Old Enough",
+    "source_article_url": "https://soundcloud.com/spacey-jane/old-enough-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-28",
+    "ranking_score": 37.09,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 5,
+        "artist_followers": 4031,
+        "playback_count": 0,
+        "likes_count": 0,
+        "reposts_count": 0
+      },
+      "components": {
+        "recency": 0.6429,
+        "artist_followers": 0.6009,
+        "track_plays": 0.0,
+        "track_likes": 0.0,
+        "track_reposts": 0.0,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/spacey-jane/old-enough-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310938708",
+      "soundcloud_user_id": "237821547",
+      "soundcloud_username": "Spacey Jane",
+      "soundcloud_profile_url": "https://soundcloud.com/spacey-jane?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Alternative",
+      "followed_artist_edm_match_terms": "bass",
+      "followed_artist_followers_count": "4031",
+      "all_artists": "Spacey Jane",
+      "genre": "Alternative",
+      "tag_list": "",
+      "label": "Spacey Jane",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "208530",
+      "playback_count": "",
+      "likes_count": "",
+      "reposts_count": "",
+      "created_at": "2026/04/28 19:11:11 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Two Friends ft. Dustin Lynch & Jessica Baio",
+    "track_or_project_title": "Save A Little Love (Acapella)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Two Friends ft. Dustin Lynch & Jessica Baio - Save A Little Love (Acapella)",
+    "source_article_url": "https://soundcloud.com/two-friends/savealittleloveacapella?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-24",
+    "ranking_score": 34.61,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 9,
+        "artist_followers": 297674,
+        "playback_count": null,
+        "likes_count": null,
+        "reposts_count": null
+      },
+      "components": {
+        "recency": 0.3571,
+        "artist_followers": 0.9123,
+        "track_plays": 0.0,
+        "track_likes": 0.0,
+        "track_reposts": 0.0,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/two-friends/savealittleloveacapella?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2308713635",
+      "soundcloud_user_id": "6311034",
+      "soundcloud_username": "Two Friends",
+      "soundcloud_profile_url": "https://soundcloud.com/two-friends?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "Dance & EDM | Dance | Pop",
+      "followed_artist_edm_match_terms": "dance | edm",
+      "followed_artist_followers_count": "297674",
+      "all_artists": "Two Friends ft. Dustin Lynch & Jessica Baio",
+      "genre": "Dance & EDM",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "170057",
+      "playback_count": "",
+      "likes_count": "",
+      "reposts_count": "",
+      "created_at": "2026/04/24 18:58:50 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Tony Romera",
+    "track_or_project_title": "The Way",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_followed_artist_api",
+    "source_article_title": "Tony Romera - The Way",
+    "source_article_url": "https://soundcloud.com/tonyromera/the-way?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Followed Artist",
+    "article_date": "2026-04-20",
+    "ranking_score": 27.21,
+    "ranking_factors": {
+      "score_version": "soundcloud_followed_artist_v1",
+      "weights": {
+        "recency": 0.25,
+        "artist_followers": 0.15,
+        "track_plays": 0.2,
+        "track_likes": 0.15,
+        "track_reposts": 0.1,
+        "metadata_confidence": 0.15
+      },
+      "raw": {
+        "release_age_days": 13,
+        "artist_followers": 54002,
+        "playback_count": 2,
+        "likes_count": 0,
+        "reposts_count": 0
+      },
+      "components": {
+        "recency": 0.0714,
+        "artist_followers": 0.7887,
+        "track_plays": 0.0795,
+        "track_likes": 0.0,
+        "track_reposts": 0.0,
+        "metadata_confidence": 0.8
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/tonyromera/the-way?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2305960109",
+      "soundcloud_user_id": "2704433",
+      "soundcloud_username": "Tony Romera",
+      "soundcloud_profile_url": "https://soundcloud.com/tonyromera?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "followed_artist_genres": "House | Live \"comfort zone\" toronto set house \"tech house\" \"minimal house | Dance | Tech House | House \"Tech house | Dance - House",
+      "followed_artist_edm_match_terms": "dance | house | tech house",
+      "followed_artist_followers_count": "54002",
+      "all_artists": "Tony Romera",
+      "genre": "Bass House",
+      "tag_list": "",
+      "label": "Confession Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "178599",
+      "playback_count": "2",
+      "likes_count": "",
+      "reposts_count": "",
+      "created_at": "2026/04/20 13:13:45 +0000"
+    },
+    "release_article": true
+  }
+]

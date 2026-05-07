@@ -1,0 +1,16 @@
+{
+  "playlist_name": "New House",
+  "pushed_at": "2026-05-05T04:52:04.126332+00:00",
+  "spotify": {
+    "attempted": true,
+    "playlist_id": "4CiTVmpk37ndyvuT6skcrS",
+    "track_count": 43,
+    "error": null
+  },
+  "soundcloud": {
+    "attempted": true,
+    "playlist_id": "2232094520",
+    "track_count": 50,
+    "error": null
+  }
+}

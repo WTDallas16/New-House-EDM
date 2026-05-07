@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12
+requests>=2.31
+websocket-client>=1.8
+pytest>=8.0

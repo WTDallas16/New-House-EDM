@@ -1,0 +1,3 @@
+# Add one SoundCloud playlist URL per line.
+http://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits
+http://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next

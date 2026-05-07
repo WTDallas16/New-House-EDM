@@ -1,0 +1,2422 @@
+[
+  {
+    "artist": "Cloonee & Groove theory",
+    "track_or_project_title": "One Question",
+    "release_type": "track",
+    "confidence_score": 0.9,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Cloonee & Groove theory - One Question",
+    "source_article_url": "https://soundcloud.com/cloonee/one-question?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-29",
+    "embedded_music_links": [
+      "https://soundcloud.com/cloonee/one-question?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728631420",
+      "playlist_name": "New EDM Hits: On The Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "65209",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2311131638",
+      "soundcloud_user_id": "78975954",
+      "soundcloud_username": "Cloonee",
+      "all_artists": "Cloonee & Groove theory",
+      "genre": "Tech House",
+      "tag_list": "Cloonee \"Groove Theory\" \"one question\" \"if you only knew\" hellbent",
+      "label": "Hellbent & Relentless",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "184019",
+      "playback_count": "12296",
+      "likes_count": "1585",
+      "reposts_count": "41",
+      "created_at": "2026/04/29 01:59:59 +0000",
+      "purchase_url": "https://ffm.to/one-question",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 58.87,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.9,
+        "article_date": "2026-04-29",
+        "release_age_days": 4,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 12296.0,
+          "soundcloud_likes_count": 1585.0,
+          "soundcloud_reposts_count": 41.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.9,
+        "source_quality": 0.76,
+        "recency": 0.8095,
+        "music_link": 1.0,
+        "platform_popularity": 0.6816,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2311131638",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Kanine, Sota & Mila Falls",
+    "track_or_project_title": "Touchdown",
+    "release_type": "track",
+    "confidence_score": 0.9,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Kanine, Sota & Mila Falls - Touchdown",
+    "source_article_url": "https://soundcloud.com/ukf/kanine-sota-mila-falls-touchdown?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-30",
+    "embedded_music_links": [
+      "https://soundcloud.com/ukf/kanine-sota-mila-falls-touchdown?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728631420",
+      "playlist_name": "New EDM Hits: On The Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "65209",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2311896782",
+      "soundcloud_user_id": "415653",
+      "soundcloud_username": "UKF",
+      "all_artists": "Kanine, Sota & Mila Falls",
+      "genre": "Drum & Bass",
+      "tag_list": "",
+      "label": "UKF",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "160172",
+      "playback_count": "6700",
+      "likes_count": "786",
+      "reposts_count": "44",
+      "created_at": "2026/04/30 10:44:13 +0000",
+      "purchase_url": "https://listen.ukf.com/kanine-sota-mila-falls-touchdown",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 58.63,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.9,
+        "article_date": "2026-04-30",
+        "release_age_days": 3,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 6700.0,
+          "soundcloud_likes_count": 786.0,
+          "soundcloud_reposts_count": 44.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.9,
+        "source_quality": 0.76,
+        "recency": 0.8571,
+        "music_link": 1.0,
+        "platform_popularity": 0.6377,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2311896782",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "⠶ Dom Dolla ⠶",
+    "track_or_project_title": "Don't Worry Baby",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "⠶ Dom Dolla ⠶ - Don't Worry Baby",
+    "source_article_url": "https://soundcloud.com/domdolla/dontworrybaby?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-29",
+    "embedded_music_links": [
+      "https://soundcloud.com/domdolla/dontworrybaby?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728631420",
+      "playlist_name": "New EDM Hits: On The Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "65209",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2311540286",
+      "soundcloud_user_id": "627109",
+      "soundcloud_username": "⠶ Dom Dolla ⠶",
+      "all_artists": "⠶ Dom Dolla ⠶",
+      "genre": "Electronic",
+      "tag_list": "",
+      "label": "Three Six Zero Recordings/Columbia Records/Good Fortune Recods",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "207272",
+      "playback_count": "8940",
+      "likes_count": "900",
+      "reposts_count": "42",
+      "created_at": "2026/04/29 19:15:30 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 57.08,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-29",
+        "release_age_days": 4,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 8940.0,
+          "soundcloud_likes_count": 900.0,
+          "soundcloud_reposts_count": 42.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.8095,
+        "music_link": 1.0,
+        "platform_popularity": 0.6586,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2311540286",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Statikk",
+    "track_or_project_title": "Self Control",
+    "release_type": "single",
+    "confidence_score": 1.0,
+    "extraction_method": "regex+embedded_player",
+    "source_article_title": "Statikk channels groove and movement on new single ‘Self Control’: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/statikk-self-control-single/",
+    "source_name": "We Rave You",
+    "article_date": "2026-04-26",
+    "embedded_music_links": [
+      "https://open.spotify.com/album/5dtrV6pAh4Fuaw3Ravv67G"
+    ],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Statikk drops new single 'Self Control'",
+      "og:description": "Statikk returns with new single 'Self Control', a feel-good electronic track shaped by house, tech house and a love of groove and movement.",
+      "og:url": "https://weraveyou.com/2026/04/statikk-self-control-single/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2026/04/Statikk-photo-1_11zon.jpg",
+      "og:image:width": "1200",
+      "og:image:height": "1185",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true,
+    "ranking_score": 55.33,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.6,
+      "raw": {
+        "source_name": "We Rave You",
+        "existing_source_ranking": null,
+        "confidence_score": 1.0,
+        "article_date": "2026-04-26",
+        "release_age_days": 7,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": null,
+          "soundcloud_likes_count": null,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": null
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "We Rave You"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 1.0,
+        "source_quality": 0.72,
+        "recency": 0.6667,
+        "music_link": 1.0,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "text:statikk|self control",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "We Rave You"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/weraveyou.json"
+  },
+  {
+    "artist": "Flowidus",
+    "track_or_project_title": "Run The Track",
+    "release_type": "track",
+    "confidence_score": 0.9,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Flowidus - Run The Track",
+    "source_article_url": "https://soundcloud.com/nightmoderecs/runthetrack?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-22",
+    "embedded_music_links": [
+      "https://soundcloud.com/nightmoderecs/runthetrack?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2307432089",
+      "soundcloud_user_id": "648004005",
+      "soundcloud_username": "NIGHTMODE",
+      "all_artists": "Flowidus",
+      "genre": "Drum & Bass",
+      "tag_list": "Flowidus \"Run The Track\" NIGHTMODE \"DMCA Free\" \"Dance & EDM\"",
+      "label": "NIGHTMODE",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "161462",
+      "playback_count": "9624",
+      "likes_count": "309",
+      "reposts_count": "19",
+      "created_at": "2026/04/22 22:04:49 +0000",
+      "purchase_url": "https://nm.ffm.to/runthetrack",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 54.07,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.9,
+        "article_date": "2026-04-22",
+        "release_age_days": 11,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 9624.0,
+          "soundcloud_likes_count": 309.0,
+          "soundcloud_reposts_count": 19.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.9,
+        "source_quality": 0.76,
+        "recency": 0.4762,
+        "music_link": 1.0,
+        "platform_popularity": 0.6639,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2307432089",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Brookes Brothers & Danny Byrd",
+    "track_or_project_title": "Feelin' This Way",
+    "release_type": "track",
+    "confidence_score": 0.9,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Brookes Brothers & Danny Byrd - Feelin' This Way",
+    "source_article_url": "https://soundcloud.com/ukf/brookes-brothers-danny-byrd-feelin-this-way?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-23",
+    "embedded_music_links": [
+      "https://soundcloud.com/ukf/brookes-brothers-danny-byrd-feelin-this-way?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2307978731",
+      "soundcloud_user_id": "415653",
+      "soundcloud_username": "UKF",
+      "all_artists": "Brookes Brothers & Danny Byrd",
+      "genre": "Drum & Bass",
+      "tag_list": "",
+      "label": "UKF",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "270497",
+      "playback_count": "5980",
+      "likes_count": "269",
+      "reposts_count": "19",
+      "created_at": "2026/04/23 16:02:32 +0000",
+      "purchase_url": "https://listen.ukf.com/brookes-brothers-danny-byrd-feelin-this-way",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 54.02,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.9,
+        "article_date": "2026-04-23",
+        "release_age_days": 10,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 5980.0,
+          "soundcloud_likes_count": 269.0,
+          "soundcloud_reposts_count": 19.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.9,
+        "source_quality": 0.76,
+        "recency": 0.5238,
+        "music_link": 1.0,
+        "platform_popularity": 0.6295,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2307978731",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Bessey",
+    "track_or_project_title": "Somn Like Dis",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Bessey - Somn Like Dis",
+    "source_article_url": "https://soundcloud.com/artistbessey/somn-like-dis?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-27",
+    "embedded_music_links": [
+      "https://soundcloud.com/artistbessey/somn-like-dis?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2309961104",
+      "soundcloud_user_id": "85803839",
+      "soundcloud_username": "Bessey",
+      "all_artists": "Bessey",
+      "genre": "Dance",
+      "tag_list": "\"Bass House\"",
+      "label": "Night Bass Records",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "153782",
+      "playback_count": "2381",
+      "likes_count": "107",
+      "reposts_count": "3",
+      "created_at": "2026/04/27 09:44:43 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 53.89,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-27",
+        "release_age_days": 6,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 2381.0,
+          "soundcloud_likes_count": 107.0,
+          "soundcloud_reposts_count": 3.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.7143,
+        "music_link": 1.0,
+        "platform_popularity": 0.5628,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2309961104",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "nate band",
+    "track_or_project_title": "Let Me See Ya (Work It)",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "nate band - Let Me See Ya (Work It)",
+    "source_article_url": "https://soundcloud.com/iamnateband/let-me-see-ya-work-it-teaser?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-24",
+    "embedded_music_links": [
+      "https://soundcloud.com/iamnateband/let-me-see-ya-work-it-teaser?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2308276607",
+      "soundcloud_user_id": "1364709921",
+      "soundcloud_username": "nate band",
+      "all_artists": "nate band",
+      "genre": "Electronic",
+      "tag_list": "House",
+      "label": "Thirty Knots / moshpit projects.",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "168724",
+      "playback_count": "7678",
+      "likes_count": "579",
+      "reposts_count": "4",
+      "created_at": "2026/04/24 00:33:38 +0000",
+      "purchase_url": "https://www.beatport.com/release/let-me-see-ya-work-it-extended-mix/6840357",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 53.68,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-24",
+        "release_age_days": 9,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 7678.0,
+          "soundcloud_likes_count": 579.0,
+          "soundcloud_reposts_count": 4.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.5714,
+        "music_link": 1.0,
+        "platform_popularity": 0.6476,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2308276607",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Slushii",
+    "track_or_project_title": "Should've Known Better (ft. KENNEDY)",
+    "release_type": "track",
+    "confidence_score": 0.9,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Slushii - Should've Known Better (ft. KENNEDY)",
+    "source_article_url": "https://soundcloud.com/monstercat/slushii-shouldve-known-better?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-22",
+    "embedded_music_links": [
+      "https://soundcloud.com/monstercat/slushii-shouldve-known-better?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2307178550",
+      "soundcloud_user_id": "8553751",
+      "soundcloud_username": "Monstercat",
+      "all_artists": "Slushii",
+      "genre": "Dance/Pop",
+      "tag_list": "Dance/Pop monstercat instinct slushii kennedy",
+      "label": "Monstercat",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "142262",
+      "playback_count": "6626",
+      "likes_count": "249",
+      "reposts_count": "35",
+      "created_at": "2026/04/22 12:49:00 +0000",
+      "purchase_url": "https://monster.cat/shouldveknownbetter",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 53.53,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.9,
+        "article_date": "2026-04-22",
+        "release_age_days": 11,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 6626.0,
+          "soundcloud_likes_count": 249.0,
+          "soundcloud_reposts_count": 35.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.9,
+        "source_quality": 0.76,
+        "recency": 0.4762,
+        "music_link": 1.0,
+        "platform_popularity": 0.6369,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2307178550",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "jigitz",
+    "track_or_project_title": "car crash",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "jigitz - car crash",
+    "source_article_url": "https://soundcloud.com/jigitz/car-crash?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-20",
+    "embedded_music_links": [
+      "https://soundcloud.com/jigitz/car-crash?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2306019656",
+      "soundcloud_user_id": "289049283",
+      "soundcloud_username": "jigitz",
+      "all_artists": "jigitz",
+      "genre": "Dance",
+      "tag_list": "",
+      "label": "R&R Digital",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "160653",
+      "playback_count": "33574",
+      "likes_count": "1870",
+      "reposts_count": "53",
+      "created_at": "2026/04/20 15:03:45 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 53.28,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-20",
+        "release_age_days": 13,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 33574.0,
+          "soundcloud_likes_count": 1870.0,
+          "soundcloud_reposts_count": 53.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.381,
+        "music_link": 1.0,
+        "platform_popularity": 0.7543,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2306019656",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Chris Lake",
+    "track_or_project_title": "Make You Fight",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Chris Lake - Make You Fight",
+    "source_article_url": "https://soundcloud.com/chrislake/make-you-fight?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-23",
+    "embedded_music_links": [
+      "https://soundcloud.com/chrislake/make-you-fight?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728631420",
+      "playlist_name": "New EDM Hits: On The Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "65209",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2307705992",
+      "soundcloud_user_id": "118319",
+      "soundcloud_username": "Chris Lake",
+      "all_artists": "Chris Lake",
+      "genre": "Tech House",
+      "tag_list": "",
+      "label": "Black Book Records",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "175934",
+      "playback_count": "7132",
+      "likes_count": "1012",
+      "reposts_count": "46",
+      "created_at": "2026/04/23 10:21:14 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 52.94,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-23",
+        "release_age_days": 10,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 7132.0,
+          "soundcloud_likes_count": 1012.0,
+          "soundcloud_reposts_count": 46.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.5238,
+        "music_link": 1.0,
+        "platform_popularity": 0.6422,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2307705992",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "IDEMI",
+    "track_or_project_title": "Reflections",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "IDEMI - Reflections",
+    "source_article_url": "https://soundcloud.com/idemimusic/idemi-reflections?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-22",
+    "embedded_music_links": [
+      "https://soundcloud.com/idemimusic/idemi-reflections?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728631420",
+      "playlist_name": "New EDM Hits: On The Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "65209",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2307275675",
+      "soundcloud_user_id": "1136438089",
+      "soundcloud_username": "IDEMI",
+      "all_artists": "IDEMI",
+      "genre": "",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "187272",
+      "playback_count": "10786",
+      "likes_count": "729",
+      "reposts_count": "57",
+      "created_at": "2026/04/22 16:43:58 +0000",
+      "purchase_url": "https://drop.cobrand.com/d/IDEMI/community-sample-pack",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 52.9,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-22",
+        "release_age_days": 11,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 10786.0,
+          "soundcloud_likes_count": 729.0,
+          "soundcloud_reposts_count": 57.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.4762,
+        "music_link": 1.0,
+        "platform_popularity": 0.6722,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2307275675",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "SNACKTIME",
+    "track_or_project_title": "SUNSHINE (K Y O N Remix)",
+    "release_type": "remix",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "SNACKTIME - SUNSHINE (K Y O N Remix)",
+    "source_article_url": "https://soundcloud.com/snacktimeofficial/sunshine-k-y-o-n-remix-teaser?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-28",
+    "embedded_music_links": [
+      "https://soundcloud.com/snacktimeofficial/sunshine-k-y-o-n-remix-teaser?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2310936293",
+      "soundcloud_user_id": "1235421547",
+      "soundcloud_username": "SNACKTIME",
+      "all_artists": "SNACKTIME",
+      "genre": "Electronic",
+      "tag_list": "Electronic \"Indie Dance\" \"R&B & Soul\" teaser snippet \"new release \" vibey \"remix \"",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "153600",
+      "playback_count": "693",
+      "likes_count": "9",
+      "reposts_count": "",
+      "created_at": "2026/04/28 19:06:44 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 52.74,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-28",
+        "release_age_days": 5,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 693.0,
+          "soundcloud_likes_count": 9.0,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.7619,
+        "music_link": 1.0,
+        "platform_popularity": 0.4736,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2310936293",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "The Chainsmokers",
+    "track_or_project_title": "Already Know",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "The Chainsmokers - Already Know",
+    "source_article_url": "https://soundcloud.com/thechainsmokers/already-know?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-21",
+    "embedded_music_links": [
+      "https://soundcloud.com/thechainsmokers/already-know?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728631420",
+      "playlist_name": "New EDM Hits: On The Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "65209",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2306325449",
+      "soundcloud_user_id": "1642029",
+      "soundcloud_username": "The Chainsmokers",
+      "all_artists": "The Chainsmokers",
+      "genre": "Dance",
+      "tag_list": "Pop",
+      "label": "Disruptor Records/Columbia",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "157361",
+      "playback_count": "14089",
+      "likes_count": "857",
+      "reposts_count": "45",
+      "created_at": "2026/04/21 00:31:00 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 52.66,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-21",
+        "release_age_days": 12,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 14089.0,
+          "soundcloud_likes_count": 857.0,
+          "soundcloud_reposts_count": 45.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.4286,
+        "music_link": 1.0,
+        "platform_popularity": 0.6915,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2306325449",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "bauti",
+    "track_or_project_title": "BACK2LIFE",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "bauti - BACK2LIFE",
+    "source_article_url": "https://soundcloud.com/bauti_music/bauti-rico-56-back2life-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-21",
+    "embedded_music_links": [
+      "https://soundcloud.com/bauti_music/bauti-rico-56-back2life-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2306715392",
+      "soundcloud_user_id": "888967825",
+      "soundcloud_username": "bauti",
+      "all_artists": "bauti",
+      "genre": "",
+      "tag_list": "",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "135157",
+      "playback_count": "11954",
+      "likes_count": "731",
+      "reposts_count": "116",
+      "created_at": "2026/04/21 17:22:05 +0000",
+      "purchase_url": "https://hypeddit.com/bautirico56/back2life",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 52.42,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-21",
+        "release_age_days": 12,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 11954.0,
+          "soundcloud_likes_count": 731.0,
+          "soundcloud_reposts_count": 116.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.4286,
+        "music_link": 1.0,
+        "platform_popularity": 0.6796,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2306715392",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "VNSSA",
+    "track_or_project_title": "Let's Have A Kiki",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "VNSSA - Let's Have A Kiki",
+    "source_article_url": "https://soundcloud.com/v_nss_a/lets-have-a-kiki?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-23",
+    "embedded_music_links": [
+      "https://soundcloud.com/v_nss_a/lets-have-a-kiki?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2307526214",
+      "soundcloud_user_id": "91898702",
+      "soundcloud_username": "VNSSA",
+      "all_artists": "VNSSA",
+      "genre": "Electronic",
+      "tag_list": "",
+      "label": "Emergency Loop / EMPIRE",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "185652",
+      "playback_count": "3736",
+      "likes_count": "111",
+      "reposts_count": "4",
+      "created_at": "2026/04/23 02:21:08 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 52.0,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-23",
+        "release_age_days": 10,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 3736.0,
+          "soundcloud_likes_count": 111.0,
+          "soundcloud_reposts_count": 4.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.5238,
+        "music_link": 1.0,
+        "platform_popularity": 0.5954,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2307526214",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Above & Beyond",
+    "track_or_project_title": "Carry Me Home (Koven Remix)",
+    "release_type": "remix",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Above & Beyond - Carry Me Home (Koven Remix)",
+    "source_article_url": "https://soundcloud.com/aboveandbeyond/carry-me-home-koven-remix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-20",
+    "embedded_music_links": [
+      "https://soundcloud.com/aboveandbeyond/carry-me-home-koven-remix?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728631420",
+      "playlist_name": "New EDM Hits: On The Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/on-the-up-new-edm-hits?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "65209",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2306181737",
+      "soundcloud_user_id": "124286",
+      "soundcloud_username": "Above & Beyond",
+      "all_artists": "Above & Beyond",
+      "genre": "Dance",
+      "tag_list": "\"Drum & Bass\"",
+      "label": "Anjunabeats",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "214517",
+      "playback_count": "7663",
+      "likes_count": "390",
+      "reposts_count": "45",
+      "created_at": "2026/04/20 20:00:57 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 51.14,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-20",
+        "release_age_days": 13,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 7663.0,
+          "soundcloud_likes_count": 390.0,
+          "soundcloud_reposts_count": 45.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.381,
+        "music_link": 1.0,
+        "platform_popularity": 0.6474,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2306181737",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "bradeazy",
+    "track_or_project_title": "All Night",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "bradeazy - All Night",
+    "source_article_url": "https://soundcloud.com/bradeazy/all-night-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-19",
+    "embedded_music_links": [
+      "https://soundcloud.com/bradeazy/all-night-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2305357568",
+      "soundcloud_user_id": "1125867328",
+      "soundcloud_username": "bradeazy",
+      "all_artists": "bradeazy",
+      "genre": "Dance & EDM",
+      "tag_list": "\"Naughty All Night\" bradeazy \"all night bradeazy\"",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "166060",
+      "playback_count": "10621",
+      "likes_count": "438",
+      "reposts_count": "7",
+      "created_at": "2026/04/19 13:51:57 +0000",
+      "purchase_url": "https://stem.ffm.to/allnight",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 50.98,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-19",
+        "release_age_days": 14,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 10621.0,
+          "soundcloud_likes_count": 438.0,
+          "soundcloud_reposts_count": 7.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.3333,
+        "music_link": 1.0,
+        "platform_popularity": 0.671,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2305357568",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Jay Crusoe x G00DELL",
+    "track_or_project_title": "Clubwalker",
+    "release_type": "track",
+    "confidence_score": 0.9,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "Jay Crusoe x G00DELL - Clubwalker",
+    "source_article_url": "https://soundcloud.com/moderndelivery/jaycrusoe-g00dell-clubwalker?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-20",
+    "embedded_music_links": [
+      "https://soundcloud.com/moderndelivery/jaycrusoe-g00dell-clubwalker?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2306281142",
+      "soundcloud_user_id": "1326354126",
+      "soundcloud_username": "Modern Delivery",
+      "all_artists": "Jay Crusoe x G00DELL",
+      "genre": "House",
+      "tag_list": "edm dance electronic \"tech house\" deep minimal club \"modern delivery\" mdx",
+      "label": "Modern Delivery",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "187669",
+      "playback_count": "1633",
+      "likes_count": "78",
+      "reposts_count": "6",
+      "created_at": "2026/04/20 22:44:18 +0000",
+      "purchase_url": "",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 50.23,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.18,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.9,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.9,
+        "article_date": "2026-04-20",
+        "release_age_days": 13,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": 1633.0,
+          "soundcloud_likes_count": 78.0,
+          "soundcloud_reposts_count": 6.0
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.9,
+        "source_quality": 0.76,
+        "recency": 0.381,
+        "music_link": 1.0,
+        "platform_popularity": 0.5355,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2306281142",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "korey",
+    "track_or_project_title": "Raw2Flo [RKV002]",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "soundcloud_playlist_api",
+    "source_article_title": "korey - Raw2Flo [RKV002]",
+    "source_article_url": "https://soundcloud.com/4korey/korey-raw2flo-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Playlist",
+    "article_date": "2026-04-23",
+    "embedded_music_links": [
+      "https://soundcloud.com/4korey/korey-raw2flo-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "playlist_id": "728636178",
+      "playlist_name": "EDM Next: Level Up",
+      "playlist_owner": "The Peak: EDM",
+      "playlist_url": "https://soundcloud.com/soundcloud-the-peak/sets/level-up-edm-next?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "playlist_track_count": "100",
+      "playlist_likes_count": "20793",
+      "playlist_reposts_count": "",
+      "soundcloud_track_id": "2308015409",
+      "soundcloud_user_id": "430235556",
+      "soundcloud_username": "korey",
+      "all_artists": "korey",
+      "genre": "House",
+      "tag_list": "\"Dance & EDM\" Electronic \"Deep House\" House",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "upc": "",
+      "explicit": "False",
+      "duration_ms": "255033",
+      "playback_count": "",
+      "likes_count": "",
+      "reposts_count": "",
+      "created_at": "2026/04/23 16:45:25 +0000",
+      "purchase_url": "https://koreydj.bandcamp.com/album/arkives-vol-2-str8-curveballs",
+      "license": "all-rights-reserved"
+    },
+    "release_article": true,
+    "ranking_score": 50.12,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.0,
+        "source_chart": 0.12,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.72,
+      "raw": {
+        "source_name": "SoundCloud Playlist",
+        "existing_source_ranking": null,
+        "confidence_score": 0.8,
+        "article_date": "2026-04-23",
+        "release_age_days": 10,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": null,
+          "soundcloud_likes_count": null,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": 100.0
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "SoundCloud Playlist"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.8,
+        "source_quality": 0.76,
+        "recency": 0.5238,
+        "music_link": 1.0,
+        "platform_popularity": 0.0,
+        "source_chart": 0.55,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "soundcloud:2308015409",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "SoundCloud Playlist"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/soundcloud_playlists.json"
+  },
+  {
+    "artist": "Rob Laniado",
+    "track_or_project_title": "Falling Under",
+    "release_type": "track",
+    "confidence_score": 1.0,
+    "extraction_method": "regex+embedded_player",
+    "source_article_title": "Rob Laniado returns with a melodic techno cut on ROMÉ Records, ‘Falling Under’: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/rob-laniado-falling-under-rome-records/",
+    "source_name": "We Rave You",
+    "article_date": "2026-04-19",
+    "embedded_music_links": [
+      "https://soundcloud.com/rob-laniado/rob-laniado-falling-under-rome"
+    ],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Rob Laniado returns with a melodic techno cut on 'Falling Under'",
+      "og:description": "Rob Laniado returns with 'Falling Under', a melodic techno cut on ROMÉ Records built around a hypnotic vocal and a peak-time drop.",
+      "og:url": "https://weraveyou.com/2026/04/rob-laniado-falling-under-rome-records/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2025/10/Rob-Laniado-2025-scaled.jpg",
+      "og:image:width": "2560",
+      "og:image:height": "1709",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true,
+    "ranking_score": 48.67,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.6,
+      "raw": {
+        "source_name": "We Rave You",
+        "existing_source_ranking": null,
+        "confidence_score": 1.0,
+        "article_date": "2026-04-19",
+        "release_age_days": 14,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": null,
+          "soundcloud_likes_count": null,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": null
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "We Rave You"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 1.0,
+        "source_quality": 0.72,
+        "recency": 0.3333,
+        "music_link": 1.0,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "text:rob laniado|falling under",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "We Rave You"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/weraveyou.json"
+  },
+  {
+    "artist": "Denis First",
+    "track_or_project_title": "La La La",
+    "release_type": "unknown",
+    "confidence_score": 0.85,
+    "extraction_method": "regex",
+    "source_article_title": "Denis First unveils feel-good house anthem ‘La La La’: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/denis-first-la-la-la-house-single/",
+    "source_name": "We Rave You",
+    "article_date": "2026-04-29",
+    "embedded_music_links": [],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Denis First unveils feel-good house anthem 'La La La'",
+      "og:description": "Denis First has dropped 'La La La', a feel-good house anthem framed as a sonic reset for the overthinking generation, out now.",
+      "og:url": "https://weraveyou.com/2026/04/denis-first-la-la-la-house-single/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2026/04/Denis-First-c-Tasula-scaled.jpg",
+      "og:image:width": "2560",
+      "og:image:height": "1920",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true,
+    "ranking_score": 45.19,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.6,
+      "raw": {
+        "source_name": "We Rave You",
+        "existing_source_ranking": null,
+        "confidence_score": 0.85,
+        "article_date": "2026-04-29",
+        "release_age_days": 4,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": null,
+          "soundcloud_likes_count": null,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": null
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "We Rave You"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.85,
+        "source_quality": 0.72,
+        "recency": 0.8095,
+        "music_link": 0.0,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "text:denis first|la la la",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "We Rave You"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/weraveyou.json"
+  },
+  {
+    "artist": "David Guetta",
+    "track_or_project_title": "Just The Way You Are",
+    "release_type": "remix",
+    "confidence_score": 0.6,
+    "extraction_method": "regex",
+    "source_article_title": "David Guetta drops official remix of Milky’s ‘Just The Way You Are’ sampling Stardust",
+    "source_article_url": "https://weraveyou.com/2026/05/david-guetta-milky-just-the-way-you-are-remix-stardust/",
+    "source_name": "We Rave You",
+    "article_date": "2026-05-02",
+    "embedded_music_links": [],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "David Guetta drops official remix of Milky's 'Just The Way You Are'",
+      "og:description": "David Guetta has released his official remix of Milky's 'Just The Way You Are', sampling Stardust's 'Music Sounds Better With You'. Out May 1.",
+      "og:url": "https://weraveyou.com/2026/05/david-guetta-milky-just-the-way-you-are-remix-stardust/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2024/11/David-Guetta-by-Laura-Gilli-scaled.jpg",
+      "og:image:width": "2560",
+      "og:image:height": "1707",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true,
+    "ranking_score": 43.05,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.6,
+      "raw": {
+        "source_name": "We Rave You",
+        "existing_source_ranking": null,
+        "confidence_score": 0.6,
+        "article_date": "2026-05-02",
+        "release_age_days": 1,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": null,
+          "soundcloud_likes_count": null,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": null
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "We Rave You"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.6,
+        "source_quality": 0.72,
+        "recency": 0.9524,
+        "music_link": 0.0,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "text:david guetta|just the way you are",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "We Rave You"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/weraveyou.json"
+  },
+  {
+    "artist": "Madonna",
+    "track_or_project_title": "Bring Your Love",
+    "release_type": "single",
+    "confidence_score": 0.55,
+    "extraction_method": "llm_fallback",
+    "source_article_title": "Madonna and Sabrina Carpenter unleash ‘Bring Your Love’, lead single from ‘Confessions II’",
+    "source_article_url": "https://weraveyou.com/2026/05/madonna-sabrina-carpenter-bring-your-love-confessions-ii/",
+    "source_name": "We Rave You",
+    "article_date": "2026-05-02",
+    "embedded_music_links": [],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Madonna & Sabrina Carpenter unleash 'Bring Your Love'",
+      "og:description": "Madonna and Sabrina Carpenter's 'Bring Your Love' is out now, lead single from 'Confessions II' (July 3, Warner Records). Stuart Price co-produces; samples Inner City's 'Good Life'.",
+      "og:url": "https://weraveyou.com/2026/05/madonna-sabrina-carpenter-bring-your-love-confessions-ii/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2026/02/Madonna_Confessions.jpg",
+      "og:image:width": "2400",
+      "og:image:height": "2400",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true,
+    "ranking_score": 42.05,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.6,
+      "raw": {
+        "source_name": "We Rave You",
+        "existing_source_ranking": null,
+        "confidence_score": 0.55,
+        "article_date": "2026-05-02",
+        "release_age_days": 1,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": null,
+          "soundcloud_likes_count": null,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": null
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "We Rave You"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.55,
+        "source_quality": 0.72,
+        "recency": 0.9524,
+        "music_link": 0.0,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "text:madonna|bring your love",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "We Rave You"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/weraveyou.json"
+  },
+  {
+    "artist": "DJs From Mars",
+    "track_or_project_title": "You Get What You Give",
+    "release_type": "remix",
+    "confidence_score": 0.7,
+    "extraction_method": "regex",
+    "source_article_title": "DJs From Mars Flip ‘You Get What You Give’ into a high-energy remix with Van Snyder, Serena Bleu & Alexander Popov: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/djs-from-mars-remix-you-get-what-you-give/",
+    "source_name": "We Rave You",
+    "article_date": "2026-04-24",
+    "embedded_music_links": [],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "DJs From Mars remix 'You Get What You Give'",
+      "og:description": "DJs From Mars reimagine 'You Get What You Give' with Van Snyder, Serena Bleu and Alexander Popov in a 2026 electro remix.",
+      "og:url": "https://weraveyou.com/2026/04/djs-from-mars-remix-you-get-what-you-give/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2026/04/DJs-From-Mars.jpg",
+      "og:image:width": "2048",
+      "og:image:height": "1280",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true,
+    "ranking_score": 37.43,
+    "ranking_factors": {
+      "score_version": "cross_source_v1",
+      "score_description": "0-100 score using source confidence, source quality, recency, embedded links, available platform/chart popularity signals, existing source ranking when present, and a boost for repeated sightings across independent sources.",
+      "weights": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.12,
+        "source_quality": 0.1,
+        "recency": 0.12,
+        "music_link": 0.06,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.2
+      },
+      "available_weight": 0.6,
+      "raw": {
+        "source_name": "We Rave You",
+        "existing_source_ranking": null,
+        "confidence_score": 0.7,
+        "article_date": "2026-04-24",
+        "release_age_days": 9,
+        "platform_values": {
+          "spotify_track_popularity": null,
+          "spotify_popularity": null,
+          "soundcloud_playback_count": null,
+          "soundcloud_likes_count": null,
+          "soundcloud_reposts_count": null
+        },
+        "source_chart_values": {
+          "chart_rank": null,
+          "popular_points": null,
+          "hot_or_not_likes": null,
+          "playlist_track_count": null
+        },
+        "duplicate_count": 1,
+        "source_count": 1,
+        "sources": [
+          "We Rave You"
+        ]
+      },
+      "components": {
+        "existing_source_ranking": 0.0,
+        "confidence": 0.7,
+        "source_quality": 0.72,
+        "recency": 0.5714,
+        "music_link": 0.0,
+        "platform_popularity": 0.0,
+        "source_chart": 0.0,
+        "cross_source_duplicates": 0.0
+      }
+    },
+    "duplicate_group_key": "text:djs from mars|you get what you give",
+    "cross_source_duplicate_count": 1,
+    "cross_source_sources": [
+      "We Rave You"
+    ],
+    "cross_source_source_count": 1,
+    "source_file": "/Users/WillyTardif/Documents/New House/Master_Ranking/data/source_outputs/weraveyou.json"
+  }
+]

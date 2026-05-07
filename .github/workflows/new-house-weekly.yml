@@ -1,0 +1,171 @@
+name: New House Weekly
+
+on:
+  workflow_dispatch:
+    inputs:
+      push_playlists:
+        description: "Clear and update Spotify/SoundCloud New House playlists"
+        required: true
+        default: true
+        type: boolean
+      skip_refresh:
+        description: "Skip source refresh and rank existing JSON files only"
+        required: true
+        default: false
+        type: boolean
+      candidate_pool_size:
+        description: "How many ranked songs to resolve before selecting playlist tracks"
+        required: true
+        default: "150"
+        type: string
+      soundcloud_target_count:
+        description: "Minimum SoundCloud playlist size to try to fill"
+        required: true
+        default: "50"
+        type: string
+  schedule:
+    # Friday at 10:07 AM America/New_York. The :07 avoids the busiest top-of-hour queue.
+    - cron: "7 10 * * 5"
+      timezone: "America/New_York"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: new-house-weekly
+  cancel-in-progress: false
+
+jobs:
+  pull-rank-push:
+    name: Pull, Rank, and Push New House
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    env:
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      SPOTIFY_REDIRECT_URI: ${{ secrets.SPOTIFY_REDIRECT_URI }}
+      SPOTIFY_SCOPE: ${{ secrets.SPOTIFY_SCOPE }}
+      SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      SPOTIPY_REDIRECT_URI: ${{ secrets.SPOTIFY_REDIRECT_URI }}
+      SC_CLIENT_ID: ${{ secrets.SC_CLIENT_ID }}
+      SC_CLIENT_SECRET: ${{ secrets.SC_CLIENT_SECRET }}
+      SC_ACCESS_TOKEN: ${{ secrets.SC_ACCESS_TOKEN }}
+      SC_REFRESH_TOKEN: ${{ secrets.SC_REFRESH_TOKEN }}
+      SC_TOKEN_FILE: ${{ github.workspace }}/Data/SoundCloud_Playlists/sc_token.json
+      SPOTIFY_TOKEN_CACHE_JSON: ${{ secrets.SPOTIFY_TOKEN_CACHE_JSON }}
+      SPOTIFY_TOKEN_CACHE_B64: ${{ secrets.SPOTIFY_TOKEN_CACHE_B64 }}
+      SC_TOKEN_JSON: ${{ secrets.SC_TOKEN_JSON }}
+      SC_TOKEN_B64: ${{ secrets.SC_TOKEN_B64 }}
+      REPO_SECRETS_TOKEN: ${{ secrets.REPO_SECRETS_TOKEN }}
+      PUSH_PLAYLISTS: ${{ github.event_name == 'schedule' || inputs.push_playlists == true }}
+      SKIP_REFRESH: ${{ inputs.skip_refresh || false }}
+      CANDIDATE_POOL_SIZE: ${{ inputs.candidate_pool_size || '150' }}
+      SOUNDCLOUD_TARGET_COUNT: ${{ inputs.soundcloud_target_count || '50' }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          python -m pip install --upgrade pip
+          while IFS= read -r req; do
+            python -m pip install -r "$req"
+          done < <(find "Data" "Pull and Push" -name requirements.txt -print)
+
+      - name: Restore API token caches
+        shell: bash
+        run: |
+          restore_secret_file() {
+            local raw_value="$1"
+            local b64_value="$2"
+            local destination="$3"
+
+            if [ -n "$b64_value" ]; then
+              printf '%s' "$b64_value" | base64 --decode > "$destination"
+            elif [ -n "$raw_value" ]; then
+              printf '%s' "$raw_value" > "$destination"
+            fi
+          }
+
+          restore_secret_file "$SPOTIFY_TOKEN_CACHE_JSON" "$SPOTIFY_TOKEN_CACHE_B64" "Pull and Push/.spotify_token_cache"
+          if [ -f "Pull and Push/.spotify_token_cache" ]; then
+            cp "Pull and Push/.spotify_token_cache" "Data/Spotify_Playlists/.spotify_token_cache"
+            cp "Pull and Push/.spotify_token_cache" "Data/Top_Artisits/.spotify_token_cache"
+          fi
+
+          restore_secret_file "$SC_TOKEN_JSON" "$SC_TOKEN_B64" "Data/SoundCloud_Playlists/sc_token.json"
+          if [ -f "Data/SoundCloud_Playlists/sc_token.json" ]; then
+            cp "Data/SoundCloud_Playlists/sc_token.json" "Pull and Push/sc_token.json"
+            cp "Data/SoundCloud_Playlists/sc_token.json" "Data/New tracks from people I follow/sc_token.json"
+            cp "Data/SoundCloud_Playlists/sc_token.json" "Data/Top_Artisits/sc_token.json"
+          fi
+
+      - name: Pull sources, rank songs, and update playlists
+        shell: bash
+        run: |
+          cd "Pull and Push"
+
+          args=(
+            --candidate-pool-size "$CANDIDATE_POOL_SIZE"
+            --soundcloud-target-count "$SOUNDCLOUD_TARGET_COUNT"
+          )
+
+          if [ "$PUSH_PLAYLISTS" = "true" ]; then
+            args+=(--push)
+          fi
+
+          if [ "$SKIP_REFRESH" = "true" ]; then
+            args+=(--skip-refresh)
+          fi
+
+          python3 -m src.main "${args[@]}"
+
+      - name: Persist refreshed token caches
+        if: always()
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.REPO_SECRETS_TOKEN }}
+        run: |
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "REPO_SECRETS_TOKEN is not set; refreshed token caches will not be saved back to GitHub Secrets."
+            exit 0
+          fi
+
+          update_b64_secret() {
+            local secret_name="$1"
+            local file_path="$2"
+
+            if [ ! -s "$file_path" ]; then
+              echo "Skipping $secret_name because $file_path does not exist or is empty."
+              return 0
+            fi
+
+            local encoded
+            encoded="$(base64 -w 0 "$file_path")"
+            gh secret set "$secret_name" --repo "$GITHUB_REPOSITORY" --body "$encoded"
+            echo "Updated $secret_name from $file_path."
+          }
+
+          update_b64_secret "SPOTIFY_TOKEN_CACHE_B64" "Pull and Push/.spotify_token_cache"
+          update_b64_secret "SC_TOKEN_B64" "Data/SoundCloud_Playlists/sc_token.json"
+
+      - name: Upload run outputs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: new-house-output-${{ github.run_id }}
+          path: |
+            Pull and Push/data/*.json
+            Pull and Push/data/source_outputs/*.json
+            Data/1001tracklists/data/extracted_releases.json
+          retention-days: 30

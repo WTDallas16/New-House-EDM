@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.env
+secrets.env
+sc_token.json
+data/*.json
+data/*.csv

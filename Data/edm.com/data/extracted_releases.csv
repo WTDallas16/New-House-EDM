@@ -1,0 +1,23 @@
+artist,track_or_project_title,release_type,confidence_score,extraction_method,source_article_title,source_article_url,source_name,article_date,embedded_music_links,release_article
+Ghastly,Dopamine Machine Vol. 1,unknown,0.7,regex,"Exclusive: Ghastly Returns With Vintage Comeback Mix, ‘Dopamine Machine Vol. 1’",https://edm.com/music-releases/ghastly-returns-comeback-mix-dopamine-machine-vol-1/,EDM.com,2026-04-30,,True
+Madeon and Slayyyter,Fire Away,single,0.95,regex,"Madeon and Slayyyter Pull the Pin on Electropop Grenade, ‘Fire Away’: Listen",https://edm.com/music-releases/madeon-new-album-victory-tracklist-slayyyter-fire-away/,EDM.com,2026-04-30,,True
+k?d,close your eyes,album,0.6,regex,"k?d Announces Sophomore Album With Release of Lead Single, ‘close your eyes’",https://edm.com/music-releases/kd-announces-sophomore-album-drops-lead-single-close-your-eyes/,EDM.com,2026-04-29,,True
+Dr. Fresch,Don’t Walk Away,single,0.6,regex,"Listen to Dr. Fresch’s First Solo Track in Three Years, ‘Don’t Walk Away’",https://edm.com/music-releases/listen-dr-fresch-first-solo-track-three-years-dont-walk-away/,EDM.com,2026-04-28,,True
+Alok,My Own Thang,EP,0.6,regex,"Alok Reconnects With the Dancefloor on Debut Hellbent EP, ‘My Own Thang’",https://edm.com/music-releases/alok-my-own-thang-ep/,EDM.com,,,True
+MPH,Unconditional,track,0.6,regex,"MPH Makes Major Label Debut With High-Energy UK Garage Track, ‘Unconditional’",https://edm.com/music-releases/mph-unconditional/,EDM.com,,,True
+Sarah de Warren and CIRCA96,Breathing Underwater,unknown,0.6,regex,"Love Becomes Life Support in Sarah de Warren and CIRCA96’s Trance Anthem, ‘Breathing Underwater’",https://edm.com/music-releases/sarah-de-warren-circa96-craig-connelly-breathing-underwater/,EDM.com,,,True
+NGHTMRE and Viperactive,Earthquake,track,0.6,regex,"NGHTMRE and Viperactive Bring the Thunder on Nostalgic Trap Banger, “Earthquake”",https://edm.com/music-releases/nghtmre-viperactive-earthquake/,EDM.com,,,True
+Armin van Buuren and Argy,Like a Child,unknown,0.85,regex,Two Worlds Collide on Armin van Buuren and Argy’s ‘Like a Child:’ Listen,https://edm.com/music-releases/armin-van-buuren-argy-like-a-child/,EDM.com,,,True
+TroyBoi,HUSH,single,0.6,regex,"TroyBoi and Daya Let the Groove Do the Talking on New Single, ‘HUSH’",https://edm.com/music-releases/troyboi-daya-hush/,EDM.com,,,True
+Of The Trees,Amanita,single,0.85,regex,Of The Trees to Donate Royalties From New Single to Environmental Causes: Listen to ‘Amanita’,https://edm.com/music-releases/of-the-trees-donating-royalties-new-single-amanita-environmental-causes/,EDM.com,,,True
+Deorro,Botas & Rave,album,0.6,regex,Deorro’s ‘Botas & Rave’ Album Fuses Mexican Tradition With the Global Dancefloor,https://edm.com/music-releases/deorro-new-album-botas-rave/,EDM.com,,,True
+"Klo, TIARO and Rakjay",MIDAS TOUCH,track,0.6,regex,"Klo, TIARO and Rakjay Drop Filthy UK Bass Track, ‘MIDAS TOUCH’",https://edm.com/music-releases/klo-tiaro-rakjay-midas-touch/,EDM.com,,,True
+JAMØ,it’s wonderful,track,0.6,regex,"JAMØ Drops Synth-Soaked Dance Track, ‘it’s wonderful’",https://edm.com/music-releases/jamo-its-wonderful/,EDM.com,,,True
+Martin Garrix,Catharina,remix,0.6,regex,Martin Garrix Unveils ‘Catharina’ Remix Pack With Fresh Takes on His Solo Vocal Debut,https://edm.com/music-releases/martin-garrix-catharina-remixes/,EDM.com,,,True
+Ray Volpe and Hedex,BrAiNdEaD,track,0.6,regex,"Ray Volpe and Hedex Land on UKF With Blistering Track, ‘BrAiNdEaD’",https://edm.com/music-releases/ray-volpe-hedex-braindead-ukf/,EDM.com,,,True
+G Jones and Eprom,Break of Dawn,EP,0.6,regex,"G Jones and Eprom Return With Mind-Bending EP, ‘Break of Dawn’",https://edm.com/music-releases/g-jones-eprom-break-of-dawn-ep/,EDM.com,,,True
+Vanco,Repeat,track,0.6,regex,"Listen to Vanco’s Sultry Afro-Tech Track, ‘Repeat’",https://edm.com/music-releases/vanco-deela-repeat/,EDM.com,,,True
+GRiZ,BBFL,track,0.85,regex,"Bass, Beats, Funk and Love: Listen to GRiZ’s Infectious Funkstep Banger, ‘BBFL’",https://edm.com/music-releases/griz-bbfl/,EDM.com,,,True
+Subtronics and Inéz,Eyes Cut Deeper,track,0.6,regex,"Subtronics and Inéz Drop Melodic Festival Anthem, ‘Eyes Cut Deeper’",https://edm.com/music-releases/subtronics-inez-eyes-cut-deeper/,EDM.com,,,True
+Getter,DOOM 2,EP,0.6,regex,"Getter Serves Up a Double Dose of Dread in New EP, ‘DOOM 2",https://edm.com/music-releases/getter-doom-2-ep/,EDM.com,,,True
+Claude VonStroke,Two Line Groove,track,0.6,regex,"Claude VonStroke Recruits His Kids for Infectious House Track, ‘Two Line Groove’",https://edm.com/music-releases/claude-vonstroke-recruits-kids-new-single-two-line-groove/,EDM.com,,,True

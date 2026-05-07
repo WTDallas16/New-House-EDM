@@ -1,0 +1,6 @@
+# url,limit
+https://www.musicmetricsvault.com/genres/house/268,100
+https://www.musicmetricsvault.com/genres/edm-trap/399,70
+https://www.musicmetricsvault.com/genres/afro-house/393,70
+https://www.musicmetricsvault.com/genres/funky-house/669,100
+https://www.musicmetricsvault.com/genres/tech-house/118,200

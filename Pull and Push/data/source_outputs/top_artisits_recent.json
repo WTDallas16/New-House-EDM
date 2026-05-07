@@ -1,0 +1,3352 @@
+[
+  {
+    "artist": "WhoMadeWho",
+    "track_or_project_title": "The wolfs",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "WhoMadeWho - The wolfs",
+    "source_article_url": "https://soundcloud.com/whomadewho/the-wolfs?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-04",
+    "ranking_score": 89.72,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 1928520,
+        "source_rank": 39,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 0
+      },
+      "components": {
+        "monthly_listeners": 0.8496,
+        "source_rank": 0.924,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 1.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/whomadewho/the-wolfs?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2314683815",
+      "soundcloud_user_id": "1477143",
+      "soundcloud_username": "WhoMadeWho",
+      "soundcloud_profile_url": "https://soundcloud.com/whomadewho?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "WhoMadeWho",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "39",
+      "source_artist_monthly_listeners": "1928520",
+      "all_artists": "WhoMadeWho",
+      "genre": "",
+      "tag_list": " ",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "350066",
+      "playback_count": "210",
+      "likes_count": "68",
+      "reposts_count": "3",
+      "created_at": "2026/05/04 21:27:12 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Dom Dolla",
+    "track_or_project_title": "Don't Worry Baby",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Dom Dolla - Don't Worry Baby",
+    "source_article_url": "https://soundcloud.com/domdolla/dontworrybaby?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-29",
+    "ranking_score": 82.66,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 6984127,
+        "source_rank": 6,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 5
+      },
+      "components": {
+        "monthly_listeners": 0.9251,
+        "source_rank": 0.99,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.2857
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/domdolla/dontworrybaby?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311540286",
+      "soundcloud_user_id": "627109",
+      "soundcloud_username": "⠶ Dom Dolla ⠶",
+      "soundcloud_profile_url": "https://soundcloud.com/domdolla?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Dom Dolla",
+      "source_artist_genres": "house | tech house",
+      "source_artist_rank": "6",
+      "source_artist_monthly_listeners": "6984127",
+      "all_artists": "Dom Dolla",
+      "genre": "Electronic",
+      "tag_list": " ",
+      "label": "Three Six Zero Recordings/Columbia Records/Good Fortune Recods",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "207272",
+      "playback_count": "14780",
+      "likes_count": "1188",
+      "reposts_count": "49",
+      "created_at": "2026/04/29 19:15:30 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Cloonee & Groove theory",
+    "track_or_project_title": "One Question",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Cloonee & Groove theory - One Question",
+    "source_article_url": "https://soundcloud.com/cloonee/one-question?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-29",
+    "ranking_score": 80.87,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 4424893,
+        "source_rank": 12,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 5
+      },
+      "components": {
+        "monthly_listeners": 0.8983,
+        "source_rank": 0.978,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.2857
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cloonee/one-question?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311131638",
+      "soundcloud_user_id": "78975954",
+      "soundcloud_username": "Cloonee",
+      "soundcloud_profile_url": "https://soundcloud.com/cloonee?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cloonee",
+      "source_artist_genres": "house | tech house",
+      "source_artist_rank": "12",
+      "source_artist_monthly_listeners": "4424893",
+      "all_artists": "Cloonee & Groove theory",
+      "genre": "Tech House",
+      "tag_list": " Cloonee \"Groove Theory\" \"one question\" \"if you only knew\" hellbent",
+      "label": "Hellbent & Relentless",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "184019",
+      "playback_count": "18997",
+      "likes_count": "2155",
+      "reposts_count": "53",
+      "created_at": "2026/04/29 01:59:59 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Superlover",
+    "track_or_project_title": "Shake Affair (Extended Mix)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Superlover - Shake Affair (Extended Mix)",
+    "source_article_url": "https://soundcloud.com/superlover/superlover-shake-affair?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-04",
+    "ranking_score": 78.65,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 189892,
+        "source_rank": 106,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 0
+      },
+      "components": {
+        "monthly_listeners": 0.7135,
+        "source_rank": 0.79,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 1.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/superlover/superlover-shake-affair?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2314585877",
+      "soundcloud_user_id": "143304",
+      "soundcloud_username": "SUPERLOVER",
+      "soundcloud_profile_url": "https://soundcloud.com/superlover?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Superlover",
+      "source_artist_genres": "funky house",
+      "source_artist_rank": "106",
+      "source_artist_monthly_listeners": "189892",
+      "all_artists": "Superlover",
+      "genre": "funky house ",
+      "tag_list": " ",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "301935",
+      "playback_count": "24",
+      "likes_count": "5",
+      "reposts_count": "1",
+      "created_at": "2026/05/04 18:37:02 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BLOND:ISH",
+    "track_or_project_title": "In Da Jungle",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BLOND:ISH - In Da Jungle",
+    "source_article_url": "https://soundcloud.com/blondish/blond-ish-in-da-jungle-preview?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 76.23,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 5355691,
+        "source_rank": 13,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.9096,
+        "source_rank": 0.976,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/blondish/blond-ish-in-da-jungle-preview?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310435935",
+      "soundcloud_user_id": "654025",
+      "soundcloud_username": "BLOND:ISH",
+      "soundcloud_profile_url": "https://soundcloud.com/blondish?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BLOND:ISH",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "13",
+      "source_artist_monthly_listeners": "5355691",
+      "all_artists": "BLOND:ISH",
+      "genre": "Electronic",
+      "tag_list": " ",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "164275",
+      "playback_count": "3346",
+      "likes_count": "267",
+      "reposts_count": "13",
+      "created_at": "2026/04/27 23:08:40 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Gesaffelstein & The Weeknd",
+    "track_or_project_title": "Lost in the Fire (Space Motion Remix) FREE DOWNNLOAD",
+    "release_type": "remix",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Gesaffelstein & The Weeknd - Lost in the Fire (Space Motion Remix) FREE DOWNNLOAD",
+    "source_article_url": "https://soundcloud.com/spacemotion/gesaffelstein-the-weeknd-lost?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-30",
+    "ranking_score": 73.38,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 740761,
+        "source_rank": 92,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 4
+      },
+      "components": {
+        "monthly_listeners": 0.7934,
+        "source_rank": 0.818,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.4286
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/spacemotion/gesaffelstein-the-weeknd-lost?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312224862",
+      "soundcloud_user_id": "25257",
+      "soundcloud_username": "SPACE MOTION",
+      "soundcloud_profile_url": "https://soundcloud.com/spacemotion?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Space Motion",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "92",
+      "source_artist_monthly_listeners": "740761",
+      "all_artists": "Gesaffelstein & The Weeknd",
+      "genre": "House",
+      "tag_list": " \"Space Motion\" Gesaffelstein \"The Weeknd\" \"Lost in the Fire\"",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "255686",
+      "playback_count": "1066",
+      "likes_count": "230",
+      "reposts_count": "74",
+      "created_at": "2026/04/30 16:56:29 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Paul Jockey",
+    "track_or_project_title": "Al Mio Paese (Demo vocal filtered)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Paul Jockey - Al Mio Paese (Demo vocal filtered)",
+    "source_article_url": "https://soundcloud.com/pauljockey/al-mio-paese-demo-vocal?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 73.28,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 185973,
+        "source_rank": 108,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7123,
+        "source_rank": 0.786,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/pauljockey/al-mio-paese-demo-vocal?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313231110",
+      "soundcloud_user_id": "3750611",
+      "soundcloud_username": "Paul Jockey",
+      "soundcloud_profile_url": "https://soundcloud.com/pauljockey?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Paul Jockey",
+      "source_artist_genres": "funky house",
+      "source_artist_rank": "108",
+      "source_artist_monthly_listeners": "185973",
+      "all_artists": "Paul Jockey",
+      "genre": "House",
+      "tag_list": " Tribal Afro \" dance\" remix house brancale levante delia \"al mio paese\" \"dance remix\" \"house remix\" \"afro remix\" \"tribal remix\" \"afro tribal remix\" \"hit estiva\"",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "103444",
+      "playback_count": "72",
+      "likes_count": "0",
+      "reposts_count": "11",
+      "created_at": "2026/05/02 09:10:15 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "TroyBoi",
+    "track_or_project_title": "Hush",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "TroyBoi - Hush",
+    "source_article_url": "https://soundcloud.com/troyboi/hush?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 73.0,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 1644908,
+        "source_rank": 3,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.8403,
+        "source_rank": 0.996,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/troyboi/hush?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310361727",
+      "soundcloud_user_id": "1578091",
+      "soundcloud_username": "TroyBoi",
+      "soundcloud_profile_url": "https://soundcloud.com/troyboi?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "TroyBoi",
+      "source_artist_genres": "edm trap",
+      "source_artist_rank": "3",
+      "source_artist_monthly_listeners": "1644908",
+      "all_artists": "TroyBoi",
+      "genre": "Dance & EDM",
+      "tag_list": " troyboi daya ultra hush \"Dance & EDM\"",
+      "label": "T Dot Music/ Ultra Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "193358",
+      "playback_count": "9161",
+      "likes_count": "1174",
+      "reposts_count": "64",
+      "created_at": "2026/04/27 20:35:51 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "SUGARSTARR",
+    "track_or_project_title": "MIND MADE UP (EDIT)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "SUGARSTARR - MIND MADE UP (EDIT)",
+    "source_article_url": "https://soundcloud.com/sugarstarr/sugarstarr-mind-made-up-short?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-01",
+    "ranking_score": 71.09,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 194077,
+        "source_rank": 103,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 3
+      },
+      "components": {
+        "monthly_listeners": 0.7148,
+        "source_rank": 0.796,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.5714
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/sugarstarr/sugarstarr-mind-made-up-short?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312716019",
+      "soundcloud_user_id": "486291",
+      "soundcloud_username": "SUGARSTARR",
+      "soundcloud_profile_url": "https://soundcloud.com/sugarstarr?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Sugarstarr",
+      "source_artist_genres": "funky house",
+      "source_artist_rank": "103",
+      "source_artist_monthly_listeners": "194077",
+      "all_artists": "SUGARSTARR",
+      "genre": "House",
+      "tag_list": " ",
+      "label": "SUGARSTARR TRAXX",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "175751",
+      "playback_count": "93",
+      "likes_count": "5",
+      "reposts_count": "1",
+      "created_at": "2026/05/01 11:30:06 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Gist in Club",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Gist in Club",
+    "source_article_url": "https://soundcloud.com/bijou/gist-in-club?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/gist-in-club?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313087644",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "195653",
+      "playback_count": "27",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:29:02 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "What Are We",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - What Are We",
+    "source_article_url": "https://soundcloud.com/bijou/what-are-we?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/what-are-we?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313087554",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "169840",
+      "playback_count": "10",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:28:59 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Feel Connected",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Feel Connected",
+    "source_article_url": "https://soundcloud.com/bijou/feel-connected?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/feel-connected?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313086435",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "68586",
+      "playback_count": "7",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:28:04 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Let's Go Worldwide",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Let's Go Worldwide",
+    "source_article_url": "https://soundcloud.com/bijou/lets-go-worldwide?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/lets-go-worldwide?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313085931",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "148133",
+      "playback_count": "30",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:27:37 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Don't Wanna Miss You",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Don't Wanna Miss You",
+    "source_article_url": "https://soundcloud.com/bijou/dont-wanna-miss-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/dont-wanna-miss-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313085622",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "253693",
+      "playback_count": "5",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:27:21 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Everyday My Birthday",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Everyday My Birthday",
+    "source_article_url": "https://soundcloud.com/bijou/everyday-my-birthday?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/everyday-my-birthday?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313085391",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "240613",
+      "playback_count": "7",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:27:10 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Hate Love Story",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Hate Love Story",
+    "source_article_url": "https://soundcloud.com/bijou/hate-love-story?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/hate-love-story?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313085328",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "179666",
+      "playback_count": "2",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:27:07 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "I Can't Tell Why",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - I Can't Tell Why",
+    "source_article_url": "https://soundcloud.com/bijou/i-cant-tell-why?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/i-cant-tell-why?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313085091",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "214333",
+      "playback_count": "3",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:26:57 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Eastern World",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Eastern World",
+    "source_article_url": "https://soundcloud.com/bijou/eastern-world?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/eastern-world?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313085034",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "290653",
+      "playback_count": "2",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:26:54 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Waiting For The Day",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Waiting For The Day",
+    "source_article_url": "https://soundcloud.com/bijou/waiting-for-the-day?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/waiting-for-the-day?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313085004",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "322213",
+      "playback_count": "6",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:26:53 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "I Am a Disco Player",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - I Am a Disco Player",
+    "source_article_url": "https://soundcloud.com/bijou/i-am-a-disco-player?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/i-am-a-disco-player?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313084053",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "143560",
+      "playback_count": "5",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:26:07 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Guys on Holiday",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Guys on Holiday",
+    "source_article_url": "https://soundcloud.com/bijou/guys-on-holiday?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/guys-on-holiday?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313083993",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "267040",
+      "playback_count": "3",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:26:04 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Care to see Your Face",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Care to see Your Face",
+    "source_article_url": "https://soundcloud.com/bijou/care-to-see-your-face?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/care-to-see-your-face?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313081881",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "189666",
+      "playback_count": "1",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:24:27 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Win or Loose The Game",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Win or Loose The Game",
+    "source_article_url": "https://soundcloud.com/bijou/win-or-loose-the-game?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/win-or-loose-the-game?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313081827",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "290653",
+      "playback_count": "1",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:24:23 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Lord Thank You",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Lord Thank You",
+    "source_article_url": "https://soundcloud.com/bijou/lord-thank-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/lord-thank-you?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313080444",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "228960",
+      "playback_count": "5",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:23:13 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Do You Gonna Love Me",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Do You Gonna Love Me",
+    "source_article_url": "https://soundcloud.com/bijou/do-you-gonna-love-me?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/do-you-gonna-love-me?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313079913",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "175666",
+      "playback_count": "6",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:22:49 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BIJOU",
+    "track_or_project_title": "Gone Not Forgotten",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "BIJOU - Gone Not Forgotten",
+    "source_article_url": "https://soundcloud.com/bijou/gone-not-forgotten?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-02",
+    "ranking_score": 70.08,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 225840,
+        "source_rank": 178,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 2
+      },
+      "components": {
+        "monthly_listeners": 0.7237,
+        "source_rank": 0.646,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.7143
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/bijou/gone-not-forgotten?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2313079136",
+      "soundcloud_user_id": "2080568",
+      "soundcloud_username": "BIJOU",
+      "soundcloud_profile_url": "https://soundcloud.com/bijou?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "BIJOU",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "178",
+      "source_artist_monthly_listeners": "225840",
+      "all_artists": "BIJOU",
+      "genre": "World Music",
+      "tag_list": " African",
+      "label": "Eastern World Entertainment",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "192173",
+      "playback_count": "10",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/05/02 00:22:13 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Sun-El Musician",
+    "track_or_project_title": "Nawal Banna Ghodi Chadya",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Sun-El Musician - Nawal Banna Ghodi Chadya",
+    "source_article_url": "https://soundcloud.com/sun-elmusician/nawal-banna-ghodi-chadya?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 67.88,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 1008199,
+        "source_rank": 68,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.8115,
+        "source_rank": 0.866,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/sun-elmusician/nawal-banna-ghodi-chadya?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309954096",
+      "soundcloud_user_id": "432144249",
+      "soundcloud_username": "Sun-EL Musician",
+      "soundcloud_profile_url": "https://soundcloud.com/sun-elmusician?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Sun-El Musician",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "68",
+      "source_artist_monthly_listeners": "1008199",
+      "all_artists": "Sun-El Musician",
+      "genre": "Folk",
+      "tag_list": " \"Lagna Geet /Marriage Song\"",
+      "label": "PRG Music and Film Studio",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "309028",
+      "playback_count": "4",
+      "likes_count": "0",
+      "reposts_count": "0",
+      "created_at": "2026/04/27 09:25:43 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Hannah Wants",
+    "track_or_project_title": "chochito feat. nadx",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Hannah Wants - chochito feat. nadx",
+    "source_article_url": "https://soundcloud.com/hannah_wants/chochito-feat-nadx?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-28",
+    "ranking_score": 66.86,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 700031,
+        "source_rank": 113,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 6
+      },
+      "components": {
+        "monthly_listeners": 0.7901,
+        "source_rank": 0.776,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.1429
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/hannah_wants/chochito-feat-nadx?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310925727",
+      "soundcloud_user_id": "72049",
+      "soundcloud_username": "Hannah Wants",
+      "soundcloud_profile_url": "https://soundcloud.com/hannah_wants?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Hannah Wants",
+      "source_artist_genres": "house",
+      "source_artist_rank": "113",
+      "source_artist_monthly_listeners": "700031",
+      "all_artists": "Hannah Wants",
+      "genre": "House",
+      "tag_list": " minimal deep tech",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "346721",
+      "playback_count": "1057",
+      "likes_count": "104",
+      "reposts_count": "5",
+      "created_at": "2026/04/28 18:42:09 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Hannah Wants",
+    "track_or_project_title": "hope you think of me",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Hannah Wants - hope you think of me",
+    "source_article_url": "https://soundcloud.com/hannah_wants/hopeyouthinkofmi?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-28",
+    "ranking_score": 66.86,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 700031,
+        "source_rank": 113,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 6
+      },
+      "components": {
+        "monthly_listeners": 0.7901,
+        "source_rank": 0.776,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.1429
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/hannah_wants/hopeyouthinkofmi?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310924701",
+      "soundcloud_user_id": "72049",
+      "soundcloud_username": "Hannah Wants",
+      "soundcloud_profile_url": "https://soundcloud.com/hannah_wants?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Hannah Wants",
+      "source_artist_genres": "house",
+      "source_artist_rank": "113",
+      "source_artist_monthly_listeners": "700031",
+      "all_artists": "Hannah Wants",
+      "genre": "House",
+      "tag_list": " minimal deep tech",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "354635",
+      "playback_count": "614",
+      "likes_count": "37",
+      "reposts_count": "4",
+      "created_at": "2026/04/28 18:39:46 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Leonidas K.",
+    "track_or_project_title": "Esta Noche [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Leonidas K. - Esta Noche [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/leonidas-k-esta-noche-cafe-de?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/leonidas-k-esta-noche-cafe-de?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309903162",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "Leonidas K.",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "336039",
+      "playback_count": "284",
+      "likes_count": "26",
+      "reposts_count": "3",
+      "created_at": "2026/04/27 06:16:15 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "ALEX ACEA",
+    "track_or_project_title": "Cabanas (Billy Esteban, Rialians on Earth Remix) [Cafe De Anatolia]",
+    "release_type": "remix",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "ALEX ACEA - Cabanas (Billy Esteban, Rialians on Earth Remix) [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/alex-acea-cabanas-billy?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/alex-acea-cabanas-billy?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309902943",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "ALEX ACEA",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "159399",
+      "playback_count": "157",
+      "likes_count": "10",
+      "reposts_count": "3",
+      "created_at": "2026/04/27 06:15:06 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "PiLo (IL)",
+    "track_or_project_title": "Come on Over [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "PiLo (IL) - Come on Over [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/pilo-il-come-on-over-cafe-de?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/pilo-il-come-on-over-cafe-de?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309898629",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "PiLo (IL)",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "208091",
+      "playback_count": "119",
+      "likes_count": "5",
+      "reposts_count": "2",
+      "created_at": "2026/04/27 05:57:00 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Tamer ElDerini",
+    "track_or_project_title": "Hayat (BEBO (EG) Remix) [Cafe De Anatolia]",
+    "release_type": "remix",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Tamer ElDerini - Hayat (BEBO (EG) Remix) [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/tamer-elderini-hayat-bebo-eg?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/tamer-elderini-hayat-bebo-eg?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309900693",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "Tamer ElDerini",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "321358",
+      "playback_count": "104",
+      "likes_count": "6",
+      "reposts_count": "3",
+      "created_at": "2026/04/27 06:05:49 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Milo S",
+    "track_or_project_title": "Bahar [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Milo S - Bahar [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/milo-s-bahar-cafe-de-anatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/milo-s-bahar-cafe-de-anatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309899472",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "Milo S",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "192052",
+      "playback_count": "101",
+      "likes_count": "6",
+      "reposts_count": "1",
+      "created_at": "2026/04/27 06:00:43 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Bull&Jems",
+    "track_or_project_title": "Abasazi [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Bull&Jems - Abasazi [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/bull-jems-abasazi-cafe-de?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/bull-jems-abasazi-cafe-de?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309900348",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "Bull&Jems",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "356048",
+      "playback_count": "88",
+      "likes_count": "5",
+      "reposts_count": "1",
+      "created_at": "2026/04/27 06:04:25 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "KÄY (CA), Freddy da Stupid, Mr Joe",
+    "track_or_project_title": "Ekhaya (Instrumental Mix) [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "KÄY (CA), Freddy da Stupid, Mr Joe - Ekhaya (Instrumental Mix) [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/kay-ca-freddy-da-stupid-mr-joe-ekhaya-instrumental-mix-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/kay-ca-freddy-da-stupid-mr-joe-ekhaya-instrumental-mix-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309902415",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "KÄY (CA), Freddy da Stupid, Mr Joe",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "353175",
+      "playback_count": "30",
+      "likes_count": "1",
+      "reposts_count": "1",
+      "created_at": "2026/04/27 06:12:40 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "KÄY (CA), Freddy da Stupid, Mr Joe",
+    "track_or_project_title": "Ekhaya [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "KÄY (CA), Freddy da Stupid, Mr Joe - Ekhaya [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/kay-ca-freddy-da-stupid-mr-joe-ekhaya-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/kay-ca-freddy-da-stupid-mr-joe-ekhaya-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309902412",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "KÄY (CA), Freddy da Stupid, Mr Joe",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "353175",
+      "playback_count": "36",
+      "likes_count": "0",
+      "reposts_count": "1",
+      "created_at": "2026/04/27 06:12:40 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Ben Lipshitz, Emma El Shir",
+    "track_or_project_title": "Your Girl [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Ben Lipshitz, Emma El Shir - Your Girl [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/ben-lipshitz-emma-el-shir-your-girl-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/ben-lipshitz-emma-el-shir-your-girl-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309901767",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "Ben Lipshitz, Emma El Shir",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "335281",
+      "playback_count": "63",
+      "likes_count": "1",
+      "reposts_count": "0",
+      "created_at": "2026/04/27 06:10:13 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Ben Lipshitz, Havana Klosh",
+    "track_or_project_title": "Use My Body [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Ben Lipshitz, Havana Klosh - Use My Body [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/ben-lipshitz-havana-klosh-use-my-body-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/ben-lipshitz-havana-klosh-use-my-body-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309901764",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "Ben Lipshitz, Havana Klosh",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "299075",
+      "playback_count": "34",
+      "likes_count": "1",
+      "reposts_count": "0",
+      "created_at": "2026/04/27 06:10:13 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "John Andres",
+    "track_or_project_title": "Bailemos feat. Isla Vieri [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "John Andres - Bailemos feat. Isla Vieri [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/john-andres-bailemos-feat-isla-vieri-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/john-andres-bailemos-feat-isla-vieri-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309901161",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "John Andres",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "178416",
+      "playback_count": "49",
+      "likes_count": "4",
+      "reposts_count": "2",
+      "created_at": "2026/04/27 06:07:39 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "John Andres",
+    "track_or_project_title": "Bailemos feat. Isla Vieri (Extended Mix) [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "John Andres - Bailemos feat. Isla Vieri (Extended Mix) [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/john-andres-bailemos-feat-isla-vieri-extended-mix-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/john-andres-bailemos-feat-isla-vieri-extended-mix-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309901158",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "John Andres",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "316630",
+      "playback_count": "36",
+      "likes_count": "1",
+      "reposts_count": "2",
+      "created_at": "2026/04/27 06:07:39 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "DJ Danika",
+    "track_or_project_title": "Midnight Drop [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "DJ Danika - Midnight Drop [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/dj-danika-midnight-drop-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/dj-danika-midnight-drop-cafe-de-anatolia-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309899955",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "DJ Danika",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "317387",
+      "playback_count": "41",
+      "likes_count": "0",
+      "reposts_count": "1",
+      "created_at": "2026/04/27 06:02:41 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "DJ Danika",
+    "track_or_project_title": "Destino [Cafe De Anatolia]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "DJ Danika - Destino [Cafe De Anatolia]",
+    "source_article_url": "https://soundcloud.com/cafedeanatolia/dj-danika-destino-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-27",
+    "ranking_score": 66.2,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 795611,
+        "source_rank": 85,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 7
+      },
+      "components": {
+        "monthly_listeners": 0.7976,
+        "source_rank": 0.832,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.0
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/cafedeanatolia/dj-danika-destino-cafe-de-anatolia-2?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2309899952",
+      "soundcloud_user_id": "317180331",
+      "soundcloud_username": "Cafe De Anatolia",
+      "soundcloud_profile_url": "https://soundcloud.com/cafedeanatolia?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Cafe De Anatolia",
+      "source_artist_genres": "afro house",
+      "source_artist_rank": "85",
+      "source_artist_monthly_listeners": "795611",
+      "all_artists": "DJ Danika",
+      "genre": "Electronic",
+      "tag_list": " \"organic house\" electronica downtempo \"melodic house\"",
+      "label": "Cafe De Anatolia",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "365949",
+      "playback_count": "29",
+      "likes_count": "1",
+      "reposts_count": "1",
+      "created_at": "2026/04/27 06:02:41 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Ahmet Kilic",
+    "track_or_project_title": "The Power Of Love",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Ahmet Kilic - The Power Of Love",
+    "source_article_url": "https://soundcloud.com/ahmet-kilic/ahmet-kilic-the-power-of-love?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-05-01",
+    "ranking_score": 66.17,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 207544,
+        "source_rank": 197,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 3
+      },
+      "components": {
+        "monthly_listeners": 0.7187,
+        "source_rank": 0.608,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.5714
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/ahmet-kilic/ahmet-kilic-the-power-of-love?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312641733",
+      "soundcloud_user_id": "12475833",
+      "soundcloud_username": "Ahmet Kilic",
+      "soundcloud_profile_url": "https://soundcloud.com/ahmet-kilic?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Ahmet Kilic",
+      "source_artist_genres": "house",
+      "source_artist_rank": "197",
+      "source_artist_monthly_listeners": "207544",
+      "all_artists": "Ahmet Kilic",
+      "genre": "Deep House",
+      "tag_list": " \"Nu Disco\" \"Deep House\" Dance \"Indie Dance\"",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "206293",
+      "playback_count": "1653",
+      "likes_count": "88",
+      "reposts_count": "8",
+      "created_at": "2026/05/01 07:49:42 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Ridney & Ria Hanley",
+    "track_or_project_title": "The High",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Ridney & Ria Hanley - The High",
+    "source_article_url": "https://soundcloud.com/ridney/ridney-ria-hanley-the-high?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-29",
+    "ranking_score": 65.21,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 182662,
+        "source_rank": 112,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 5
+      },
+      "components": {
+        "monthly_listeners": 0.7112,
+        "source_rank": 0.778,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.2857
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/ridney/ridney-ria-hanley-the-high?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2311256312",
+      "soundcloud_user_id": "31948",
+      "soundcloud_username": "ridney",
+      "soundcloud_profile_url": "https://soundcloud.com/ridney?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Ridney",
+      "source_artist_genres": "funky house",
+      "source_artist_rank": "112",
+      "source_artist_monthly_listeners": "182662",
+      "all_artists": "Ridney & Ria Hanley",
+      "genre": "Deep House",
+      "tag_list": " \"Jazz House\"",
+      "label": "Paharas Musica",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "255683",
+      "playback_count": "266",
+      "likes_count": "4",
+      "reposts_count": "1",
+      "created_at": "2026/04/29 08:45:32 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Dale Howard",
+    "track_or_project_title": "Hypnotic (Radio Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Dale Howard - Hypnotic (Radio Edit)",
+    "source_article_url": "https://soundcloud.com/dalehoward/hypnotic-radio-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-30",
+    "ranking_score": 58.36,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 127414,
+        "source_rank": 264,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 4
+      },
+      "components": {
+        "monthly_listeners": 0.6901,
+        "source_rank": 0.474,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.4286
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/dalehoward/hypnotic-radio-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312351417",
+      "soundcloud_user_id": "48406",
+      "soundcloud_username": "Dale Howard",
+      "soundcloud_profile_url": "https://soundcloud.com/dalehoward?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Dale Howard",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "264",
+      "source_artist_monthly_listeners": "127414",
+      "all_artists": "Dale Howard",
+      "genre": "Electronic",
+      "tag_list": " House",
+      "label": "Hush.",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "220004",
+      "playback_count": "11",
+      "likes_count": "1",
+      "reposts_count": "0",
+      "created_at": "2026/04/30 20:41:16 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Dale Howard",
+    "track_or_project_title": "Rhythm & Rhyme (Radio Edit)",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Dale Howard - Rhythm & Rhyme (Radio Edit)",
+    "source_article_url": "https://soundcloud.com/dalehoward/rhythm-rhyme-radio-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-30",
+    "ranking_score": 58.36,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 127414,
+        "source_rank": 264,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 4
+      },
+      "components": {
+        "monthly_listeners": 0.6901,
+        "source_rank": 0.474,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.4286
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/dalehoward/rhythm-rhyme-radio-edit?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2312351027",
+      "soundcloud_user_id": "48406",
+      "soundcloud_username": "Dale Howard",
+      "soundcloud_profile_url": "https://soundcloud.com/dalehoward?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Dale Howard",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "264",
+      "source_artist_monthly_listeners": "127414",
+      "all_artists": "Dale Howard",
+      "genre": "Electronic",
+      "tag_list": " House",
+      "label": "Hush.",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "213454",
+      "playback_count": "12",
+      "likes_count": "1",
+      "reposts_count": "0",
+      "created_at": "2026/04/30 20:40:40 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Sebb Junior",
+    "track_or_project_title": "Get Down (Re-Vision) | TRAXSOURCE EXCLUSIVE",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "Sebb Junior - Get Down (Re-Vision) | TRAXSOURCE EXCLUSIVE",
+    "source_article_url": "https://soundcloud.com/sebb_junior/premiere-get-down-re-vision?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-28",
+    "ranking_score": 58.13,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 115107,
+        "source_rank": 167,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 6
+      },
+      "components": {
+        "monthly_listeners": 0.6841,
+        "source_rank": 0.668,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.1429
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/sebb_junior/premiere-get-down-re-vision?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310751772",
+      "soundcloud_user_id": "9466319",
+      "soundcloud_username": "Sebb Junior",
+      "soundcloud_profile_url": "https://soundcloud.com/sebb_junior?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Sebb Junior",
+      "source_artist_genres": "funky house",
+      "source_artist_rank": "167",
+      "source_artist_monthly_listeners": "115107",
+      "all_artists": "Sebb Junior",
+      "genre": "House",
+      "tag_list": " ",
+      "label": "La Vie D'Artiste Music",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "228562",
+      "playback_count": "308",
+      "likes_count": "28",
+      "reposts_count": "3",
+      "created_at": "2026/04/28 13:50:24 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "PREMIERE: Human By Nature",
+    "track_or_project_title": "King Of Bong [Lisztomania Records]",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "PREMIERE: Human By Nature - King Of Bong [Lisztomania Records]",
+    "source_article_url": "https://soundcloud.com/igorgonya/premiere-human-by-nature-king?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-28",
+    "ranking_score": 57.59,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 111530,
+        "source_rank": 175,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 6
+      },
+      "components": {
+        "monthly_listeners": 0.6823,
+        "source_rank": 0.652,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.1429
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/igorgonya/premiere-human-by-nature-king?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310616139",
+      "soundcloud_user_id": "47654473",
+      "soundcloud_username": "Igor Gonya",
+      "soundcloud_profile_url": "https://soundcloud.com/igorgonya?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "Igor Gonya",
+      "source_artist_genres": "funky house",
+      "source_artist_rank": "175",
+      "source_artist_monthly_listeners": "111530",
+      "all_artists": "PREMIERE: Human By Nature",
+      "genre": "House",
+      "tag_list": " Premiere \"Human By Nature\" \"Lisztomania Records\" House \"Jackin House\" \"Funky House\"",
+      "label": "Lisztomania Records",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "406256",
+      "playback_count": "379",
+      "likes_count": "39",
+      "reposts_count": "5",
+      "created_at": "2026/04/28 07:29:55 +0000"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "ChaseWest",
+    "track_or_project_title": "1-800-SPIN-THE-BLOCK",
+    "release_type": "track",
+    "confidence_score": 0.7999999999999999,
+    "extraction_method": "soundcloud_artist_profile_api",
+    "source_article_title": "ChaseWest - 1-800-SPIN-THE-BLOCK",
+    "source_article_url": "https://soundcloud.com/chase_west/1-800-spin-the-block?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+    "source_name": "SoundCloud Artist Profile",
+    "article_date": "2026-04-28",
+    "ranking_score": 54.17,
+    "ranking_factors": {
+      "score_version": "spotify_artist_profile_v1",
+      "score_description": "0-100 weighted score using MusicMetricsVault monthly listeners/rank, Spotify artist popularity/followers when available, Spotify track popularity when available, and recency.",
+      "weights": {
+        "monthly_listeners": 0.3,
+        "source_rank": 0.15,
+        "spotify_artist_popularity": 0.2,
+        "spotify_artist_followers": 0.1,
+        "spotify_track_popularity": 0.15,
+        "recency": 0.1
+      },
+      "available_weight": 0.55,
+      "raw": {
+        "monthly_listeners": 142248,
+        "source_rank": 252,
+        "spotify_artist_popularity": null,
+        "spotify_artist_followers": null,
+        "spotify_track_popularity": null,
+        "release_age_days": 6
+      },
+      "components": {
+        "monthly_listeners": 0.6966,
+        "source_rank": 0.498,
+        "spotify_artist_popularity": 0.0,
+        "spotify_artist_followers": 0.0,
+        "spotify_track_popularity": 0.0,
+        "recency": 0.1429
+      }
+    },
+    "embedded_music_links": [
+      "https://soundcloud.com/chase_west/1-800-spin-the-block?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429"
+    ],
+    "open_graph": {
+      "soundcloud_track_id": "2310829907",
+      "soundcloud_user_id": "6700128",
+      "soundcloud_username": "CHASEWEST",
+      "soundcloud_profile_url": "https://soundcloud.com/chase_west?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
+      "source_artist_name": "ChaseWest",
+      "source_artist_genres": "tech house",
+      "source_artist_rank": "252",
+      "source_artist_monthly_listeners": "142248",
+      "all_artists": "ChaseWest",
+      "genre": "",
+      "tag_list": " ",
+      "label": "",
+      "album_name": "",
+      "isrc": "",
+      "explicit": "False",
+      "duration_ms": "267906",
+      "playback_count": "8334",
+      "likes_count": "1167",
+      "reposts_count": "24",
+      "created_at": "2026/04/28 15:39:45 +0000"
+    },
+    "release_article": true
+  }
+]

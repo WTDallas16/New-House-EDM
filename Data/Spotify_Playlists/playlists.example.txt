@@ -1,0 +1,3 @@
+# Add one Spotify playlist URL, URI, or ID per line.
+# https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W
+# spotify:playlist:37i9dQZF1DXa8NOEUWPn9W

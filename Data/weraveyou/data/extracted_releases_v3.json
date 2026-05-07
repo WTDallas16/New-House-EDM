@@ -1,0 +1,118 @@
+[
+  {
+    "artist": "Denis First",
+    "track_or_project_title": "La La La",
+    "release_type": "unknown",
+    "confidence_score": 0.85,
+    "extraction_method": "regex",
+    "source_article_title": "Denis First unveils feel-good house anthem ‘La La La’: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/denis-first-la-la-la-house-single/",
+    "source_name": "We Rave You",
+    "article_date": "2026-04-29",
+    "embedded_music_links": [],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Denis First unveils feel-good house anthem 'La La La'",
+      "og:description": "Denis First has dropped 'La La La', a feel-good house anthem framed as a sonic reset for the overthinking generation, out now.",
+      "og:url": "https://weraveyou.com/2026/04/denis-first-la-la-la-house-single/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2026/04/Denis-First-c-Tasula-scaled.jpg",
+      "og:image:width": "2560",
+      "og:image:height": "1920",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Statikk",
+    "track_or_project_title": "Self Control",
+    "release_type": "single",
+    "confidence_score": 1.0,
+    "extraction_method": "regex+embedded_player",
+    "source_article_title": "Statikk channels groove and movement on new single ‘Self Control’: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/statikk-self-control-single/",
+    "source_name": "We Rave You",
+    "article_date": "2026-04-26",
+    "embedded_music_links": [
+      "https://open.spotify.com/album/5dtrV6pAh4Fuaw3Ravv67G"
+    ],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Statikk drops new single 'Self Control'",
+      "og:description": "Statikk returns with new single 'Self Control', a feel-good electronic track shaped by house, tech house and a love of groove and movement.",
+      "og:url": "https://weraveyou.com/2026/04/statikk-self-control-single/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2026/04/Statikk-photo-1_11zon.jpg",
+      "og:image:width": "1200",
+      "og:image:height": "1185",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "DJs From Mars",
+    "track_or_project_title": "You Get What You Give",
+    "release_type": "remix",
+    "confidence_score": 0.7,
+    "extraction_method": "regex",
+    "source_article_title": "DJs From Mars Flip ‘You Get What You Give’ into a high-energy remix with Van Snyder, Serena Bleu & Alexander Popov: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/djs-from-mars-remix-you-get-what-you-give/",
+    "source_name": "We Rave You",
+    "article_date": "2026-04-24",
+    "embedded_music_links": [],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "DJs From Mars remix 'You Get What You Give'",
+      "og:description": "DJs From Mars reimagine 'You Get What You Give' with Van Snyder, Serena Bleu and Alexander Popov in a 2026 electro remix.",
+      "og:url": "https://weraveyou.com/2026/04/djs-from-mars-remix-you-get-what-you-give/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2026/04/DJs-From-Mars.jpg",
+      "og:image:width": "2048",
+      "og:image:height": "1280",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Rob Laniado",
+    "track_or_project_title": "Falling Under",
+    "release_type": "track",
+    "confidence_score": 1.0,
+    "extraction_method": "regex+embedded_player",
+    "source_article_title": "Rob Laniado returns with a melodic techno cut on ROMÉ Records, ‘Falling Under’: Listen",
+    "source_article_url": "https://weraveyou.com/2026/04/rob-laniado-falling-under-rome-records/",
+    "source_name": "We Rave You",
+    "article_date": null,
+    "embedded_music_links": [
+      "https://soundcloud.com/rob-laniado/rob-laniado-falling-under-rome"
+    ],
+    "open_graph": {
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Rob Laniado returns with a melodic techno cut on 'Falling Under'",
+      "og:description": "Rob Laniado returns with 'Falling Under', a melodic techno cut on ROMÉ Records built around a hypnotic vocal and a peak-time drop.",
+      "og:url": "https://weraveyou.com/2026/04/rob-laniado-falling-under-rome-records/",
+      "og:site_name": "We Rave You",
+      "og:image": "https://weraveyou.com/wp-content/uploads/2025/10/Rob-Laniado-2025-scaled.jpg",
+      "og:image:width": "2560",
+      "og:image:height": "1709",
+      "og:image:type": "image/jpeg",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@weraveyou",
+      "twitter:site": "@weraveyou"
+    },
+    "release_article": true
+  }
+]
