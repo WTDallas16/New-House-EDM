@@ -250,3 +250,4 @@ Or run a source-specific test suite from any other source folder that has tests.
 - Spotify rate limits are handled by stopping extra Spotify lookup calls for that run and writing unresolved items to `spotify_link_backlog.json`.
 - SoundCloud requests include `access=playable,preview,blocked` where the API supports it.
 - 1001Tracklists may time out or return a browser challenge from GitHub Actions; scheduled runs continue without that source if it fails.
+- `Data/Top_Artisits/master_artist_list.csv` is ignored from git because it is generated data. If it is missing in GitHub Actions, the final workflow rebuilds it before scanning recent artist tracks.

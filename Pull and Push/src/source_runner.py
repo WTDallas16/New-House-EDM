@@ -211,13 +211,22 @@ def run_sources(specs: list[SourceSpec], continue_on_error: bool = False) -> lis
                 continue
             raise RuntimeError(f"{spec.name} project directory does not exist: {spec.project_dir}")
 
-        full_command = [sys.executable, *spec.args, "--output", str(spec.output_path)]
         env = os.environ.copy()
         pythonpath_parts = [str(spec.project_dir.parent)]
         if env.get("PYTHONPATH"):
             pythonpath_parts.append(env["PYTHONPATH"])
         env["PYTHONPATH"] = os.pathsep.join(pythonpath_parts)
 
+        if spec.name == "top_artisits_recent":
+            preflight = ensure_top_artisits_artist_list(spec, env)
+            if preflight is not None:
+                results.append(preflight)
+                if continue_on_error:
+                    LOGGER.warning("%s failed with exit code %s; continuing", spec.name, preflight.returncode)
+                    continue
+                raise RuntimeError(f"{spec.name} failed with exit code {preflight.returncode}")
+
+        full_command = [sys.executable, *spec.args, "--output", str(spec.output_path)]
         LOGGER.info("Refreshing %s", spec.name)
         completed = subprocess.run(full_command, cwd=spec.project_dir, env=env, check=False)
         success = completed.returncode == 0 and spec.output_path.exists()
@@ -229,3 +238,24 @@ def run_sources(specs: list[SourceSpec], continue_on_error: bool = False) -> lis
             else:
                 raise RuntimeError(message)
     return results
+
+
+def ensure_top_artisits_artist_list(spec: SourceSpec, env: dict[str, str]) -> SourceResult | None:
+    artists_csv = spec.project_dir / "master_artist_list.csv"
+    if artists_csv.exists():
+        return None
+
+    LOGGER.info("Top_Artisits master_artist_list.csv is missing; rebuilding it before recent-track scan")
+    command = [
+        sys.executable,
+        "-m",
+        "src.main",
+        "--soundcloud-search",
+        "--output",
+        str(artists_csv),
+    ]
+    completed = subprocess.run(command, cwd=spec.project_dir, env=env, check=False)
+    if completed.returncode == 0 and artists_csv.exists():
+        LOGGER.info("Rebuilt Top_Artisits artist list at %s", artists_csv)
+        return None
+    return SourceResult(spec.name, spec.output_path, False, completed.returncode)
