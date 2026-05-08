@@ -176,11 +176,45 @@ class SoundCloudTools:
             return {"soundcloud_track_id": None, "soundcloud_url": None}
         best = best_soundcloud_match(artist, title, list(tracks_by_id.values()), lookback_days=lookback_days, today=current_day)
         if not best:
+            best = self.find_match_from_artist_profiles(artist, title, lookback_days=lookback_days, today=current_day)
+        if not best:
             return {"soundcloud_track_id": None, "soundcloud_url": None}
         return {
             "soundcloud_track_id": str(best.get("id") or ""),
             "soundcloud_url": str(best.get("permalink_url") or ""),
         }
+
+    def find_match_from_artist_profiles(
+        self,
+        artist: str,
+        title: str,
+        lookback_days: int = 7,
+        today: date | None = None,
+    ) -> dict[str, Any] | None:
+        target_artists = [normalize_text(alias) for alias in artist_aliases(artist)]
+        tracks_by_id: dict[str, dict[str, Any]] = {}
+        searched_users: set[str] = set()
+        for alias in artist_aliases(artist)[:4]:
+            try:
+                users = self.get_collection("/users", limit=5, max_items=5, q=alias)
+            except requests.RequestException as exc:
+                LOGGER.warning("SoundCloud user search failed for %s: %s", alias, exc)
+                continue
+            for user in users:
+                user_id = str(user.get("id") or "")
+                if not user_id or user_id in searched_users:
+                    continue
+                if soundcloud_artist_score(target_artists, soundcloud_user_identity_artists(user)) < 0.86:
+                    continue
+                searched_users.add(user_id)
+                try:
+                    for track in self.get_collection(f"/users/{user_id}/tracks", limit=25, max_items=25):
+                        track_id = str(track.get("id") or track.get("permalink_url") or "")
+                        if track_id:
+                            tracks_by_id[track_id] = track
+                except requests.RequestException as exc:
+                    LOGGER.warning("SoundCloud user-track lookup failed for %s: %s", alias, exc)
+        return best_soundcloud_match(artist, title, list(tracks_by_id.values()), lookback_days=lookback_days, today=today)
 
     def find_or_create_playlist(self, name: str, sharing: str = "private") -> str:
         for playlist in self.get_collection("/me/playlists", limit=50):
@@ -415,6 +449,18 @@ def soundcloud_identity_artists(track: dict[str, Any]) -> list[str]:
         user.get("permalink"),
     ]
     return unique_nonempty(normalize_text(value) for value in values if value)
+
+
+def soundcloud_user_identity_artists(user: dict[str, Any]) -> list[str]:
+    return unique_nonempty(
+        normalize_text(value)
+        for value in [
+            user.get("username"),
+            user.get("permalink"),
+            user.get("full_name"),
+        ]
+        if value
+    )
 
 
 def parse_track_artist_prefix(title: str) -> str:

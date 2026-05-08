@@ -22,6 +22,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--candidate-pool-size", type=int, default=150, help="Resolve this many ranked candidates before final curation.")
     parser.add_argument("--soundcloud-target-count", type=int, default=50, help="Backfill SoundCloud playlist from the candidate pool until this many tracks are available.")
     parser.add_argument("--max-per-artist", type=int, default=2)
+    parser.add_argument("--max-per-associated-artist", type=int, default=3, help="Maximum playlist tracks where any listed/collaborating/label-like artist name appears.")
     parser.add_argument("--allow-speed-variants", action="store_true", help="Allow slowed/sped-up/nightcore style variants into the final playlist.")
     parser.add_argument("--allow-old-isrc-years", action="store_true", help="Allow tracks whose ISRC year predates the current release window.")
     parser.add_argument("--playlist-name", default="New House")
@@ -101,6 +102,7 @@ def main() -> None:
     curated_pool = curate_playlist_tracks(
         resolved_pool,
         max_per_artist=args.max_per_artist,
+        max_per_associated_artist=args.max_per_associated_artist,
         skip_variants=not args.allow_speed_variants,
         enforce_isrc_window=not args.allow_old_isrc_years,
         lookback_days=args.lookback_days,

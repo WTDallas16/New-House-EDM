@@ -1,6 +1,13 @@
 from datetime import date
 
-from src.curation import curate_playlist_tracks, is_unwanted_speed_variant, isrc_release_year, primary_artist_key
+from src.curation import (
+    associated_artist_keys,
+    base_version_title_key,
+    curate_playlist_tracks,
+    is_unwanted_speed_variant,
+    isrc_release_year,
+    primary_artist_key,
+)
 from src.models import ResolvedTrack
 
 
@@ -44,6 +51,41 @@ def test_curation_keeps_max_two_per_primary_artist():
     ]
 
 
+def test_curation_caps_any_associated_artist():
+    tracks = [
+        make_track("Ohxala, Cafe De Anatolia", "Saz", 99),
+        make_track("Anrey, Cafe De Anatolia", "Touch of Selene", 98),
+        make_track("Ali Deger, Cafe De Anatolia", "Istanbul", 97),
+        make_track("Marco Stefano, Cafe De Anatolia", "Khaya", 96),
+        make_track("Other", "Song", 95),
+    ]
+
+    curated = curate_playlist_tracks(tracks, max_per_artist=10, max_per_associated_artist=3)
+
+    assert [track.title for track in curated] == ["Saz", "Touch of Selene", "Istanbul", "Song"]
+    assert "skipped_associated_artist_cap_3:cafe de anatolia" in tracks[3].notes
+
+
+def test_curation_prefers_original_over_extended_version():
+    tracks = [
+        make_track("Purple Disco Machine", "Disco Cherry - Extended", 99),
+        make_track("Purple Disco Machine", "Disco Cherry", 90),
+        make_track("Other", "Song", 80),
+    ]
+
+    curated = curate_playlist_tracks(tracks)
+
+    assert [(track.artist, track.title) for track in curated] == [
+        ("Purple Disco Machine", "Disco Cherry"),
+        ("Other", "Song"),
+    ]
+    assert "skipped_duplicate_version" in tracks[0].notes
+
+
+def test_base_version_title_key_groups_extended_with_original():
+    assert base_version_title_key("Disco Cherry - Extended") == base_version_title_key("Disco Cherry")
+
+
 def test_curation_skips_speed_variants():
     tracks = [
         make_track("AKhmedov", "Habibi - Super Slowed", 99),
@@ -83,6 +125,12 @@ def test_source_url_cover_detection():
 
 def test_primary_artist_key_uses_first_collaborator():
     assert primary_artist_key("Chris Lorenzo, aMo (um)") == "chris lorenzo"
+
+
+def test_associated_artist_keys_includes_secondary_label_like_artists():
+    track = make_track("Ohxala, Cafe De Anatolia", "Saz")
+    track.source_record["open_graph"]["source_artist_name"] = "Cafe De Anatolia"
+    assert "cafe de anatolia" in associated_artist_keys(track)
 
 
 def test_isrc_release_year_parses_century_code():

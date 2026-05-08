@@ -93,16 +93,18 @@ python3 -m src.main --top-artisits-soundcloud-only
 Tune final playlist curation:
 
 ```bash
-python3 -m src.main --max-per-artist 2 --candidate-pool-size 150
+python3 -m src.main --max-per-artist 2 --max-per-associated-artist 3 --candidate-pool-size 150
 ```
 
-The Spotify playlist uses the curated top 50. The SoundCloud playlist uses those same ranked candidates first, then backfills from the larger candidate pool until it has up to 50 valid SoundCloud track IDs. Increase the pool if SoundCloud still has fewer than 50:
+The Spotify playlist uses the curated top 50. Curation keeps at most 2 songs by the same primary artist and at most 3 songs where the same associated artist appears anywhere in the artist metadata. That second cap prevents label/profile-style artists, such as `Cafe De Anatolia`, from filling too many slots.
+
+The SoundCloud playlist uses those same ranked candidates first, then backfills from the larger candidate pool until it has up to 50 valid SoundCloud track IDs. Increase the pool if SoundCloud still has fewer than 50:
 
 ```bash
 python3 -m src.main --candidate-pool-size 250 --soundcloud-target-count 50
 ```
 
-By default, the final playlist excludes slowed/sped-up/nightcore/rework/remaster/cover style variants, skips tracks whose ISRC year predates the current release window, and keeps at most 2 tracks per primary artist. VIP edits/mixes are allowed. To disable the speed-variant filter:
+By default, the final playlist excludes slowed/sped-up/nightcore/rework/remaster/cover style variants, skips tracks whose ISRC year predates the current release window, prefers original tracks over extended/edit versions of the same song, and applies the artist caps above. VIP edits/mixes are allowed. To disable the speed-variant filter:
 
 ```bash
 python3 -m src.main --allow-speed-variants

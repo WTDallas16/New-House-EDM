@@ -21,6 +21,7 @@ VARIANT_PATTERNS = re.compile(
 def curate_playlist_tracks(
     tracks: list[ResolvedTrack],
     max_per_artist: int = 2,
+    max_per_associated_artist: int = 3,
     skip_variants: bool = True,
     enforce_isrc_window: bool = True,
     require_platform_link: bool = True,
@@ -29,9 +30,14 @@ def curate_playlist_tracks(
 ) -> list[ResolvedTrack]:
     kept: list[ResolvedTrack] = []
     counts: defaultdict[str, int] = defaultdict(int)
+    associated_counts: defaultdict[str, int] = defaultdict(int)
     current_day = today or date.today()
+    preferred_track_ids = preferred_version_track_ids(tracks)
 
     for track in tracks:
+        if id(track) not in preferred_track_ids:
+            track.notes.append("skipped_duplicate_version")
+            continue
         if skip_variants and is_unwanted_speed_variant(track):
             track.notes.append("skipped_unwanted_speed_variant")
             continue
@@ -45,8 +51,15 @@ def curate_playlist_tracks(
         if artist_key and counts[artist_key] >= max_per_artist:
             track.notes.append(f"skipped_artist_cap_{max_per_artist}")
             continue
+        associated_keys = associated_artist_keys(track)
+        capped_key = next((key for key in associated_keys if associated_counts[key] >= max_per_associated_artist), "")
+        if capped_key:
+            track.notes.append(f"skipped_associated_artist_cap_{max_per_associated_artist}:{capped_key}")
+            continue
         if artist_key:
             counts[artist_key] += 1
+        for key in associated_keys:
+            associated_counts[key] += 1
         kept.append(track)
 
     for index, track in enumerate(kept, start=1):
@@ -65,6 +78,59 @@ def is_unwanted_speed_variant(track: ResolvedTrack) -> bool:
     values.extend([open_graph.get("album_name"), open_graph.get("tag_list")])
     text = " ".join(clean_text(value) for value in values if value)
     return bool(VARIANT_PATTERNS.search(text))
+
+
+def preferred_version_track_ids(tracks: list[ResolvedTrack]) -> set[int]:
+    selected: dict[str, ResolvedTrack] = {}
+    for track in tracks:
+        key = duplicate_version_key(track)
+        if not key:
+            selected[str(id(track))] = track
+            continue
+        current = selected.get(key)
+        if current is None or version_preference(track) > version_preference(current):
+            selected[key] = track
+    return {id(track) for track in selected.values()}
+
+
+def duplicate_version_key(track: ResolvedTrack) -> str:
+    artist_key = primary_artist_key(track.artist)
+    title_key = base_version_title_key(track.title)
+    return f"{artist_key}|{title_key}" if artist_key and title_key else ""
+
+
+def version_preference(track: ResolvedTrack) -> tuple[int, int, float]:
+    return (
+        0 if is_extended_or_edit_version(track) else 1,
+        1 if has_platform_link(track) else 0,
+        track.ranking_score,
+    )
+
+
+def is_extended_or_edit_version(track: ResolvedTrack) -> bool:
+    text = " ".join(
+        clean_text(value)
+        for value in [
+            track.title,
+            track.source_record.get("source_article_title"),
+            (track.source_record.get("open_graph") or {}).get("album_name"),
+        ]
+        if value
+    )
+    return bool(re.search(r"\b(extended|extended\s+mix|radio\s+edit|club\s+mix|original\s+mix|edit)\b", text, flags=re.IGNORECASE))
+
+
+def base_version_title_key(title: str) -> str:
+    text = normalize_text(title)
+    text = re.sub(
+        r"\b("
+        r"extended|extended version|extended mix|radio edit|club mix|original mix|"
+        r"edit|mix|version"
+        r")\b",
+        " ",
+        text,
+    )
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def isrc_year_is_outside_window(track: ResolvedTrack, current_day: date, lookback_days: int) -> bool:
@@ -93,6 +159,34 @@ def primary_artist_key(artist: str) -> str:
     text = re.sub(r"\([^)]*\)", " ", text)
     primary = re.split(r"\s*(?:,|&|\+|\bx\b|\bfeat\.?\b|\bft\.?\b|\bfeaturing\b)\s*", text, maxsplit=1, flags=re.IGNORECASE)[0]
     return normalize_text(primary)
+
+
+def associated_artist_keys(track: ResolvedTrack) -> list[str]:
+    open_graph = track.source_record.get("open_graph") or {}
+    values = [
+        track.artist,
+        open_graph.get("all_artists"),
+        open_graph.get("source_artist_name"),
+    ]
+    keys: list[str] = []
+    for value in values:
+        keys.extend(split_artist_keys(clean_text(value)))
+    seen: set[str] = set()
+    unique: list[str] = []
+    for key in keys:
+        if key and key not in seen:
+            seen.add(key)
+            unique.append(key)
+    return unique
+
+
+def split_artist_keys(value: str) -> list[str]:
+    text = re.sub(r"\([^)]*\)", " ", value)
+    return [
+        normalize_text(part)
+        for part in re.split(r"\s*(?:,|&|\+|\bx\b|\bfeat\.?\b|\bft\.?\b|\bfeaturing\b)\s*", text, flags=re.IGNORECASE)
+        if normalize_text(part)
+    ]
 
 
 def has_platform_link(track: ResolvedTrack) -> bool:

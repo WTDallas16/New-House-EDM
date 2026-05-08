@@ -1,4 +1,5 @@
 from src.soundcloud_tools import (
+    SoundCloudTools,
     artist_aliases,
     best_soundcloud_match,
     playlist_tracks_form,
@@ -97,3 +98,33 @@ def test_playlist_tracks_form_uses_soundcloud_nested_params():
         ("playlist[tracks][][id]", "123"),
         ("playlist[tracks][][id]", "456"),
     ]
+
+
+def test_artist_profile_fallback_finds_official_track():
+    class FakeSoundCloud(SoundCloudTools):
+        def __init__(self):
+            pass
+
+        def get_collection(self, path_or_url, limit=50, max_items=None, **params):
+            if path_or_url == "/users":
+                return [{"id": 1, "username": "Purple Disco Machine", "permalink": "purplediscomachine"}]
+            if path_or_url == "/users/1/tracks":
+                return [
+                    {
+                        "id": 2,
+                        "title": "Disco Cherry",
+                        "user": {"username": "Purple Disco Machine", "permalink": "purplediscomachine"},
+                        "release_year": 2026,
+                        "release_month": 5,
+                        "release_day": 8,
+                    }
+                ]
+            return []
+
+    match = FakeSoundCloud().find_match_from_artist_profiles(
+        "Purple Disco Machine",
+        "Disco Cherry",
+        today=date(2026, 5, 8),
+    )
+
+    assert match["id"] == 2
