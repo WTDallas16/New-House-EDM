@@ -251,3 +251,4 @@ Or run a source-specific test suite from any other source folder that has tests.
 - SoundCloud requests include `access=playable,preview,blocked` where the API supports it.
 - 1001Tracklists may time out or return a browser challenge from GitHub Actions; scheduled runs continue without that source if it fails.
 - `Data/Top_Artisits/master_artist_list.csv` is ignored from git because it is generated data. If it is missing in GitHub Actions, the final workflow rebuilds it before scanning recent artist tracks.
+- updated for action 06/26/2026
