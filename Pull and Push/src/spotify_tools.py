@@ -116,7 +116,16 @@ class SpotifyTools:
             "spotify_url": str((best.get("external_urls") or {}).get("spotify") or f"https://open.spotify.com/track/{resolved_id}"),
         }
 
-    def find_or_create_playlist(self, name: str, public: bool = False) -> str:
+    def find_or_create_playlist(self, name: str, public: bool = False, known_playlist_id: str | None = None) -> str:
+        if known_playlist_id:
+            try:
+                playlist = self.client.playlist(known_playlist_id, fields="id")
+            except SpotifyException as exc:
+                LOGGER.warning("Known Spotify playlist id %s is no longer valid, falling back to name lookup: %s", known_playlist_id, exc)
+            else:
+                if playlist and playlist.get("id"):
+                    return str(playlist["id"])
+
         current_user = self.client.current_user()
         user_id = str(current_user.get("id") or "")
         for playlist in self._iter_current_user_playlists():

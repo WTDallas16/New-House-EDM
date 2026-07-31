@@ -1,16 +1,16 @@
 {
-  "playlist_name": "New House",
-  "pushed_at": "2026-05-05T04:52:04.126332+00:00",
+  "playlist_name": "New House Fridays",
+  "pushed_at": "2026-07-31T20:18:41.780315+00:00",
   "spotify": {
     "attempted": true,
     "playlist_id": "4CiTVmpk37ndyvuT6skcrS",
-    "track_count": 43,
+    "track_count": 50,
     "error": null
   },
   "soundcloud": {
     "attempted": true,
-    "playlist_id": "2232094520",
-    "track_count": 50,
-    "error": null
+    "playlist_id": null,
+    "track_count": 0,
+    "error": "No SoundCloud track IDs resolved; SoundCloud playlist was not changed."
   }
 }

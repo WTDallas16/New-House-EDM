@@ -2482,5 +2482,1355 @@
     "soundcloud_url": "https://soundcloud.com/sunexplosion-records/premiere-jaime-mud-eryon?utm_medium=api&utm_campaign=social_sharing&utm_source=id_319429",
     "soundcloud_track_id": "2312963246",
     "updated_at": "2026-05-05T04:51:57.597719+00:00"
+  },
+  "spotify_track_id:6RONUICnXH5jCcHEwX8Lu7": {
+    "spotify_url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7",
+    "spotify_uri": "spotify:track:6RONUICnXH5jCcHEwX8Lu7",
+    "spotify_id": "6RONUICnXH5jCcHEwX8Lu7",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:57.263253+00:00"
+  },
+  "spotify_track_id:4fMCQYd5Xi0MrIQq2CCkqL": {
+    "spotify_url": "https://open.spotify.com/track/4fMCQYd5Xi0MrIQq2CCkqL",
+    "spotify_uri": "spotify:track:4fMCQYd5Xi0MrIQq2CCkqL",
+    "spotify_id": "4fMCQYd5Xi0MrIQq2CCkqL",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:57.536560+00:00"
+  },
+  "spotify_track_id:6LdgMSpdjiVpymKPnmRNmy": {
+    "spotify_url": "https://open.spotify.com/track/6LdgMSpdjiVpymKPnmRNmy",
+    "spotify_uri": "spotify:track:6LdgMSpdjiVpymKPnmRNmy",
+    "spotify_id": "6LdgMSpdjiVpymKPnmRNmy",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:57.899570+00:00"
+  },
+  "spotify_track_id:3LRhmVTSCrSJ3q9zGsUkPE": {
+    "spotify_url": "https://open.spotify.com/track/3LRhmVTSCrSJ3q9zGsUkPE",
+    "spotify_uri": "spotify:track:3LRhmVTSCrSJ3q9zGsUkPE",
+    "spotify_id": "3LRhmVTSCrSJ3q9zGsUkPE",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:58.154117+00:00"
+  },
+  "spotify_track_id:30Z0lnNw2Jst2K9vYkEhr1": {
+    "spotify_url": "https://open.spotify.com/track/30Z0lnNw2Jst2K9vYkEhr1",
+    "spotify_uri": "spotify:track:30Z0lnNw2Jst2K9vYkEhr1",
+    "spotify_id": "30Z0lnNw2Jst2K9vYkEhr1",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:58.491379+00:00"
+  },
+  "spotify_track_id:1kk2PNrO9mfMuwEGnAOipt": {
+    "spotify_url": "https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt",
+    "spotify_uri": "spotify:track:1kk2PNrO9mfMuwEGnAOipt",
+    "spotify_id": "1kk2PNrO9mfMuwEGnAOipt",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:58.760962+00:00"
+  },
+  "spotify_track_id:3PPRY6GHojcQS2l8mJypyH": {
+    "spotify_url": "https://open.spotify.com/track/3PPRY6GHojcQS2l8mJypyH",
+    "spotify_uri": "spotify:track:3PPRY6GHojcQS2l8mJypyH",
+    "spotify_id": "3PPRY6GHojcQS2l8mJypyH",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:59.034876+00:00"
+  },
+  "spotify_track_id:6Ew3KMWtyrCD8glkQLf4M5": {
+    "spotify_url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5",
+    "spotify_uri": "spotify:track:6Ew3KMWtyrCD8glkQLf4M5",
+    "spotify_id": "6Ew3KMWtyrCD8glkQLf4M5",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:59.301235+00:00"
+  },
+  "spotify_track_id:0UupmTsDkL9cdm8GGLzvYq": {
+    "spotify_url": "https://open.spotify.com/track/0UupmTsDkL9cdm8GGLzvYq",
+    "spotify_uri": "spotify:track:0UupmTsDkL9cdm8GGLzvYq",
+    "spotify_id": "0UupmTsDkL9cdm8GGLzvYq",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:17:59.583646+00:00"
+  },
+  "spotify_track_id:6WjC2Xc4cA3zRnZVmgnyGS": {
+    "spotify_url": "https://open.spotify.com/track/6WjC2Xc4cA3zRnZVmgnyGS",
+    "spotify_uri": "spotify:track:6WjC2Xc4cA3zRnZVmgnyGS",
+    "spotify_id": "6WjC2Xc4cA3zRnZVmgnyGS",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:00.250049+00:00"
+  },
+  "spotify_track_id:4Txm1bcmxUS0h7fRhnhfa8": {
+    "spotify_url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8",
+    "spotify_uri": "spotify:track:4Txm1bcmxUS0h7fRhnhfa8",
+    "spotify_id": "4Txm1bcmxUS0h7fRhnhfa8",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:00.513296+00:00"
+  },
+  "spotify_track_id:5vU72JnclXPdmPjuokzMfj": {
+    "spotify_url": "https://open.spotify.com/track/5vU72JnclXPdmPjuokzMfj",
+    "spotify_uri": "spotify:track:5vU72JnclXPdmPjuokzMfj",
+    "spotify_id": "5vU72JnclXPdmPjuokzMfj",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:00.810689+00:00"
+  },
+  "spotify_track_id:1DT83fdOA6nk2SbYGjraFc": {
+    "spotify_url": "https://open.spotify.com/track/1DT83fdOA6nk2SbYGjraFc",
+    "spotify_uri": "spotify:track:1DT83fdOA6nk2SbYGjraFc",
+    "spotify_id": "1DT83fdOA6nk2SbYGjraFc",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:01.069424+00:00"
+  },
+  "spotify_track_id:570GfmaPCjck0y8IbLmgBn": {
+    "spotify_url": "https://open.spotify.com/track/570GfmaPCjck0y8IbLmgBn",
+    "spotify_uri": "spotify:track:570GfmaPCjck0y8IbLmgBn",
+    "spotify_id": "570GfmaPCjck0y8IbLmgBn",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:01.327675+00:00"
+  },
+  "spotify_track_id:4pwv8mZwBMfWE0rt377Tic": {
+    "spotify_url": "https://open.spotify.com/track/4pwv8mZwBMfWE0rt377Tic",
+    "spotify_uri": "spotify:track:4pwv8mZwBMfWE0rt377Tic",
+    "spotify_id": "4pwv8mZwBMfWE0rt377Tic",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:01.626585+00:00"
+  },
+  "spotify_track_id:0Fs4F8Biqm6x8SRiMd7Og4": {
+    "spotify_url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4",
+    "spotify_uri": "spotify:track:0Fs4F8Biqm6x8SRiMd7Og4",
+    "spotify_id": "0Fs4F8Biqm6x8SRiMd7Og4",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:01.900147+00:00"
+  },
+  "spotify_track_id:68ROeDTnieAmMrQrMJlnsY": {
+    "spotify_url": "https://open.spotify.com/track/68ROeDTnieAmMrQrMJlnsY",
+    "spotify_uri": "spotify:track:68ROeDTnieAmMrQrMJlnsY",
+    "spotify_id": "68ROeDTnieAmMrQrMJlnsY",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:02.185986+00:00"
+  },
+  "spotify_track_id:1cKE1icepv5syN00224VYX": {
+    "spotify_url": "https://open.spotify.com/track/1cKE1icepv5syN00224VYX",
+    "spotify_uri": "spotify:track:1cKE1icepv5syN00224VYX",
+    "spotify_id": "1cKE1icepv5syN00224VYX",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:02.475987+00:00"
+  },
+  "spotify_track_id:2FjcRwMtLa93kEeCtM6Iww": {
+    "spotify_url": "https://open.spotify.com/track/2FjcRwMtLa93kEeCtM6Iww",
+    "spotify_uri": "spotify:track:2FjcRwMtLa93kEeCtM6Iww",
+    "spotify_id": "2FjcRwMtLa93kEeCtM6Iww",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:02.777438+00:00"
+  },
+  "spotify_track_id:7pqAuzsyoIDwUwdmw7KJeQ": {
+    "spotify_url": "https://open.spotify.com/track/7pqAuzsyoIDwUwdmw7KJeQ",
+    "spotify_uri": "spotify:track:7pqAuzsyoIDwUwdmw7KJeQ",
+    "spotify_id": "7pqAuzsyoIDwUwdmw7KJeQ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:03.097281+00:00"
+  },
+  "spotify_track_id:30iVbVk6Wf8WsC50SQPWym": {
+    "spotify_url": "https://open.spotify.com/track/30iVbVk6Wf8WsC50SQPWym",
+    "spotify_uri": "spotify:track:30iVbVk6Wf8WsC50SQPWym",
+    "spotify_id": "30iVbVk6Wf8WsC50SQPWym",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:03.362071+00:00"
+  },
+  "spotify_track_id:6OJzJxia2G7FDZWba9yR7o": {
+    "spotify_url": "https://open.spotify.com/track/6OJzJxia2G7FDZWba9yR7o",
+    "spotify_uri": "spotify:track:6OJzJxia2G7FDZWba9yR7o",
+    "spotify_id": "6OJzJxia2G7FDZWba9yR7o",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:03.623814+00:00"
+  },
+  "spotify_track_id:4thhBQ8I8BMN59Qey4g69G": {
+    "spotify_url": "https://open.spotify.com/track/4thhBQ8I8BMN59Qey4g69G",
+    "spotify_uri": "spotify:track:4thhBQ8I8BMN59Qey4g69G",
+    "spotify_id": "4thhBQ8I8BMN59Qey4g69G",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:03.878013+00:00"
+  },
+  "spotify_track_id:3TzdAptrboz9BXmJrd1hKk": {
+    "spotify_url": "https://open.spotify.com/track/3TzdAptrboz9BXmJrd1hKk",
+    "spotify_uri": "spotify:track:3TzdAptrboz9BXmJrd1hKk",
+    "spotify_id": "3TzdAptrboz9BXmJrd1hKk",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:04.150453+00:00"
+  },
+  "spotify_track_id:6hZuuJP232EnaflSXI2veo": {
+    "spotify_url": "https://open.spotify.com/track/6hZuuJP232EnaflSXI2veo",
+    "spotify_uri": "spotify:track:6hZuuJP232EnaflSXI2veo",
+    "spotify_id": "6hZuuJP232EnaflSXI2veo",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:04.406402+00:00"
+  },
+  "spotify_track_id:4UFsFXORr6LT6a1LicIFi6": {
+    "spotify_url": "https://open.spotify.com/track/4UFsFXORr6LT6a1LicIFi6",
+    "spotify_uri": "spotify:track:4UFsFXORr6LT6a1LicIFi6",
+    "spotify_id": "4UFsFXORr6LT6a1LicIFi6",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:04.733234+00:00"
+  },
+  "spotify_track_id:4FYLMNXVD3FcQOZiS9MUA4": {
+    "spotify_url": "https://open.spotify.com/track/4FYLMNXVD3FcQOZiS9MUA4",
+    "spotify_uri": "spotify:track:4FYLMNXVD3FcQOZiS9MUA4",
+    "spotify_id": "4FYLMNXVD3FcQOZiS9MUA4",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:04.995986+00:00"
+  },
+  "spotify_track_id:0qvkdOlRsCRhpNOBMW9JbO": {
+    "spotify_url": "https://open.spotify.com/track/0qvkdOlRsCRhpNOBMW9JbO",
+    "spotify_uri": "spotify:track:0qvkdOlRsCRhpNOBMW9JbO",
+    "spotify_id": "0qvkdOlRsCRhpNOBMW9JbO",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:05.270312+00:00"
+  },
+  "spotify_track_id:2wbd0xPod59bIJ2wiOtMe4": {
+    "spotify_url": "https://open.spotify.com/track/2wbd0xPod59bIJ2wiOtMe4",
+    "spotify_uri": "spotify:track:2wbd0xPod59bIJ2wiOtMe4",
+    "spotify_id": "2wbd0xPod59bIJ2wiOtMe4",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:05.528438+00:00"
+  },
+  "spotify_track_id:4o2GWz9eli4PctWP3EIgJ6": {
+    "spotify_url": "https://open.spotify.com/track/4o2GWz9eli4PctWP3EIgJ6",
+    "spotify_uri": "spotify:track:4o2GWz9eli4PctWP3EIgJ6",
+    "spotify_id": "4o2GWz9eli4PctWP3EIgJ6",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:05.869583+00:00"
+  },
+  "spotify_track_id:11d3ePW0Q6LPhnNV7yOpTV": {
+    "spotify_url": "https://open.spotify.com/track/11d3ePW0Q6LPhnNV7yOpTV",
+    "spotify_uri": "spotify:track:11d3ePW0Q6LPhnNV7yOpTV",
+    "spotify_id": "11d3ePW0Q6LPhnNV7yOpTV",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:06.128119+00:00"
+  },
+  "text:julian gray|silver and polished": {
+    "spotify_url": "https://open.spotify.com/track/0MjF5cZ8OKVc5Wo2Mvh0xD",
+    "spotify_uri": "spotify:track:0MjF5cZ8OKVc5Wo2Mvh0xD",
+    "spotify_id": "0MjF5cZ8OKVc5Wo2Mvh0xD",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:06.626401+00:00"
+  },
+  "spotify_track_id:1f39WH0csOOvJ3GRyg9QWq": {
+    "spotify_url": "https://open.spotify.com/track/1f39WH0csOOvJ3GRyg9QWq",
+    "spotify_uri": "spotify:track:1f39WH0csOOvJ3GRyg9QWq",
+    "spotify_id": "1f39WH0csOOvJ3GRyg9QWq",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:06.933546+00:00"
+  },
+  "spotify_track_id:1prOU1bCWZIjiG7cjkrvm9": {
+    "spotify_url": "https://open.spotify.com/track/1prOU1bCWZIjiG7cjkrvm9",
+    "spotify_uri": "spotify:track:1prOU1bCWZIjiG7cjkrvm9",
+    "spotify_id": "1prOU1bCWZIjiG7cjkrvm9",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:07.196123+00:00"
+  },
+  "spotify_track_id:3mlAihp0LBYA8gckpDE60J": {
+    "spotify_url": "https://open.spotify.com/track/3mlAihp0LBYA8gckpDE60J",
+    "spotify_uri": "spotify:track:3mlAihp0LBYA8gckpDE60J",
+    "spotify_id": "3mlAihp0LBYA8gckpDE60J",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:07.463444+00:00"
+  },
+  "spotify_track_id:6pg5DVfkeaRM2TS3pNKx2Z": {
+    "spotify_url": "https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z",
+    "spotify_uri": "spotify:track:6pg5DVfkeaRM2TS3pNKx2Z",
+    "spotify_id": "6pg5DVfkeaRM2TS3pNKx2Z",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:07.794170+00:00"
+  },
+  "spotify_track_id:40KUNXSphdG49rhVo3n8YW": {
+    "spotify_url": "https://open.spotify.com/track/40KUNXSphdG49rhVo3n8YW",
+    "spotify_uri": "spotify:track:40KUNXSphdG49rhVo3n8YW",
+    "spotify_id": "40KUNXSphdG49rhVo3n8YW",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:08.109659+00:00"
+  },
+  "spotify_track_id:0e5Qae1ixFhEReMdCo8fIy": {
+    "spotify_url": "https://open.spotify.com/track/0e5Qae1ixFhEReMdCo8fIy",
+    "spotify_uri": "spotify:track:0e5Qae1ixFhEReMdCo8fIy",
+    "spotify_id": "0e5Qae1ixFhEReMdCo8fIy",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:08.408862+00:00"
+  },
+  "spotify_track_id:7qsOKSnXXs12ol4JHjPoeI": {
+    "spotify_url": "https://open.spotify.com/track/7qsOKSnXXs12ol4JHjPoeI",
+    "spotify_uri": "spotify:track:7qsOKSnXXs12ol4JHjPoeI",
+    "spotify_id": "7qsOKSnXXs12ol4JHjPoeI",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:08.703311+00:00"
+  },
+  "spotify_track_id:674PBq5GoNgMbdfadkN8w0": {
+    "spotify_url": "https://open.spotify.com/track/674PBq5GoNgMbdfadkN8w0",
+    "spotify_uri": "spotify:track:674PBq5GoNgMbdfadkN8w0",
+    "spotify_id": "674PBq5GoNgMbdfadkN8w0",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:09.025715+00:00"
+  },
+  "spotify_track_id:6wgDsIFS9hi6nyzF66MYKQ": {
+    "spotify_url": "https://open.spotify.com/track/6wgDsIFS9hi6nyzF66MYKQ",
+    "spotify_uri": "spotify:track:6wgDsIFS9hi6nyzF66MYKQ",
+    "spotify_id": "6wgDsIFS9hi6nyzF66MYKQ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:09.284610+00:00"
+  },
+  "spotify_track_id:7DfwrGJp5ionmGqzgiBXeI": {
+    "spotify_url": "https://open.spotify.com/track/7DfwrGJp5ionmGqzgiBXeI",
+    "spotify_uri": "spotify:track:7DfwrGJp5ionmGqzgiBXeI",
+    "spotify_id": "7DfwrGJp5ionmGqzgiBXeI",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:09.537383+00:00"
+  },
+  "spotify_track_id:4wtfQkr4ke2P6k6Al0yPXl": {
+    "spotify_url": "https://open.spotify.com/track/4wtfQkr4ke2P6k6Al0yPXl",
+    "spotify_uri": "spotify:track:4wtfQkr4ke2P6k6Al0yPXl",
+    "spotify_id": "4wtfQkr4ke2P6k6Al0yPXl",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:09.841810+00:00"
+  },
+  "spotify_track_id:1Uae0LBuI6YaXbeB9loatx": {
+    "spotify_url": "https://open.spotify.com/track/1Uae0LBuI6YaXbeB9loatx",
+    "spotify_uri": "spotify:track:1Uae0LBuI6YaXbeB9loatx",
+    "spotify_id": "1Uae0LBuI6YaXbeB9loatx",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:10.112012+00:00"
+  },
+  "spotify_track_id:7LgWz7GIbupjjSJSIWKRyO": {
+    "spotify_url": "https://open.spotify.com/track/7LgWz7GIbupjjSJSIWKRyO",
+    "spotify_uri": "spotify:track:7LgWz7GIbupjjSJSIWKRyO",
+    "spotify_id": "7LgWz7GIbupjjSJSIWKRyO",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:10.426000+00:00"
+  },
+  "spotify_track_id:34IHtqjGPDBTpkR8Qq90LK": {
+    "spotify_url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK",
+    "spotify_uri": "spotify:track:34IHtqjGPDBTpkR8Qq90LK",
+    "spotify_id": "34IHtqjGPDBTpkR8Qq90LK",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:10.716851+00:00"
+  },
+  "spotify_track_id:0lduZoBLVd1pgd0QRgMOZi": {
+    "spotify_url": "https://open.spotify.com/track/0lduZoBLVd1pgd0QRgMOZi",
+    "spotify_uri": "spotify:track:0lduZoBLVd1pgd0QRgMOZi",
+    "spotify_id": "0lduZoBLVd1pgd0QRgMOZi",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:10.967766+00:00"
+  },
+  "spotify_track_id:45PRSu8w5VAulCjEus30i3": {
+    "spotify_url": "https://open.spotify.com/track/45PRSu8w5VAulCjEus30i3",
+    "spotify_uri": "spotify:track:45PRSu8w5VAulCjEus30i3",
+    "spotify_id": "45PRSu8w5VAulCjEus30i3",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:11.272124+00:00"
+  },
+  "spotify_track_id:4bUW5mmr0Sdmpj3G317nWb": {
+    "spotify_url": "https://open.spotify.com/track/4bUW5mmr0Sdmpj3G317nWb",
+    "spotify_uri": "spotify:track:4bUW5mmr0Sdmpj3G317nWb",
+    "spotify_id": "4bUW5mmr0Sdmpj3G317nWb",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:11.555581+00:00"
+  },
+  "spotify_track_id:1475PyrnDco0wEQpqMkNzn": {
+    "spotify_url": "https://open.spotify.com/track/1475PyrnDco0wEQpqMkNzn",
+    "spotify_uri": "spotify:track:1475PyrnDco0wEQpqMkNzn",
+    "spotify_id": "1475PyrnDco0wEQpqMkNzn",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:11.825758+00:00"
+  },
+  "spotify_track_id:4PdEdRVr8oLKQC45NVfuxb": {
+    "spotify_url": "https://open.spotify.com/track/4PdEdRVr8oLKQC45NVfuxb",
+    "spotify_uri": "spotify:track:4PdEdRVr8oLKQC45NVfuxb",
+    "spotify_id": "4PdEdRVr8oLKQC45NVfuxb",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:12.183977+00:00"
+  },
+  "spotify_track_id:2Cv7a4uLrH9iWViO2kZZQQ": {
+    "spotify_url": "https://open.spotify.com/track/2Cv7a4uLrH9iWViO2kZZQQ",
+    "spotify_uri": "spotify:track:2Cv7a4uLrH9iWViO2kZZQQ",
+    "spotify_id": "2Cv7a4uLrH9iWViO2kZZQQ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:12.456557+00:00"
+  },
+  "spotify_track_id:4AM48ewD2yKH3vV7jlxebd": {
+    "spotify_url": "https://open.spotify.com/track/4AM48ewD2yKH3vV7jlxebd",
+    "spotify_uri": "spotify:track:4AM48ewD2yKH3vV7jlxebd",
+    "spotify_id": "4AM48ewD2yKH3vV7jlxebd",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:12.715449+00:00"
+  },
+  "spotify_track_id:78K1sXA085FWLI7xAgeEEF": {
+    "spotify_url": "https://open.spotify.com/track/78K1sXA085FWLI7xAgeEEF",
+    "spotify_uri": "spotify:track:78K1sXA085FWLI7xAgeEEF",
+    "spotify_id": "78K1sXA085FWLI7xAgeEEF",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:12.983418+00:00"
+  },
+  "spotify_track_id:6XENUrhrIYrEdK1rkB9JhB": {
+    "spotify_url": "https://open.spotify.com/track/6XENUrhrIYrEdK1rkB9JhB",
+    "spotify_uri": "spotify:track:6XENUrhrIYrEdK1rkB9JhB",
+    "spotify_id": "6XENUrhrIYrEdK1rkB9JhB",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:13.307581+00:00"
+  },
+  "spotify_track_id:5rROk9m8sMl5pboLYN4h18": {
+    "spotify_url": "https://open.spotify.com/track/5rROk9m8sMl5pboLYN4h18",
+    "spotify_uri": "spotify:track:5rROk9m8sMl5pboLYN4h18",
+    "spotify_id": "5rROk9m8sMl5pboLYN4h18",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:13.574097+00:00"
+  },
+  "spotify_track_id:6tKef8PYcaYaqOzCvmCOrQ": {
+    "spotify_url": "https://open.spotify.com/track/6tKef8PYcaYaqOzCvmCOrQ",
+    "spotify_uri": "spotify:track:6tKef8PYcaYaqOzCvmCOrQ",
+    "spotify_id": "6tKef8PYcaYaqOzCvmCOrQ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:13.847603+00:00"
+  },
+  "spotify_track_id:32bQdqxFvFktqbH76v1huL": {
+    "spotify_url": "https://open.spotify.com/track/32bQdqxFvFktqbH76v1huL",
+    "spotify_uri": "spotify:track:32bQdqxFvFktqbH76v1huL",
+    "spotify_id": "32bQdqxFvFktqbH76v1huL",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:14.234139+00:00"
+  },
+  "spotify_track_id:4fpWPoKb6KRdX9oTi5UsmJ": {
+    "spotify_url": "https://open.spotify.com/track/4fpWPoKb6KRdX9oTi5UsmJ",
+    "spotify_uri": "spotify:track:4fpWPoKb6KRdX9oTi5UsmJ",
+    "spotify_id": "4fpWPoKb6KRdX9oTi5UsmJ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:14.523174+00:00"
+  },
+  "spotify_track_id:3j2zfHCOJTVZtt82gdXznr": {
+    "spotify_url": "https://open.spotify.com/track/3j2zfHCOJTVZtt82gdXznr",
+    "spotify_uri": "spotify:track:3j2zfHCOJTVZtt82gdXznr",
+    "spotify_id": "3j2zfHCOJTVZtt82gdXznr",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:14.792438+00:00"
+  },
+  "spotify_track_id:1qMfKyhC21yYHRglPX6Zf6": {
+    "spotify_url": "https://open.spotify.com/track/1qMfKyhC21yYHRglPX6Zf6",
+    "spotify_uri": "spotify:track:1qMfKyhC21yYHRglPX6Zf6",
+    "spotify_id": "1qMfKyhC21yYHRglPX6Zf6",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:15.089906+00:00"
+  },
+  "spotify_track_id:3nd7p2le0WJR0oklheuJGQ": {
+    "spotify_url": "https://open.spotify.com/track/3nd7p2le0WJR0oklheuJGQ",
+    "spotify_uri": "spotify:track:3nd7p2le0WJR0oklheuJGQ",
+    "spotify_id": "3nd7p2le0WJR0oklheuJGQ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:15.357061+00:00"
+  },
+  "spotify_track_id:7H5QwDptOM1f9n8Y9A6Qqp": {
+    "spotify_url": "https://open.spotify.com/track/7H5QwDptOM1f9n8Y9A6Qqp",
+    "spotify_uri": "spotify:track:7H5QwDptOM1f9n8Y9A6Qqp",
+    "spotify_id": "7H5QwDptOM1f9n8Y9A6Qqp",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:15.659554+00:00"
+  },
+  "spotify_track_id:1tvesRL5WWNwrZSJmnXIs3": {
+    "spotify_url": "https://open.spotify.com/track/1tvesRL5WWNwrZSJmnXIs3",
+    "spotify_uri": "spotify:track:1tvesRL5WWNwrZSJmnXIs3",
+    "spotify_id": "1tvesRL5WWNwrZSJmnXIs3",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:15.931948+00:00"
+  },
+  "spotify_track_id:2rKArOyKdof77jmctyZEzr": {
+    "spotify_url": "https://open.spotify.com/track/2rKArOyKdof77jmctyZEzr",
+    "spotify_uri": "spotify:track:2rKArOyKdof77jmctyZEzr",
+    "spotify_id": "2rKArOyKdof77jmctyZEzr",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:16.274527+00:00"
+  },
+  "spotify_track_id:4rJIrcRSld3iGMbP06tu8v": {
+    "spotify_url": "https://open.spotify.com/track/4rJIrcRSld3iGMbP06tu8v",
+    "spotify_uri": "spotify:track:4rJIrcRSld3iGMbP06tu8v",
+    "spotify_id": "4rJIrcRSld3iGMbP06tu8v",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:16.570665+00:00"
+  },
+  "spotify_track_id:0cRVwlIhYOgLgda6dqdddX": {
+    "spotify_url": "https://open.spotify.com/track/0cRVwlIhYOgLgda6dqdddX",
+    "spotify_uri": "spotify:track:0cRVwlIhYOgLgda6dqdddX",
+    "spotify_id": "0cRVwlIhYOgLgda6dqdddX",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:16.862495+00:00"
+  },
+  "spotify_track_id:6dnyuWStkLr8miMUlLdE1Q": {
+    "spotify_url": "https://open.spotify.com/track/6dnyuWStkLr8miMUlLdE1Q",
+    "spotify_uri": "spotify:track:6dnyuWStkLr8miMUlLdE1Q",
+    "spotify_id": "6dnyuWStkLr8miMUlLdE1Q",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:17.351763+00:00"
+  },
+  "spotify_track_id:3nCS6eSSK2dJRrxYI3s3ua": {
+    "spotify_url": "https://open.spotify.com/track/3nCS6eSSK2dJRrxYI3s3ua",
+    "spotify_uri": "spotify:track:3nCS6eSSK2dJRrxYI3s3ua",
+    "spotify_id": "3nCS6eSSK2dJRrxYI3s3ua",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:17.655227+00:00"
+  },
+  "spotify_track_id:7q2J8yJqwDxcvzFBYBmeJA": {
+    "spotify_url": "https://open.spotify.com/track/7q2J8yJqwDxcvzFBYBmeJA",
+    "spotify_uri": "spotify:track:7q2J8yJqwDxcvzFBYBmeJA",
+    "spotify_id": "7q2J8yJqwDxcvzFBYBmeJA",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:17.973450+00:00"
+  },
+  "spotify_track_id:6H7QoWMWm8yOjExSHRNQNA": {
+    "spotify_url": "https://open.spotify.com/track/6H7QoWMWm8yOjExSHRNQNA",
+    "spotify_uri": "spotify:track:6H7QoWMWm8yOjExSHRNQNA",
+    "spotify_id": "6H7QoWMWm8yOjExSHRNQNA",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:18.240285+00:00"
+  },
+  "spotify_track_id:03vgaJ9FVdDrDmAxvKAXRW": {
+    "spotify_url": "https://open.spotify.com/track/03vgaJ9FVdDrDmAxvKAXRW",
+    "spotify_uri": "spotify:track:03vgaJ9FVdDrDmAxvKAXRW",
+    "spotify_id": "03vgaJ9FVdDrDmAxvKAXRW",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:18.498126+00:00"
+  },
+  "spotify_track_id:0ozsgsH71OGDoi7VTkpwW2": {
+    "spotify_url": "https://open.spotify.com/track/0ozsgsH71OGDoi7VTkpwW2",
+    "spotify_uri": "spotify:track:0ozsgsH71OGDoi7VTkpwW2",
+    "spotify_id": "0ozsgsH71OGDoi7VTkpwW2",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:18.764649+00:00"
+  },
+  "spotify_track_id:4VyTEBTBOf4f58Xl7Fg2ew": {
+    "spotify_url": "https://open.spotify.com/track/4VyTEBTBOf4f58Xl7Fg2ew",
+    "spotify_uri": "spotify:track:4VyTEBTBOf4f58Xl7Fg2ew",
+    "spotify_id": "4VyTEBTBOf4f58Xl7Fg2ew",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:19.046855+00:00"
+  },
+  "spotify_track_id:2DYaGhAriYxgs415Hxl05s": {
+    "spotify_url": "https://open.spotify.com/track/2DYaGhAriYxgs415Hxl05s",
+    "spotify_uri": "spotify:track:2DYaGhAriYxgs415Hxl05s",
+    "spotify_id": "2DYaGhAriYxgs415Hxl05s",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:19.332552+00:00"
+  },
+  "spotify_track_id:2aic2bUAs67qA9bci84NXx": {
+    "spotify_url": "https://open.spotify.com/track/2aic2bUAs67qA9bci84NXx",
+    "spotify_uri": "spotify:track:2aic2bUAs67qA9bci84NXx",
+    "spotify_id": "2aic2bUAs67qA9bci84NXx",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:19.598365+00:00"
+  },
+  "spotify_track_id:60VPkpPDtVfohwj5UIacyD": {
+    "spotify_url": "https://open.spotify.com/track/60VPkpPDtVfohwj5UIacyD",
+    "spotify_uri": "spotify:track:60VPkpPDtVfohwj5UIacyD",
+    "spotify_id": "60VPkpPDtVfohwj5UIacyD",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:19.878171+00:00"
+  },
+  "spotify_track_id:4lgxI0YfEiFHFrQbEdqBJ7": {
+    "spotify_url": "https://open.spotify.com/track/4lgxI0YfEiFHFrQbEdqBJ7",
+    "spotify_uri": "spotify:track:4lgxI0YfEiFHFrQbEdqBJ7",
+    "spotify_id": "4lgxI0YfEiFHFrQbEdqBJ7",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:20.330994+00:00"
+  },
+  "spotify_track_id:6aaSgGbm80smWP4PCfrKLd": {
+    "spotify_url": "https://open.spotify.com/track/6aaSgGbm80smWP4PCfrKLd",
+    "spotify_uri": "spotify:track:6aaSgGbm80smWP4PCfrKLd",
+    "spotify_id": "6aaSgGbm80smWP4PCfrKLd",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:20.627668+00:00"
+  },
+  "spotify_track_id:246JujjXUH7mvSujBnBa2s": {
+    "spotify_url": "https://open.spotify.com/track/246JujjXUH7mvSujBnBa2s",
+    "spotify_uri": "spotify:track:246JujjXUH7mvSujBnBa2s",
+    "spotify_id": "246JujjXUH7mvSujBnBa2s",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:20.897031+00:00"
+  },
+  "spotify_track_id:0UaHgwqeI3u2R8zYTMpk8K": {
+    "spotify_url": "https://open.spotify.com/track/0UaHgwqeI3u2R8zYTMpk8K",
+    "spotify_uri": "spotify:track:0UaHgwqeI3u2R8zYTMpk8K",
+    "spotify_id": "0UaHgwqeI3u2R8zYTMpk8K",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:21.185192+00:00"
+  },
+  "spotify_track_id:5EJ6xAvHPJmPqmgxDzIEwK": {
+    "spotify_url": "https://open.spotify.com/track/5EJ6xAvHPJmPqmgxDzIEwK",
+    "spotify_uri": "spotify:track:5EJ6xAvHPJmPqmgxDzIEwK",
+    "spotify_id": "5EJ6xAvHPJmPqmgxDzIEwK",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:21.465878+00:00"
+  },
+  "spotify_track_id:3Okdax1yKUD2629cpoNBN4": {
+    "spotify_url": "https://open.spotify.com/track/3Okdax1yKUD2629cpoNBN4",
+    "spotify_uri": "spotify:track:3Okdax1yKUD2629cpoNBN4",
+    "spotify_id": "3Okdax1yKUD2629cpoNBN4",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:21.714730+00:00"
+  },
+  "spotify_track_id:54r8XFCdigsX3gYa3dXeAv": {
+    "spotify_url": "https://open.spotify.com/track/54r8XFCdigsX3gYa3dXeAv",
+    "spotify_uri": "spotify:track:54r8XFCdigsX3gYa3dXeAv",
+    "spotify_id": "54r8XFCdigsX3gYa3dXeAv",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:22.051851+00:00"
+  },
+  "spotify_track_id:1lhfl1XTH2fRx8oN4JvtHx": {
+    "spotify_url": "https://open.spotify.com/track/1lhfl1XTH2fRx8oN4JvtHx",
+    "spotify_uri": "spotify:track:1lhfl1XTH2fRx8oN4JvtHx",
+    "spotify_id": "1lhfl1XTH2fRx8oN4JvtHx",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:22.329497+00:00"
+  },
+  "spotify_track_id:2fxd33QFaXfp4z9gFxSSK7": {
+    "spotify_url": "https://open.spotify.com/track/2fxd33QFaXfp4z9gFxSSK7",
+    "spotify_uri": "spotify:track:2fxd33QFaXfp4z9gFxSSK7",
+    "spotify_id": "2fxd33QFaXfp4z9gFxSSK7",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:22.597242+00:00"
+  },
+  "spotify_track_id:4Z16wBcTfL7AIEoey0B52j": {
+    "spotify_url": "https://open.spotify.com/track/4Z16wBcTfL7AIEoey0B52j",
+    "spotify_uri": "spotify:track:4Z16wBcTfL7AIEoey0B52j",
+    "spotify_id": "4Z16wBcTfL7AIEoey0B52j",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:22.874307+00:00"
+  },
+  "spotify_track_id:5gY80XgolSx9uuIzoUqito": {
+    "spotify_url": "https://open.spotify.com/track/5gY80XgolSx9uuIzoUqito",
+    "spotify_uri": "spotify:track:5gY80XgolSx9uuIzoUqito",
+    "spotify_id": "5gY80XgolSx9uuIzoUqito",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:23.189111+00:00"
+  },
+  "spotify_track_id:7KVS6pFd3oYXBL99bzZd9V": {
+    "spotify_url": "https://open.spotify.com/track/7KVS6pFd3oYXBL99bzZd9V",
+    "spotify_uri": "spotify:track:7KVS6pFd3oYXBL99bzZd9V",
+    "spotify_id": "7KVS6pFd3oYXBL99bzZd9V",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:23.498496+00:00"
+  },
+  "spotify_track_id:0WTnhT7RCalZFHkRaFZn4b": {
+    "spotify_url": "https://open.spotify.com/track/0WTnhT7RCalZFHkRaFZn4b",
+    "spotify_uri": "spotify:track:0WTnhT7RCalZFHkRaFZn4b",
+    "spotify_id": "0WTnhT7RCalZFHkRaFZn4b",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:23.760566+00:00"
+  },
+  "spotify_track_id:0heRkGtIPfL6hs9m5dugW2": {
+    "spotify_url": "https://open.spotify.com/track/0heRkGtIPfL6hs9m5dugW2",
+    "spotify_uri": "spotify:track:0heRkGtIPfL6hs9m5dugW2",
+    "spotify_id": "0heRkGtIPfL6hs9m5dugW2",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:24.156032+00:00"
+  },
+  "spotify_track_id:39zwrXOUGkamnCuduQAChZ": {
+    "spotify_url": "https://open.spotify.com/track/39zwrXOUGkamnCuduQAChZ",
+    "spotify_uri": "spotify:track:39zwrXOUGkamnCuduQAChZ",
+    "spotify_id": "39zwrXOUGkamnCuduQAChZ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:24.422377+00:00"
+  },
+  "spotify_track_id:6KAvNSruzYCWXKViXV4Rn2": {
+    "spotify_url": "https://open.spotify.com/track/6KAvNSruzYCWXKViXV4Rn2",
+    "spotify_uri": "spotify:track:6KAvNSruzYCWXKViXV4Rn2",
+    "spotify_id": "6KAvNSruzYCWXKViXV4Rn2",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:24.747877+00:00"
+  },
+  "spotify_track_id:6u0RzyFxTJqA7MS5alguuE": {
+    "spotify_url": "https://open.spotify.com/track/6u0RzyFxTJqA7MS5alguuE",
+    "spotify_uri": "spotify:track:6u0RzyFxTJqA7MS5alguuE",
+    "spotify_id": "6u0RzyFxTJqA7MS5alguuE",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:25.013296+00:00"
+  },
+  "spotify_track_id:2J6tjGPXygBiI56uqg8q80": {
+    "spotify_url": "https://open.spotify.com/track/2J6tjGPXygBiI56uqg8q80",
+    "spotify_uri": "spotify:track:2J6tjGPXygBiI56uqg8q80",
+    "spotify_id": "2J6tjGPXygBiI56uqg8q80",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:25.344363+00:00"
+  },
+  "spotify_track_id:2BLDXwD87Ob5ygwnOwt002": {
+    "spotify_url": "https://open.spotify.com/track/2BLDXwD87Ob5ygwnOwt002",
+    "spotify_uri": "spotify:track:2BLDXwD87Ob5ygwnOwt002",
+    "spotify_id": "2BLDXwD87Ob5ygwnOwt002",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:25.607638+00:00"
+  },
+  "spotify_track_id:5HtRyiO62y5F0OAbYS8CFF": {
+    "spotify_url": "https://open.spotify.com/track/5HtRyiO62y5F0OAbYS8CFF",
+    "spotify_uri": "spotify:track:5HtRyiO62y5F0OAbYS8CFF",
+    "spotify_id": "5HtRyiO62y5F0OAbYS8CFF",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:25.859818+00:00"
+  },
+  "spotify_track_id:0taknIkCpgmVHSaiwb7F8O": {
+    "spotify_url": "https://open.spotify.com/track/0taknIkCpgmVHSaiwb7F8O",
+    "spotify_uri": "spotify:track:0taknIkCpgmVHSaiwb7F8O",
+    "spotify_id": "0taknIkCpgmVHSaiwb7F8O",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:26.136508+00:00"
+  },
+  "spotify_track_id:0CT7BQmtrnRfd0zN52VyCL": {
+    "spotify_url": "https://open.spotify.com/track/0CT7BQmtrnRfd0zN52VyCL",
+    "spotify_uri": "spotify:track:0CT7BQmtrnRfd0zN52VyCL",
+    "spotify_id": "0CT7BQmtrnRfd0zN52VyCL",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:26.478496+00:00"
+  },
+  "spotify_track_id:4SF7nRvTWCZwqAX7DSMLLT": {
+    "spotify_url": "https://open.spotify.com/track/4SF7nRvTWCZwqAX7DSMLLT",
+    "spotify_uri": "spotify:track:4SF7nRvTWCZwqAX7DSMLLT",
+    "spotify_id": "4SF7nRvTWCZwqAX7DSMLLT",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:26.738250+00:00"
+  },
+  "spotify_track_id:6P3bxb9zYXGyiHGI73ZV4f": {
+    "spotify_url": "https://open.spotify.com/track/6P3bxb9zYXGyiHGI73ZV4f",
+    "spotify_uri": "spotify:track:6P3bxb9zYXGyiHGI73ZV4f",
+    "spotify_id": "6P3bxb9zYXGyiHGI73ZV4f",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:27.019553+00:00"
+  },
+  "spotify_track_id:2GcSf1544aarDASEp3fXcq": {
+    "spotify_url": "https://open.spotify.com/track/2GcSf1544aarDASEp3fXcq",
+    "spotify_uri": "spotify:track:2GcSf1544aarDASEp3fXcq",
+    "spotify_id": "2GcSf1544aarDASEp3fXcq",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:27.277478+00:00"
+  },
+  "spotify_track_id:2MXxfbqPfBOLUKQaFY2yOW": {
+    "spotify_url": "https://open.spotify.com/track/2MXxfbqPfBOLUKQaFY2yOW",
+    "spotify_uri": "spotify:track:2MXxfbqPfBOLUKQaFY2yOW",
+    "spotify_id": "2MXxfbqPfBOLUKQaFY2yOW",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:27.567248+00:00"
+  },
+  "spotify_track_id:4FaVdYhtQxaDQUftDyJAqG": {
+    "spotify_url": "https://open.spotify.com/track/4FaVdYhtQxaDQUftDyJAqG",
+    "spotify_uri": "spotify:track:4FaVdYhtQxaDQUftDyJAqG",
+    "spotify_id": "4FaVdYhtQxaDQUftDyJAqG",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:27.845512+00:00"
+  },
+  "spotify_track_id:3ovtCyCuGSiHFDqCy1eQVd": {
+    "spotify_url": "https://open.spotify.com/track/3ovtCyCuGSiHFDqCy1eQVd",
+    "spotify_uri": "spotify:track:3ovtCyCuGSiHFDqCy1eQVd",
+    "spotify_id": "3ovtCyCuGSiHFDqCy1eQVd",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:28.188573+00:00"
+  },
+  "spotify_track_id:1kH13K2EGdC0SntOePdTnc": {
+    "spotify_url": "https://open.spotify.com/track/1kH13K2EGdC0SntOePdTnc",
+    "spotify_uri": "spotify:track:1kH13K2EGdC0SntOePdTnc",
+    "spotify_id": "1kH13K2EGdC0SntOePdTnc",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:28.451936+00:00"
+  },
+  "spotify_track_id:4vx8Xfxr81bBDhSyiBHPWU": {
+    "spotify_url": "https://open.spotify.com/track/4vx8Xfxr81bBDhSyiBHPWU",
+    "spotify_uri": "spotify:track:4vx8Xfxr81bBDhSyiBHPWU",
+    "spotify_id": "4vx8Xfxr81bBDhSyiBHPWU",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:28.748997+00:00"
+  },
+  "spotify_track_id:1cM9fuAO7U3sWeHHIkxhA7": {
+    "spotify_url": "https://open.spotify.com/track/1cM9fuAO7U3sWeHHIkxhA7",
+    "spotify_uri": "spotify:track:1cM9fuAO7U3sWeHHIkxhA7",
+    "spotify_id": "1cM9fuAO7U3sWeHHIkxhA7",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:29.059223+00:00"
+  },
+  "spotify_track_id:1nT35P1gwNo9761fEarhGn": {
+    "spotify_url": "https://open.spotify.com/track/1nT35P1gwNo9761fEarhGn",
+    "spotify_uri": "spotify:track:1nT35P1gwNo9761fEarhGn",
+    "spotify_id": "1nT35P1gwNo9761fEarhGn",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:29.366706+00:00"
+  },
+  "spotify_track_id:7fjsTXRPV6YlpXdoHnvGHm": {
+    "spotify_url": "https://open.spotify.com/track/7fjsTXRPV6YlpXdoHnvGHm",
+    "spotify_uri": "spotify:track:7fjsTXRPV6YlpXdoHnvGHm",
+    "spotify_id": "7fjsTXRPV6YlpXdoHnvGHm",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:29.643812+00:00"
+  },
+  "spotify_track_id:5QxDv7ie7idRt9cpden1QL": {
+    "spotify_url": "https://open.spotify.com/track/5QxDv7ie7idRt9cpden1QL",
+    "spotify_uri": "spotify:track:5QxDv7ie7idRt9cpden1QL",
+    "spotify_id": "5QxDv7ie7idRt9cpden1QL",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:29.923476+00:00"
+  },
+  "spotify_track_id:2MxEGxgVketmGGbNlBzL6U": {
+    "spotify_url": "https://open.spotify.com/track/2MxEGxgVketmGGbNlBzL6U",
+    "spotify_uri": "spotify:track:2MxEGxgVketmGGbNlBzL6U",
+    "spotify_id": "2MxEGxgVketmGGbNlBzL6U",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:30.179663+00:00"
+  },
+  "spotify_track_id:0bUJQz43dVkEL4POcejmvn": {
+    "spotify_url": "https://open.spotify.com/track/0bUJQz43dVkEL4POcejmvn",
+    "spotify_uri": "spotify:track:0bUJQz43dVkEL4POcejmvn",
+    "spotify_id": "0bUJQz43dVkEL4POcejmvn",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:30.438328+00:00"
+  },
+  "spotify_track_id:6zCTGmLRfcKrUPDbWzrYEu": {
+    "spotify_url": "https://open.spotify.com/track/6zCTGmLRfcKrUPDbWzrYEu",
+    "spotify_uri": "spotify:track:6zCTGmLRfcKrUPDbWzrYEu",
+    "spotify_id": "6zCTGmLRfcKrUPDbWzrYEu",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:30.738051+00:00"
+  },
+  "spotify_track_id:4aaFJEVWaUaDy11TP69iCS": {
+    "spotify_url": "https://open.spotify.com/track/4aaFJEVWaUaDy11TP69iCS",
+    "spotify_uri": "spotify:track:4aaFJEVWaUaDy11TP69iCS",
+    "spotify_id": "4aaFJEVWaUaDy11TP69iCS",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:31.018160+00:00"
+  },
+  "spotify_track_id:6gt6nuBmhT4uipzQ9xxsKR": {
+    "spotify_url": "https://open.spotify.com/track/6gt6nuBmhT4uipzQ9xxsKR",
+    "spotify_uri": "spotify:track:6gt6nuBmhT4uipzQ9xxsKR",
+    "spotify_id": "6gt6nuBmhT4uipzQ9xxsKR",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:31.396620+00:00"
+  },
+  "spotify_track_id:6YYSbGrC22yMzh952v5v9T": {
+    "spotify_url": "https://open.spotify.com/track/6YYSbGrC22yMzh952v5v9T",
+    "spotify_uri": "spotify:track:6YYSbGrC22yMzh952v5v9T",
+    "spotify_id": "6YYSbGrC22yMzh952v5v9T",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:31.909273+00:00"
+  },
+  "spotify_track_id:4QS5DOlXKeOqg3d5THhkWM": {
+    "spotify_url": "https://open.spotify.com/track/4QS5DOlXKeOqg3d5THhkWM",
+    "spotify_uri": "spotify:track:4QS5DOlXKeOqg3d5THhkWM",
+    "spotify_id": "4QS5DOlXKeOqg3d5THhkWM",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:32.244535+00:00"
+  },
+  "spotify_track_id:05o2cvm4dxEGGjQvJ7ML8C": {
+    "spotify_url": "https://open.spotify.com/track/05o2cvm4dxEGGjQvJ7ML8C",
+    "spotify_uri": "spotify:track:05o2cvm4dxEGGjQvJ7ML8C",
+    "spotify_id": "05o2cvm4dxEGGjQvJ7ML8C",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:32.504653+00:00"
+  },
+  "spotify_track_id:2f4NWuOC6J8o3LNIbNhfNf": {
+    "spotify_url": "https://open.spotify.com/track/2f4NWuOC6J8o3LNIbNhfNf",
+    "spotify_uri": "spotify:track:2f4NWuOC6J8o3LNIbNhfNf",
+    "spotify_id": "2f4NWuOC6J8o3LNIbNhfNf",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:32.792995+00:00"
+  },
+  "spotify_track_id:0NGLIf5ySdwyNR9R9pq4tU": {
+    "spotify_url": "https://open.spotify.com/track/0NGLIf5ySdwyNR9R9pq4tU",
+    "spotify_uri": "spotify:track:0NGLIf5ySdwyNR9R9pq4tU",
+    "spotify_id": "0NGLIf5ySdwyNR9R9pq4tU",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:33.124592+00:00"
+  },
+  "spotify_track_id:1UL18EXMgjMExrFgXLIHoh": {
+    "spotify_url": "https://open.spotify.com/track/1UL18EXMgjMExrFgXLIHoh",
+    "spotify_uri": "spotify:track:1UL18EXMgjMExrFgXLIHoh",
+    "spotify_id": "1UL18EXMgjMExrFgXLIHoh",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:33.417020+00:00"
+  },
+  "spotify_track_id:5uGNhZbHZXZk5ZM4we7IcG": {
+    "spotify_url": "https://open.spotify.com/track/5uGNhZbHZXZk5ZM4we7IcG",
+    "spotify_uri": "spotify:track:5uGNhZbHZXZk5ZM4we7IcG",
+    "spotify_id": "5uGNhZbHZXZk5ZM4we7IcG",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:33.677152+00:00"
+  },
+  "spotify_track_id:0BTW2yYcbqmPakZaB0cK4I": {
+    "spotify_url": "https://open.spotify.com/track/0BTW2yYcbqmPakZaB0cK4I",
+    "spotify_uri": "spotify:track:0BTW2yYcbqmPakZaB0cK4I",
+    "spotify_id": "0BTW2yYcbqmPakZaB0cK4I",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:33.952314+00:00"
+  },
+  "spotify_track_id:1rxUEjzt6usvFIKFAExs27": {
+    "spotify_url": "https://open.spotify.com/track/1rxUEjzt6usvFIKFAExs27",
+    "spotify_uri": "spotify:track:1rxUEjzt6usvFIKFAExs27",
+    "spotify_id": "1rxUEjzt6usvFIKFAExs27",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:34.258393+00:00"
+  },
+  "spotify_track_id:6MSLtSyeOoFHQU4B0d4qZs": {
+    "spotify_url": "https://open.spotify.com/track/6MSLtSyeOoFHQU4B0d4qZs",
+    "spotify_uri": "spotify:track:6MSLtSyeOoFHQU4B0d4qZs",
+    "spotify_id": "6MSLtSyeOoFHQU4B0d4qZs",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:34.602335+00:00"
+  },
+  "spotify_track_id:07SzwKtJJjenB8A2DJcsy6": {
+    "spotify_url": "https://open.spotify.com/track/07SzwKtJJjenB8A2DJcsy6",
+    "spotify_uri": "spotify:track:07SzwKtJJjenB8A2DJcsy6",
+    "spotify_id": "07SzwKtJJjenB8A2DJcsy6",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:35.108569+00:00"
+  },
+  "spotify_track_id:5uczAmMqmlpnBlISqcujNg": {
+    "spotify_url": "https://open.spotify.com/track/5uczAmMqmlpnBlISqcujNg",
+    "spotify_uri": "spotify:track:5uczAmMqmlpnBlISqcujNg",
+    "spotify_id": "5uczAmMqmlpnBlISqcujNg",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:35.382609+00:00"
+  },
+  "spotify_track_id:6eAhftw3uZ7JkTNp8mKZn8": {
+    "spotify_url": "https://open.spotify.com/track/6eAhftw3uZ7JkTNp8mKZn8",
+    "spotify_uri": "spotify:track:6eAhftw3uZ7JkTNp8mKZn8",
+    "spotify_id": "6eAhftw3uZ7JkTNp8mKZn8",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:35.719194+00:00"
+  },
+  "spotify_track_id:1LoMZYNJMpoknSCsKHqusT": {
+    "spotify_url": "https://open.spotify.com/track/1LoMZYNJMpoknSCsKHqusT",
+    "spotify_uri": "spotify:track:1LoMZYNJMpoknSCsKHqusT",
+    "spotify_id": "1LoMZYNJMpoknSCsKHqusT",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:36.015839+00:00"
+  },
+  "spotify_track_id:6U4HMXVQTcHE5nK2JWrovP": {
+    "spotify_url": "https://open.spotify.com/track/6U4HMXVQTcHE5nK2JWrovP",
+    "spotify_uri": "spotify:track:6U4HMXVQTcHE5nK2JWrovP",
+    "spotify_id": "6U4HMXVQTcHE5nK2JWrovP",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:36.273701+00:00"
+  },
+  "spotify_track_id:6PJ5cyvUBNNrR05lPi1k0Q": {
+    "spotify_url": "https://open.spotify.com/track/6PJ5cyvUBNNrR05lPi1k0Q",
+    "spotify_uri": "spotify:track:6PJ5cyvUBNNrR05lPi1k0Q",
+    "spotify_id": "6PJ5cyvUBNNrR05lPi1k0Q",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:36.567415+00:00"
+  },
+  "spotify_track_id:6mwbkoozJoxLjwiAfJacnb": {
+    "spotify_url": "https://open.spotify.com/track/6mwbkoozJoxLjwiAfJacnb",
+    "spotify_uri": "spotify:track:6mwbkoozJoxLjwiAfJacnb",
+    "spotify_id": "6mwbkoozJoxLjwiAfJacnb",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:36.834924+00:00"
+  },
+  "spotify_track_id:4HZKj1YVgqeecp0fHKH94D": {
+    "spotify_url": "https://open.spotify.com/track/4HZKj1YVgqeecp0fHKH94D",
+    "spotify_uri": "spotify:track:4HZKj1YVgqeecp0fHKH94D",
+    "spotify_id": "4HZKj1YVgqeecp0fHKH94D",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:37.121983+00:00"
+  },
+  "spotify_track_id:6AwcS1WEMnY6tZgAXu7puL": {
+    "spotify_url": "https://open.spotify.com/track/6AwcS1WEMnY6tZgAXu7puL",
+    "spotify_uri": "spotify:track:6AwcS1WEMnY6tZgAXu7puL",
+    "spotify_id": "6AwcS1WEMnY6tZgAXu7puL",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:37.472919+00:00"
+  },
+  "spotify_track_id:5qy3T8vbR4jQKVPjWuq40r": {
+    "spotify_url": "https://open.spotify.com/track/5qy3T8vbR4jQKVPjWuq40r",
+    "spotify_uri": "spotify:track:5qy3T8vbR4jQKVPjWuq40r",
+    "spotify_id": "5qy3T8vbR4jQKVPjWuq40r",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:37.852394+00:00"
+  },
+  "spotify_track_id:0HRqceY2qzOTM56XUN6Xzt": {
+    "spotify_url": "https://open.spotify.com/track/0HRqceY2qzOTM56XUN6Xzt",
+    "spotify_uri": "spotify:track:0HRqceY2qzOTM56XUN6Xzt",
+    "spotify_id": "0HRqceY2qzOTM56XUN6Xzt",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:38.159742+00:00"
+  },
+  "spotify_track_id:2TCYaULWrAcRF9TyXVV28p": {
+    "spotify_url": "https://open.spotify.com/track/2TCYaULWrAcRF9TyXVV28p",
+    "spotify_uri": "spotify:track:2TCYaULWrAcRF9TyXVV28p",
+    "spotify_id": "2TCYaULWrAcRF9TyXVV28p",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:38.447737+00:00"
+  },
+  "spotify_track_id:4FHDiMCyuv0ZHsjvYRwnGo": {
+    "spotify_url": "https://open.spotify.com/track/4FHDiMCyuv0ZHsjvYRwnGo",
+    "spotify_uri": "spotify:track:4FHDiMCyuv0ZHsjvYRwnGo",
+    "spotify_id": "4FHDiMCyuv0ZHsjvYRwnGo",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:38.706167+00:00"
+  },
+  "spotify_track_id:5TCzK56ZMocMfEPQjcrM6C": {
+    "spotify_url": "https://open.spotify.com/track/5TCzK56ZMocMfEPQjcrM6C",
+    "spotify_uri": "spotify:track:5TCzK56ZMocMfEPQjcrM6C",
+    "spotify_id": "5TCzK56ZMocMfEPQjcrM6C",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:38.964549+00:00"
+  },
+  "spotify_track_id:0I1lWtL7JAIlQsdDJdeq6i": {
+    "spotify_url": "https://open.spotify.com/track/0I1lWtL7JAIlQsdDJdeq6i",
+    "spotify_uri": "spotify:track:0I1lWtL7JAIlQsdDJdeq6i",
+    "spotify_id": "0I1lWtL7JAIlQsdDJdeq6i",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:39.239768+00:00"
+  },
+  "spotify_track_id:6W84fT9RU2PWX11135nWEq": {
+    "spotify_url": "https://open.spotify.com/track/6W84fT9RU2PWX11135nWEq",
+    "spotify_uri": "spotify:track:6W84fT9RU2PWX11135nWEq",
+    "spotify_id": "6W84fT9RU2PWX11135nWEq",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:39.523771+00:00"
+  },
+  "spotify_track_id:2hW3HlzeZKuF5LotA8JnkI": {
+    "spotify_url": "https://open.spotify.com/track/2hW3HlzeZKuF5LotA8JnkI",
+    "spotify_uri": "spotify:track:2hW3HlzeZKuF5LotA8JnkI",
+    "spotify_id": "2hW3HlzeZKuF5LotA8JnkI",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:39.797475+00:00"
+  },
+  "spotify_track_id:2IAFVPDpVCBUFrW6ccdtL1": {
+    "spotify_url": "https://open.spotify.com/track/2IAFVPDpVCBUFrW6ccdtL1",
+    "spotify_uri": "spotify:track:2IAFVPDpVCBUFrW6ccdtL1",
+    "spotify_id": "2IAFVPDpVCBUFrW6ccdtL1",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:40.057496+00:00"
+  },
+  "spotify_track_id:0lAymK0u2qSjQzv9CEVLh9": {
+    "spotify_url": "https://open.spotify.com/track/0lAymK0u2qSjQzv9CEVLh9",
+    "spotify_uri": "spotify:track:0lAymK0u2qSjQzv9CEVLh9",
+    "spotify_id": "0lAymK0u2qSjQzv9CEVLh9",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:40.335619+00:00"
+  },
+  "spotify_track_id:2L9MWdBGTG0v57OUgbYVo5": {
+    "spotify_url": "https://open.spotify.com/track/2L9MWdBGTG0v57OUgbYVo5",
+    "spotify_uri": "spotify:track:2L9MWdBGTG0v57OUgbYVo5",
+    "spotify_id": "2L9MWdBGTG0v57OUgbYVo5",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:40.644565+00:00"
+  },
+  "spotify_track_id:2MlHWKVTEj1yTC4gK1qtNu": {
+    "spotify_url": "https://open.spotify.com/track/2MlHWKVTEj1yTC4gK1qtNu",
+    "spotify_uri": "spotify:track:2MlHWKVTEj1yTC4gK1qtNu",
+    "spotify_id": "2MlHWKVTEj1yTC4gK1qtNu",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:40.922965+00:00"
+  },
+  "spotify_track_id:6EOwR1kZBUh434xWnKO6R3": {
+    "spotify_url": "https://open.spotify.com/track/6EOwR1kZBUh434xWnKO6R3",
+    "spotify_uri": "spotify:track:6EOwR1kZBUh434xWnKO6R3",
+    "spotify_id": "6EOwR1kZBUh434xWnKO6R3",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:41.179528+00:00"
+  },
+  "spotify_track_id:77AOMNQWP346mMAOf1vkcQ": {
+    "spotify_url": "https://open.spotify.com/track/77AOMNQWP346mMAOf1vkcQ",
+    "spotify_uri": "spotify:track:77AOMNQWP346mMAOf1vkcQ",
+    "spotify_id": "77AOMNQWP346mMAOf1vkcQ",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:41.486770+00:00"
+  },
+  "spotify_track_id:7MoWVoswgROzAu0Pa95iF4": {
+    "spotify_url": "https://open.spotify.com/track/7MoWVoswgROzAu0Pa95iF4",
+    "spotify_uri": "spotify:track:7MoWVoswgROzAu0Pa95iF4",
+    "spotify_id": "7MoWVoswgROzAu0Pa95iF4",
+    "spotify_match_version": "strict_v3_date_checked",
+    "soundcloud_url": null,
+    "soundcloud_track_id": null,
+    "updated_at": "2026-07-31T20:18:41.737115+00:00"
   }
 }

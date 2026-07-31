@@ -25,7 +25,12 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--max-per-associated-artist", type=int, default=3, help="Maximum playlist tracks where any listed/collaborating/label-like artist name appears.")
     parser.add_argument("--allow-speed-variants", action="store_true", help="Allow slowed/sped-up/nightcore style variants into the final playlist.")
     parser.add_argument("--allow-old-isrc-years", action="store_true", help="Allow tracks whose ISRC year predates the current release window.")
-    parser.add_argument("--playlist-name", default="New House")
+    parser.add_argument("--playlist-name", default="New House Fridays")
+    parser.add_argument(
+        "--spotify-playlist-id",
+        default="4CiTVmpk37ndyvuT6skcrS",
+        help="Known Spotify playlist ID to update directly, regardless of its current name. Falls back to --playlist-name lookup/creation if empty or no longer valid.",
+    )
     parser.add_argument("--source-output-dir", default="data/source_outputs")
     parser.add_argument("--ranked-output", default="data/ranked_releases.json")
     parser.add_argument("--unique-output", default="data/ranked_releases_unique.json")
@@ -124,6 +129,7 @@ def main() -> None:
             push_soundcloud=not args.skip_soundcloud_push,
             spotify_public=args.spotify_public,
             soundcloud_sharing=args.soundcloud_sharing,
+            spotify_playlist_id=args.spotify_playlist_id or None,
         )
     else:
         report = {

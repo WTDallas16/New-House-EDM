@@ -1,5 +1,7 @@
 from datetime import date
 
+from spotipy.exceptions import SpotifyException
+
 from src.spotify_tools import SpotifyTools, best_spotify_match, spotify_track_id_from_record
 
 
@@ -63,3 +65,70 @@ def test_direct_spotify_track_id_is_date_checked():
     )
 
     assert result == {"spotify_id": None, "spotify_uri": None, "spotify_url": None}
+
+
+def test_find_or_create_playlist_uses_known_id_without_name_lookup():
+    class FakeClient:
+        def playlist(self, playlist_id, fields=None):
+            return {"id": playlist_id}
+
+        def current_user(self):
+            raise AssertionError("should not need to look up the current user when the known id is valid")
+
+        def current_user_playlists(self, limit=50):
+            raise AssertionError("should not search playlists by name when the known id is valid")
+
+    tool = SpotifyTools.__new__(SpotifyTools)
+    tool.client = FakeClient()
+
+    playlist_id = tool.find_or_create_playlist("New House Fridays", known_playlist_id="known-id")
+
+    assert playlist_id == "known-id"
+
+
+def test_find_or_create_playlist_falls_back_to_name_when_known_id_invalid():
+    class FakeClient:
+        def playlist(self, playlist_id, fields=None):
+            raise SpotifyException(404, -1, "Not Found")
+
+        def current_user(self):
+            return {"id": "user-1"}
+
+        def current_user_playlists(self, limit=50):
+            return {"items": [{"id": "matched-id", "name": "New House Fridays"}], "next": None}
+
+        def next(self, page):
+            return None
+
+    tool = SpotifyTools.__new__(SpotifyTools)
+    tool.client = FakeClient()
+
+    playlist_id = tool.find_or_create_playlist("New House Fridays", known_playlist_id="stale-id")
+
+    assert playlist_id == "matched-id"
+
+
+def test_find_or_create_playlist_creates_when_name_not_found():
+    created = {}
+
+    class FakeClient:
+        def current_user(self):
+            return {"id": "user-1"}
+
+        def current_user_playlists(self, limit=50):
+            return {"items": [], "next": None}
+
+        def next(self, page):
+            return None
+
+        def user_playlist_create(self, user, name, public, description):
+            created.update(user=user, name=name, public=public, description=description)
+            return {"id": "new-id"}
+
+    tool = SpotifyTools.__new__(SpotifyTools)
+    tool.client = FakeClient()
+
+    playlist_id = tool.find_or_create_playlist("New House Fridays")
+
+    assert playlist_id == "new-id"
+    assert created["name"] == "New House Fridays"

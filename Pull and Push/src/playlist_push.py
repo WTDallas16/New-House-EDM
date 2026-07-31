@@ -22,6 +22,7 @@ def push_playlists(
     push_soundcloud: bool = True,
     spotify_public: bool = False,
     soundcloud_sharing: str = "private",
+    spotify_playlist_id: str | None = None,
 ) -> dict[str, Any]:
     report: dict[str, Any] = {
         "playlist_name": playlist_name,
@@ -36,7 +37,7 @@ def push_playlists(
         report["spotify"]["track_count"] = len(spotify_uris)
         try:
             spotify = SpotifyTools(data_root)
-            playlist_id = spotify.find_or_create_playlist(playlist_name, public=spotify_public)
+            playlist_id = spotify.find_or_create_playlist(playlist_name, public=spotify_public, known_playlist_id=spotify_playlist_id)
             spotify.replace_playlist_tracks(playlist_id, spotify_uris)
             report["spotify"]["playlist_id"] = playlist_id
             LOGGER.info("Updated Spotify playlist %s with %d tracks", playlist_name, len(spotify_uris))

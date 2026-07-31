@@ -1,2672 +1,2701 @@
 [
   {
-    "artist": "Alex Hayes",
-    "track_or_project_title": "Dreams ft JXN (Radio Edit)",
+    "artist": "Oliver Heldens",
+    "track_or_project_title": "AEIOU",
     "release_type": "track",
     "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Alex Hayes - Dreams ft JXN (Radio Edit)",
-    "source_article_url": "https://www.submithub.com/song/alex-hayes-x-jxn-dreams-ft-jxn-radio-edit",
+    "source_article_title": "Oliver Heldens - AEIOU",
+    "source_article_url": "https://www.submithub.com/song/undefined-aeiou-oliver-heldens-cover",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://open.spotify.com/track/6ovT2DcdlkHxSwI7d7Kmh5"
+      "https://open.spotify.com/track/5fRbxcgYwcRahoBVDIqYfJ"
     ],
     "open_graph": {
       "chart_rank": "1",
-      "popular_points": "37",
-      "hot_or_not_likes": "41",
-      "curator_approvals": "41",
-      "rgb_bonus": "0",
-      "approval_responses": "92",
-      "country": "AU",
-      "genres": "Progressive House, Melodic House, Big Room",
-      "label": "JXN and Alex Hayes",
-      "submitHub_track_id": "JQRTZMZPZhpYHJ2Qe"
+      "popular_points": "67",
+      "hot_or_not_likes": "74",
+      "curator_approvals": "74",
+      "rgb_bonus": "2",
+      "approval_responses": "136",
+      "country": "NL",
+      "genres": "House (Old-school), Disco House, EDM",
+      "label": "Heldeep Records",
+      "submitHub_track_id": "t7pfGrgD5FZhfa7q3"
     },
     "release_article": true
   },
   {
-    "artist": "Yari M",
-    "track_or_project_title": "Adicta",
+    "artist": "Misha Miller",
+    "track_or_project_title": "Too Hot To Be Friends",
     "release_type": "track",
     "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Yari M - Adicta",
-    "source_article_url": "https://www.submithub.com/song/yari-m-adicta",
+    "source_article_title": "Misha Miller - Too Hot To Be Friends",
+    "source_article_url": "https://www.submithub.com/song/misha-miller-x-utopia-crew-too-hot-to-be-friends",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-29",
+    "article_date": "2026-07-02",
     "embedded_music_links": [
-      "https://open.spotify.com/track/3rNtWU18TEbnD85QtejTED"
+      "https://open.spotify.com/track/1SDQH99twnyu7gnEFAcGxa"
+    ],
+    "open_graph": {
+      "chart_rank": "2",
+      "popular_points": "55",
+      "hot_or_not_likes": "70",
+      "curator_approvals": "70",
+      "rgb_bonus": "1",
+      "approval_responses": "88",
+      "country": "RO",
+      "genres": "Dance Pop, Tribal / Afro House",
+      "label": "Roton Music",
+      "submitHub_track_id": "vPsAnADSWcYrpzmFs"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Panama",
+    "track_or_project_title": "Hummingbird",
+    "release_type": "remix",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Panama - Hummingbird",
+    "source_article_url": "https://www.submithub.com/song/panama-x-amtrac-hummingbird-remix-by-banyan",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/vAPffacFh2rc2p5cr/hummingbird-banyan-remix-master-v1-zgkvxgj.wav"
     ],
     "open_graph": {
       "chart_rank": "3",
-      "popular_points": "34",
-      "hot_or_not_likes": "72",
-      "curator_approvals": "72",
-      "rgb_bonus": "1",
-      "approval_responses": "118",
-      "country": "PR",
-      "genres": "World Music (Latin & Hispanic), Latin Pop, Latin House",
-      "label": "Black Diamond Music",
-      "submitHub_track_id": "DesoAwtT2PHhz7N4r"
+      "popular_points": "49",
+      "hot_or_not_likes": "42",
+      "curator_approvals": "42",
+      "rgb_bonus": "3",
+      "approval_responses": "81",
+      "country": "US",
+      "genres": "Downtempo, Melodic House, Electronica",
+      "label": "Future Classic",
+      "submitHub_track_id": "TmZgGx7iv4rn7wSrc"
     },
     "release_article": true
   },
   {
-    "artist": "Paccu",
-    "track_or_project_title": "Broken Pieces",
+    "artist": "Semblance Smile",
+    "track_or_project_title": "Wherever You Go",
     "release_type": "track",
     "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Paccu - Broken Pieces",
-    "source_article_url": "https://www.submithub.com/song/paccu-broken-pieces",
+    "source_article_title": "Semblance Smile - Wherever You Go",
+    "source_article_url": "https://www.submithub.com/song/semblance-smile-x-north-skies-wherever-you-go",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://open.spotify.com/track/3kEsyzrycRGifXxZHAMtDv"
+      "https://s3.amazonaws.com/submithub/files/x8GiYNe4RGEtMzY9H/semblance-smile-and-north-skies-wherever-you-go-original-mix-h0myc6m.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "4",
+      "popular_points": "49",
+      "hot_or_not_likes": "51",
+      "curator_approvals": "51",
+      "rgb_bonus": "0",
+      "approval_responses": "88",
+      "country": "NL",
+      "genres": "Progressive House, Melodic House, Chill House",
+      "label": "A Tribute To Life",
+      "submitHub_track_id": "6jdYhsnSi6MrxHKfo"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "ANTO (US)",
+    "track_or_project_title": "NASTY",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "ANTO (US) - NASTY",
+    "source_article_url": "https://www.submithub.com/song/anto-us-nasty",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://soundcloud.com/antomusicus/nasty/s-njmnTv8BAX3"
     ],
     "open_graph": {
       "chart_rank": "5",
-      "popular_points": "34",
-      "hot_or_not_likes": "34",
-      "curator_approvals": "34",
-      "rgb_bonus": "0",
-      "approval_responses": "62",
-      "country": "AT",
-      "genres": "House (Old-school), Deep House",
-      "label": "Paccu",
-      "submitHub_track_id": "rPertAMqykDxsd9vD"
+      "popular_points": "48",
+      "hot_or_not_likes": "49",
+      "curator_approvals": "49",
+      "rgb_bonus": "2",
+      "approval_responses": "84",
+      "country": "US",
+      "genres": "Tech House, Bass House / Electro House",
+      "label": "ANTO - United States",
+      "submitHub_track_id": "n6N4LQrQcDrqsrgWk"
     },
     "release_article": true
   },
   {
-    "artist": "Jarrod Cooney",
-    "track_or_project_title": "Solitude",
+    "artist": "jünn",
+    "track_or_project_title": "back to u",
     "release_type": "track",
     "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Jarrod Cooney - Solitude",
-    "source_article_url": "https://www.submithub.com/song/jarrod-cooney-x-julia-loveless-solitude",
+    "source_article_title": "jünn - back to u",
+    "source_article_url": "https://www.submithub.com/song/junn-back-to-u",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-16",
     "embedded_music_links": [
-      "https://soundcloud.com/user-627426710-821727338/solitude/s-8dxQG0Q2wuX"
+      "https://open.spotify.com/track/0FmuQSfoc0cGmGbnNi77OQ"
+    ],
+    "open_graph": {
+      "chart_rank": "6",
+      "popular_points": "47",
+      "hot_or_not_likes": "43",
+      "curator_approvals": "43",
+      "rgb_bonus": "1",
+      "approval_responses": "51",
+      "country": "NL",
+      "genres": "Deep House, Chill House",
+      "label": "Relavel Records",
+      "submitHub_track_id": "KumBbYeofHn98XmF8"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "JAYCiX",
+    "track_or_project_title": "All I Want",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "JAYCiX - All I Want",
+    "source_article_url": "https://www.submithub.com/song/jaycix-all-i-want",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/0iDfWbFua961XszmwBPeTk"
     ],
     "open_graph": {
       "chart_rank": "7",
-      "popular_points": "33",
-      "hot_or_not_likes": "53",
-      "curator_approvals": "53",
-      "rgb_bonus": "1",
-      "approval_responses": "254",
-      "country": "AU",
-      "genres": "Chill House, Melodic House, Progressive House",
-      "label": "JROD Records",
-      "submitHub_track_id": "FfBPXNGXCJmqQTYrF"
+      "popular_points": "46",
+      "hot_or_not_likes": "61",
+      "curator_approvals": "61",
+      "rgb_bonus": "0",
+      "approval_responses": "187",
+      "country": "US",
+      "genres": "Dance Pop, Tech House, Deep House",
+      "label": "Perceived Records",
+      "submitHub_track_id": "5WW2oK5mp3zGYdAh3"
     },
     "release_article": true
   },
   {
-    "artist": "Arctec",
-    "track_or_project_title": "I Will Miss You",
+    "artist": "Itona",
+    "track_or_project_title": "think about it",
     "release_type": "track",
     "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Arctec - I Will Miss You",
-    "source_article_url": "https://www.submithub.com/song/arctec-i-will-miss-you",
+    "source_article_title": "Itona - think about it",
+    "source_article_url": "https://www.submithub.com/song/itona-x-soft-centre-think-about-it",
     "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
+    "article_date": "2026-07-28",
     "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/oJzcQ4FgFKjTEanYq/i-will-miss-you-gahara-final-7g9w1dc.mp3"
+      "https://s3.amazonaws.com/submithub/files/YPzf44kBxBgFBfh7v/itona-feat-soft-centre-think-about-it-master-jjm3sab.wav"
     ],
     "open_graph": {
       "chart_rank": "8",
-      "popular_points": "32",
-      "hot_or_not_likes": "34",
-      "curator_approvals": "34",
-      "rgb_bonus": "0",
-      "approval_responses": "71",
-      "country": "US",
-      "genres": "Deep House",
-      "label": "Gahara",
-      "submitHub_track_id": "uLWHr7cEhuvANuNQD"
+      "popular_points": "41",
+      "hot_or_not_likes": "41",
+      "curator_approvals": "41",
+      "rgb_bonus": "1",
+      "approval_responses": "91",
+      "country": "GB",
+      "genres": "Downtempo, Organic House, Chill House",
+      "label": "Morii Chill",
+      "submitHub_track_id": "j9f48coKG6FumC32i"
     },
     "release_article": true
   },
   {
-    "artist": "Dumomi The Jig",
-    "track_or_project_title": "Tonight",
+    "artist": "Jus Ron",
+    "track_or_project_title": "Chaos",
     "release_type": "track",
     "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Dumomi The Jig - Tonight",
-    "source_article_url": "https://www.submithub.com/song/dumomi-the-jig-tonight",
+    "source_article_title": "Jus Ron - Chaos",
+    "source_article_url": "https://www.submithub.com/song/jus-ron-chaos",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-24",
     "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/A4bEgvzCPWv8E24Rx/tonight-1775074798896.wav"
+      "https://s3.amazonaws.com/submithub/files/tWwuZFCShJEQG82dK/jus-ron-chaos-radio-mix-1-ddwl0u8.wav"
     ],
     "open_graph": {
       "chart_rank": "9",
-      "popular_points": "31",
-      "hot_or_not_likes": "35",
-      "curator_approvals": "35",
-      "rgb_bonus": "4",
-      "approval_responses": "266",
-      "country": "NG",
-      "genres": "Afrobeats / Afro-pop / Afro-fusion, House (Old-school), Amapiano",
-      "label": "Adult Global Nation Entertainment",
-      "submitHub_track_id": "gDwgFpnf4ydMAGHQE"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "LO",
-    "track_or_project_title": "Talk",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "LO - Talk",
-    "source_article_url": "https://www.submithub.com/song/lo-x-mallou-talk",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/AAsAkbfNGiNxGXcX7/cherry-blossom-20-talk-1774346719099.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "10",
-      "popular_points": "29",
-      "hot_or_not_likes": "38",
-      "curator_approvals": "38",
+      "popular_points": "40",
+      "hot_or_not_likes": "45",
+      "curator_approvals": "45",
       "rgb_bonus": "0",
-      "approval_responses": "68",
-      "country": "DE",
-      "genres": "Deep House, Chill House",
-      "label": "Blue Lane Records",
-      "submitHub_track_id": "w49si3Gfaus9oerE2"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Phatwell",
-    "track_or_project_title": "Run For Something Better",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Phatwell - Run For Something Better",
-    "source_article_url": "https://www.submithub.com/song/phatwell-run-for-something-better",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-28",
-    "embedded_music_links": [
-      "https://soundcloud.com/user-964856040/run-for-something-better?utm_medium=api&utm_campaign=social_sharing&utm_source=id_193463"
-    ],
-    "open_graph": {
-      "chart_rank": "11",
-      "popular_points": "29",
-      "hot_or_not_likes": "38",
-      "curator_approvals": "38",
-      "rgb_bonus": "0",
-      "approval_responses": "103",
-      "country": "SE",
-      "genres": "Progressive House, EDM, Big Room",
-      "label": "Phatwell records",
-      "submitHub_track_id": "zYB5ifbeyb5itQfj9"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Black Box",
-    "track_or_project_title": "Touch It",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Black Box - Touch It",
-    "source_article_url": "https://www.submithub.com/song/black-box-touch-it",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/0ugdLlxP9Jwd5BPDzrfoB7"
-    ],
-    "open_graph": {
-      "chart_rank": "12",
-      "popular_points": "29",
-      "hot_or_not_likes": "23",
-      "curator_approvals": "23",
-      "rgb_bonus": "0",
-      "approval_responses": "39",
-      "country": "empty",
-      "genres": "Melodic Techno",
-      "label": "Ritter Butzke Records",
-      "submitHub_track_id": "mZYY5bzDgbjPwXbJd"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Brisa (ES)",
-    "track_or_project_title": "Bailo Sola",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Brisa (ES) - Bailo Sola",
-    "source_article_url": "https://www.submithub.com/song/brisa-es-bailo-sola",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-es/track/2oa3vCopqP7FVkZYrCKcMV"
-    ],
-    "open_graph": {
-      "chart_rank": "13",
-      "popular_points": "27",
-      "hot_or_not_likes": "22",
-      "curator_approvals": "22",
-      "rgb_bonus": "0",
-      "approval_responses": "32",
-      "country": "ES",
-      "genres": "Peak / Driving Techno, Hard Techno, Trance",
-      "label": "Why Don't You Dance?",
-      "submitHub_track_id": "C62dTjrg2g98jZWxZ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Jesabel",
-    "track_or_project_title": "All That I Need (feat. ALLKNIGHT)",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Jesabel - All That I Need (feat. ALLKNIGHT)",
-    "source_article_url": "https://www.submithub.com/song/jesabel-all-that-i-need-feat-allknight",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://s.disco.ac/akruxzybjgms"
-    ],
-    "open_graph": {
-      "chart_rank": "14",
-      "popular_points": "27",
-      "hot_or_not_likes": "22",
-      "curator_approvals": "22",
-      "rgb_bonus": "3",
-      "approval_responses": "45",
-      "country": "AU",
-      "genres": "Melodic Techno, Melodic House",
-      "label": "Interstellar",
-      "submitHub_track_id": "bMHYuwwYBeZEv5JmN"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Alpas",
-    "track_or_project_title": "Rivers",
-    "release_type": "remix",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Alpas - Rivers",
-    "source_article_url": "https://www.submithub.com/song/alpas-x-maple-sun-rivers-remix-by-onawa",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-16",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/5dN4EYRwFErFePfEWvF4qZ"
-    ],
-    "open_graph": {
-      "chart_rank": "15",
-      "popular_points": "27",
-      "hot_or_not_likes": "20",
-      "curator_approvals": "20",
-      "rgb_bonus": "0",
-      "approval_responses": "26",
-      "country": "BE",
-      "genres": "Progressive House, Organic House, Melodic House",
-      "label": "Suprematic",
-      "submitHub_track_id": "tmvrvTqreE6dcgc5D"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Plu2",
-    "track_or_project_title": "Nada Mas (feat. Garnic)",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Plu2 - Nada Mas (feat. Garnic)",
-    "source_article_url": "https://www.submithub.com/song/plu2-x-lyge-x-garnic-nada-mas-feat-garnic",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/1BZMVgbDif98RFFvvztv8x"
-    ],
-    "open_graph": {
-      "chart_rank": "17",
-      "popular_points": "26",
-      "hot_or_not_likes": "31",
-      "curator_approvals": "31",
-      "rgb_bonus": "2",
-      "approval_responses": "74",
-      "country": "SE",
-      "genres": "Progressive House, Deep House, Chill House",
-      "label": "",
-      "submitHub_track_id": "Ycw3cY3PvBmpL4xdm"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "The Smallest Number",
-    "track_or_project_title": "Don't Let Go",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "The Smallest Number - Don't Let Go",
-    "source_article_url": "https://www.submithub.com/song/the-smallest-number-dont-let-go",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/2BZbCRq1c9doE9O6gdQuFd"
-    ],
-    "open_graph": {
-      "chart_rank": "19",
-      "popular_points": "26",
-      "hot_or_not_likes": "26",
-      "curator_approvals": "26",
-      "rgb_bonus": "0",
-      "approval_responses": "52",
+      "approval_responses": "81",
       "country": "US",
-      "genres": "Dance Pop, Deep House",
-      "label": "The Smallest Number Music",
-      "submitHub_track_id": "L4sWnvj6ZeuE8RaAT"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Gabriel M",
-    "track_or_project_title": "Carnaval",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Gabriel M - Carnaval",
-    "source_article_url": "https://www.submithub.com/song/gabriel-m-x-andor-gabriel-carnaval",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/vDrAr3spLNAusaRYR/andor-gabriel-gabriel-m-carnaval-radio-mix-8wylodj.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "20",
-      "popular_points": "25",
-      "hot_or_not_likes": "23",
-      "curator_approvals": "23",
-      "rgb_bonus": "0",
-      "approval_responses": "31",
-      "country": "RO",
-      "genres": "Tribal / Afro House",
-      "label": "House On Frame",
-      "submitHub_track_id": "AxkzXTxXX5vEecLc9"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Jason Ross",
-    "track_or_project_title": "Mirage (feat. Oaks)",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Jason Ross - Mirage (feat. Oaks)",
-    "source_article_url": "https://www.submithub.com/song/jason-ross-x-william-black-mirage-feat-oaks",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/qGHLH7gzDvbM3axyP/1-jason-ross-and-william-black-feat-oaks-mirage-v9-1776728995517.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "21",
-      "popular_points": "25",
-      "hot_or_not_likes": "18",
-      "curator_approvals": "18",
-      "rgb_bonus": "5",
-      "approval_responses": "33",
-      "country": "US",
-      "genres": "Progressive House, Bass House / Electro House, Future Bass",
-      "label": "",
-      "submitHub_track_id": "9FsTFodrNzXPtErmD"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Major Lazer",
-    "track_or_project_title": "Light It Up",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Major Lazer - Light It Up",
-    "source_article_url": "https://www.submithub.com/song/wildcrow-light-it-up-major-lazer-cover",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/Ceh52PKiuQexbEuP4/wildcrow-light-it-up-radio-edit-wav-793e3yu.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "22",
-      "popular_points": "25",
-      "hot_or_not_likes": "20",
-      "curator_approvals": "20",
-      "rgb_bonus": "0",
-      "approval_responses": "42",
-      "country": "US",
-      "genres": "EDM, Melodic Techno",
-      "label": "Wildcrow",
-      "submitHub_track_id": "y2kDGB7vM4GYmboeE"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Nico Falla",
-    "track_or_project_title": "In The Morning",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Nico Falla - In The Morning",
-    "source_article_url": "https://www.submithub.com/song/nico-falla-in-the-morning",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/6NidvobFMHITu1iFSMVHxM"
-    ],
-    "open_graph": {
-      "chart_rank": "23",
-      "popular_points": "25",
-      "hot_or_not_likes": "20",
-      "curator_approvals": "20",
-      "rgb_bonus": "0",
-      "approval_responses": "38",
-      "country": "GT",
-      "genres": "Tech House, Bass House / Electro House",
-      "label": "KINDERGARDEN RECORDS",
-      "submitHub_track_id": "YYgsyFygfqCTJPcrt"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Stendahl",
-    "track_or_project_title": "Introvert",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Stendahl - Introvert",
-    "source_article_url": "https://www.submithub.com/song/stendahl-introvert",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-28",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/3z8FiqaczD7MonpdJmZ6SP"
-    ],
-    "open_graph": {
-      "chart_rank": "26",
-      "popular_points": "24",
-      "hot_or_not_likes": "22",
-      "curator_approvals": "22",
-      "rgb_bonus": "0",
-      "approval_responses": "40",
-      "country": "empty",
-      "genres": "Organic House, Melodic House, Deep House",
-      "label": "Rewoven",
-      "submitHub_track_id": "sGvvZEb2veSbqDdaN"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Kotti Affair",
-    "track_or_project_title": "You Don't Stop Me",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Kotti Affair - You Don't Stop Me",
-    "source_article_url": "https://www.submithub.com/song/kotti-affair-you-dont-stop-me",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/dwb5HY52awBGm87dW/kotti-affair-you-dont-stop-me-april-27-master-1l0cyyo.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "27",
-      "popular_points": "24",
-      "hot_or_not_likes": "20",
-      "curator_approvals": "20",
-      "rgb_bonus": "1",
-      "approval_responses": "32",
-      "country": "DE",
-      "genres": "Dance Pop, Disco House, Nu-disco",
-      "label": "Dramatic Dance Records",
-      "submitHub_track_id": "XiGqdMGSkbwdxKmSM"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "ZIAGA",
-    "track_or_project_title": "Afterglow",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "ZIAGA - Afterglow",
-    "source_article_url": "https://www.submithub.com/song/ziaga-afterglow",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/1mK7nobKFAo78HAjP7RV5n"
-    ],
-    "open_graph": {
-      "chart_rank": "28",
-      "popular_points": "23",
-      "hot_or_not_likes": "20",
-      "curator_approvals": "20",
-      "rgb_bonus": "0",
-      "approval_responses": "38",
-      "country": "AT",
-      "genres": "Techno, Melodic Techno",
-      "label": "ZIAGA",
-      "submitHub_track_id": "CujYFm67wXSNdBMPn"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Andrew Meller",
-    "track_or_project_title": "Alborada",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Andrew Meller - Alborada",
-    "source_article_url": "https://www.submithub.com/song/andrew-meller-alborada-1",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/6LaNYGxKQzsQWwEIFayeqs"
-    ],
-    "open_graph": {
-      "chart_rank": "29",
-      "popular_points": "23",
-      "hot_or_not_likes": "30",
-      "curator_approvals": "30",
-      "rgb_bonus": "0",
-      "approval_responses": "82",
-      "country": "RS",
-      "genres": "Tech House, Detroit Techno, Chicago House",
-      "label": "Nu Moda",
-      "submitHub_track_id": "jMGEnAcFwxRaMPwZp"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "AMO:RA",
-    "track_or_project_title": "Falling",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "AMO:RA - Falling",
-    "source_article_url": "https://www.submithub.com/song/amo-ra-x-papago-x-agassi-falling",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/4rON3TA32pHalAI0kAUxOM"
-    ],
-    "open_graph": {
-      "chart_rank": "30",
-      "popular_points": "23",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
-      "rgb_bonus": "0",
-      "approval_responses": "19",
-      "country": "RU",
-      "genres": "Tribal / Afro House, Melodic House",
-      "label": "RADI MIRA I LUBVI",
-      "submitHub_track_id": "BXFnuLLW4v7aNjGbW"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Dr. Chaii",
-    "track_or_project_title": "Designer",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Dr. Chaii - Designer",
-    "source_article_url": "https://www.submithub.com/song/dr-chaii-designer-1",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/7GYjO2zack2FIFvVkFOfdL"
-    ],
-    "open_graph": {
-      "chart_rank": "32",
-      "popular_points": "22",
-      "hot_or_not_likes": "21",
-      "curator_approvals": "21",
-      "rgb_bonus": "0",
-      "approval_responses": "43",
-      "country": "ZW",
-      "genres": "Tribal / Afro House, Amapiano",
-      "label": "Soundtuary Music",
-      "submitHub_track_id": "2anLnJLoGZQGzLbXv"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "James Marley",
-    "track_or_project_title": "nobody",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "James Marley - nobody",
-    "source_article_url": "https://www.submithub.com/song/james-marley-nobody",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/5DBTeCfwqR1aHtJudqqOa9"
-    ],
-    "open_graph": {
-      "chart_rank": "33",
-      "popular_points": "22",
-      "hot_or_not_likes": "18",
-      "curator_approvals": "18",
-      "rgb_bonus": "0",
-      "approval_responses": "33",
-      "country": "CH",
-      "genres": "Melodic House, Deep House",
-      "label": "Marvibe Records",
-      "submitHub_track_id": "czheg5gt7DaoLMJrM"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Con's Universe",
-    "track_or_project_title": "somewhere, sometime",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Con's Universe - somewhere, sometime",
-    "source_article_url": "https://www.submithub.com/song/cons-universe-somewhere-sometime",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/WyW3rRWksY926eQvR/cons-universe-somewhere-sometime-master-hq8k8iz.mp3"
-    ],
-    "open_graph": {
-      "chart_rank": "34",
-      "popular_points": "22",
-      "hot_or_not_likes": "14",
-      "curator_approvals": "14",
-      "rgb_bonus": "0",
-      "approval_responses": "19",
-      "country": "GB",
-      "genres": "Melodic House",
-      "label": "Monowave Records",
-      "submitHub_track_id": "S2mLT9LgfgZeF6KrE"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Karen Harding",
-    "track_or_project_title": "Night Moves",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Karen Harding - Night Moves",
-    "source_article_url": "https://www.submithub.com/song/karen-harding-x-mr-belt-and-wezol-night-moves",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-16",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/2ZKSwkHVK9S75VTWc4Y97D"
-    ],
-    "open_graph": {
-      "chart_rank": "35",
-      "popular_points": "21",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
-      "rgb_bonus": "0",
-      "approval_responses": "12",
-      "country": "GB",
-      "genres": "Dance Pop, House (Old-school)",
-      "label": "LabelWorx",
-      "submitHub_track_id": "2pXqrhmZDPAQ6N53Q"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Bona Fide",
-    "track_or_project_title": "Drowning",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Bona Fide - Drowning",
-    "source_article_url": "https://www.submithub.com/song/bona-fide-drowning",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-it/track/5ud3R4zZXZ6LOB4SiYl6CU"
-    ],
-    "open_graph": {
-      "chart_rank": "37",
-      "popular_points": "20",
-      "hot_or_not_likes": "20",
-      "curator_approvals": "20",
-      "rgb_bonus": "1",
-      "approval_responses": "57",
-      "country": "AE",
-      "genres": "Tribal / Afro House, Organic House",
-      "label": "VillaHangar",
-      "submitHub_track_id": "5hdYfkxFdCPKHWw4Y"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "IDEMI",
-    "track_or_project_title": "Reflections",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "IDEMI - Reflections",
-    "source_article_url": "https://www.submithub.com/song/idemi-reflections",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://s.disco.ac/ybovhrfeaisj"
-    ],
-    "open_graph": {
-      "chart_rank": "38",
-      "popular_points": "20",
-      "hot_or_not_likes": "19",
-      "curator_approvals": "19",
-      "rgb_bonus": "0",
-      "approval_responses": "41",
-      "country": "GB",
-      "genres": "Progressive House, House (Old-school), Trance",
-      "label": "Insomniac Records",
-      "submitHub_track_id": "dCEnyexT2dhWshxmB"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Sam Harris",
-    "track_or_project_title": "Different Eyes",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Sam Harris - Different Eyes",
-    "source_article_url": "https://www.submithub.com/song/sam-harris-different-eyes",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/3VmZz31m5qIaALqSPo48E7"
-    ],
-    "open_graph": {
-      "chart_rank": "39",
-      "popular_points": "20",
-      "hot_or_not_likes": "17",
-      "curator_approvals": "17",
-      "rgb_bonus": "0",
-      "approval_responses": "36",
-      "country": "NL",
-      "genres": "Deep House, Melodic House, Chill House",
-      "label": "aura records",
-      "submitHub_track_id": "5WvQZY9AqCXroXeD2"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Chris Veron",
-    "track_or_project_title": "Acid Fire",
-    "release_type": "track",
-    "confidence_score": 0.85,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Chris Veron - Acid Fire",
-    "source_article_url": "https://www.submithub.com/song/chris-veron-x-axxx7en-acid-fire",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/1QHTjXPnZ9gyPMFRXjQYSS"
-    ],
-    "open_graph": {
-      "chart_rank": "40",
-      "popular_points": "20",
-      "hot_or_not_likes": "17",
-      "curator_approvals": "17",
-      "rgb_bonus": "0",
-      "approval_responses": "29",
-      "country": "DE",
-      "genres": "Peak / Driving Techno, Acid Techno",
-      "label": "KickFire",
-      "submitHub_track_id": "HSSKpmR2gMy9tHtCd"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "DJ SIR-J",
-    "track_or_project_title": "DJ SIR-J, SOUK TALES - Aleyhom (Original Mix)",
-    "release_type": "track",
-    "confidence_score": 0.95,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "DJ SIR-J - DJ SIR-J, SOUK TALES - Aleyhom (Original Mix)",
-    "source_article_url": "https://www.submithub.com/song/dj-sir-j-x-souk-tales-dj-sir-j-souk-tales-aleyhom-original-mix",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/7KLxUtKwgGmIOy4S1HPrU0"
-    ],
-    "open_graph": {
-      "chart_rank": "41",
-      "popular_points": "20",
-      "hot_or_not_likes": "20",
-      "curator_approvals": "20",
-      "rgb_bonus": "0",
-      "approval_responses": "29",
-      "country": "BE",
-      "genres": "Tribal / Afro House, Tech House, Organic House",
-      "label": "SOUK TALES",
-      "submitHub_track_id": "GdRgoZJzvPoauQTwg"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Jaime Mud",
-    "track_or_project_title": "Eryon",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Jaime Mud - Eryon",
-    "source_article_url": "https://www.submithub.com/song/jaime-mud-eryon",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/aQbeScQrQLtZLgPCa/jaime-mud-eryon-radio-edit-106ve0k.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "42",
-      "popular_points": "19",
-      "hot_or_not_likes": "14",
-      "curator_approvals": "14",
-      "rgb_bonus": "0",
-      "approval_responses": "26",
-      "country": "ES",
-      "genres": "Melodic Techno",
-      "label": "",
-      "submitHub_track_id": "D6cCev2PvXNsMX5a2"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "R1CH",
-    "track_or_project_title": "Follow",
-    "release_type": "track",
-    "confidence_score": 0.8,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "R1CH - Follow",
-    "source_article_url": "https://www.submithub.com/song/r1ch-follow",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-27",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/4qlCMojdfwpcfE8vFWIoQ3"
-    ],
-    "open_graph": {
-      "chart_rank": "43",
-      "popular_points": "19",
-      "hot_or_not_likes": "23",
-      "curator_approvals": "23",
-      "rgb_bonus": "0",
-      "approval_responses": "45",
-      "country": "GB",
-      "genres": "Dance Pop, Deep House, Chill House",
-      "label": "RTW Productions",
-      "submitHub_track_id": "zJZkkWYftv7wWFiEY"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "No Parachute",
-    "track_or_project_title": "She Told Me",
-    "release_type": "track",
-    "confidence_score": 0.8,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "No Parachute - She Told Me",
-    "source_article_url": "https://www.submithub.com/song/no-parachute-x-alex-twin-she-told-me",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/vDrAr3spLNAusaRYR/alex-twin-no-parachute-she-told-me-radio-edit-5n2782l.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "46",
-      "popular_points": "19",
-      "hot_or_not_likes": "27",
-      "curator_approvals": "27",
-      "rgb_bonus": "0",
-      "approval_responses": "56",
-      "country": "RO",
-      "genres": "Tribal / Afro House",
-      "label": "SALT SYMPHONIES",
-      "submitHub_track_id": "rD5KCSBuJphPZ2XQn"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "KOBAIEN",
-    "track_or_project_title": "DO WANT PLAY",
-    "release_type": "track",
-    "confidence_score": 0.8,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "KOBAIEN - DO WANT PLAY",
-    "source_article_url": "https://www.submithub.com/song/kobaien-do-want-play",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-24",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-fr/track/7FJ0gupzoJcMRWiTBwUX0P"
-    ],
-    "open_graph": {
-      "chart_rank": "47",
-      "popular_points": "19",
-      "hot_or_not_likes": "26",
-      "curator_approvals": "26",
-      "rgb_bonus": "0",
-      "approval_responses": "86",
-      "country": "FR",
-      "genres": "House (Old-school), Indie Dance",
-      "label": "Tribe",
-      "submitHub_track_id": "2kJxEZ4D7A3BnvcfT"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Midnight Pass",
-    "track_or_project_title": "Bloom",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Midnight Pass - Bloom",
-    "source_article_url": "https://www.submithub.com/song/midnight-pass-bloom",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/4etMFP43Xd2hMQGKo/midnight-pass-bloom-spectrum-v3-gsa4wza.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "48",
-      "popular_points": "19",
-      "hot_or_not_likes": "12",
-      "curator_approvals": "12",
-      "rgb_bonus": "2",
-      "approval_responses": "22",
-      "country": "US",
-      "genres": "Chill House",
-      "label": "Spectrum Recordings",
-      "submitHub_track_id": "rumEDuoDEc7k4w5yX"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "MaWayy",
-    "track_or_project_title": "Moon and Back",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "MaWayy - Moon and Back",
-    "source_article_url": "https://www.submithub.com/song/mawayy-moon-and-back",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-10",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls"
-    ],
-    "open_graph": {
-      "chart_rank": "49",
-      "popular_points": "18",
-      "hot_or_not_likes": "16",
-      "curator_approvals": "16",
-      "rgb_bonus": "0",
-      "approval_responses": "35",
-      "country": "US",
-      "genres": "Tribal / Afro House, Deep House",
-      "label": "Universal Music GmbH",
-      "submitHub_track_id": "g4JjAzP76CRqbzLp9"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Nico de Andrea",
-    "track_or_project_title": "River (feat. Ara)",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Nico de Andrea - River (feat. Ara)",
-    "source_article_url": "https://www.submithub.com/song/nico-de-andrea-river-feat-ara",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/5CVfpoHb8yDLy8JOIU8AiM"
-    ],
-    "open_graph": {
-      "chart_rank": "50",
-      "popular_points": "18",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
-      "rgb_bonus": "0",
-      "approval_responses": "16",
-      "country": "FR",
-      "genres": "Tribal / Afro House, Organic House, Chill House",
-      "label": "Armada Music",
-      "submitHub_track_id": "64XSGSmuKr5c5uFuE"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Firapon",
-    "track_or_project_title": "Format Sedona",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Firapon - Format Sedona",
-    "source_article_url": "https://www.submithub.com/song/firapon-format-sedona",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-24",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/a2RcPWELBKtuz6ric/firapon-format-sedona-original-mix-dl42sge.mp3"
-    ],
-    "open_graph": {
-      "chart_rank": "53",
-      "popular_points": "18",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
-      "rgb_bonus": "0",
-      "approval_responses": "26",
-      "country": "UA",
-      "genres": "Melodic Techno",
-      "label": "Freegrant Music",
-      "submitHub_track_id": "bgJAaM5Aw47GGvNkK"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Roland Clark",
-    "track_or_project_title": "President House",
-    "release_type": "remix",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Roland Clark - President House",
-    "source_article_url": "https://www.submithub.com/song/roland-clark-president-house-remix-by-mistajam",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/4MwfTu6RC5UkcG1j57ngjd"
-    ],
-    "open_graph": {
-      "chart_rank": "56",
-      "popular_points": "17",
-      "hot_or_not_likes": "14",
-      "curator_approvals": "14",
-      "rgb_bonus": "0",
-      "approval_responses": "31",
-      "country": "US",
-      "genres": "Tech House, House (Old-school), UK Garage",
-      "label": "King Street Sounds",
-      "submitHub_track_id": "KxJmpLzv47xuwJaeN"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Jon Gravy",
-    "track_or_project_title": "Show Me",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Jon Gravy - Show Me",
-    "source_article_url": "https://www.submithub.com/song/jon-gravy-x-julzy-show-me",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-29",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/iNiqDuCYGhcfEiFdn/julzy-x-jon-gravy-show-me-2444-dm-02-2-1774624467823.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "57",
-      "popular_points": "17",
-      "hot_or_not_likes": "15",
-      "curator_approvals": "15",
-      "rgb_bonus": "0",
-      "approval_responses": "74",
-      "country": "AT",
-      "genres": "House (Old-school), Deep House, Dance Pop",
-      "label": "Studio Bahöö",
-      "submitHub_track_id": "sMHvn5jRY7CCafPRQ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "PJAMA SAM",
-    "track_or_project_title": "Por Atra",
-    "release_type": "track",
-    "confidence_score": 0.8,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "PJAMA SAM - Por Atra",
-    "source_article_url": "https://www.submithub.com/song/pjama-sam-por-atra",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/0Fvh7v11vvS38RNX25uzio"
-    ],
-    "open_graph": {
-      "chart_rank": "59",
-      "popular_points": "17",
-      "hot_or_not_likes": "21",
-      "curator_approvals": "21",
-      "rgb_bonus": "0",
-      "approval_responses": "32",
-      "country": "US",
-      "genres": "Latin House",
-      "label": "Final Haus",
-      "submitHub_track_id": "dkYD7GgAi5iFiC3Bm"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Shell Robinson",
-    "track_or_project_title": "Beacon",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Shell Robinson - Beacon",
-    "source_article_url": "https://www.submithub.com/song/shell-robinson-beacon",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/7tahV4yJWiAfeEk24jnBNw"
-    ],
-    "open_graph": {
-      "chart_rank": "60",
-      "popular_points": "17",
-      "hot_or_not_likes": "18",
-      "curator_approvals": "18",
-      "rgb_bonus": "0",
-      "approval_responses": "66",
-      "country": "US",
-      "genres": "Progressive House, Melodic Techno, Melodic House",
-      "label": "Greenstone",
-      "submitHub_track_id": "tJXkEuBx5oJfkpZwY"
+      "genres": "Tech House, Bass House / Electro House, Slap House / Brazilian Bass",
+      "label": "THE SUN GROOVES",
+      "submitHub_track_id": "rdX7HW3gHM2nrPTGv"
     },
     "release_article": true
   },
   {
     "artist": "Naarly",
-    "track_or_project_title": "Runaway",
+    "track_or_project_title": "When I'm Gone",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Naarly - Runaway",
-    "source_article_url": "https://www.submithub.com/song/naarly-runaway",
+    "source_article_title": "Naarly - When I'm Gone",
+    "source_article_url": "https://www.submithub.com/song/naarly-x-bun-xapa-x-allea-when-im-gone",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://open.spotify.com/track/10aZLlWXqChTDPD0MEnjAA"
+      "https://open.spotify.com/track/5PNPDoHBM4aMwwAyEaKOo8"
     ],
     "open_graph": {
-      "chart_rank": "61",
-      "popular_points": "17",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
+      "chart_rank": "10",
+      "popular_points": "36",
+      "hot_or_not_likes": "35",
+      "curator_approvals": "35",
       "rgb_bonus": "0",
-      "approval_responses": "28",
+      "approval_responses": "54",
       "country": "SE",
-      "genres": "Tribal / Afro House",
-      "label": "Signatune / AAO Records",
-      "submitHub_track_id": "LHej7ge5PrHRr5QpE"
+      "genres": "Tribal / Afro House, Indie Dance",
+      "label": "Engeloop Records",
+      "submitHub_track_id": "zRRv8XbHs9jZkyc3m"
     },
     "release_article": true
   },
   {
-    "artist": "Deep Fried Soul",
-    "track_or_project_title": "Back Together Again",
+    "artist": "Amè",
+    "track_or_project_title": "Move Your Body Slow",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Deep Fried Soul - Back Together Again",
-    "source_article_url": "https://www.submithub.com/song/deep-fried-soul-back-together-again",
+    "source_article_title": "Amè - Move Your Body Slow",
+    "source_article_url": "https://www.submithub.com/song/ame-x-aej-move-your-body-slow",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://soundcloud.com/deepfriedsoul2026/back-together-2025-v11/s-5jziSX68VhX"
+      "https://open.spotify.com/track/3yyYnEzZCMrjYmLIygu98d"
     ],
     "open_graph": {
-      "chart_rank": "62",
-      "popular_points": "16",
+      "chart_rank": "11",
+      "popular_points": "35",
+      "hot_or_not_likes": "35",
+      "curator_approvals": "35",
+      "rgb_bonus": "0",
+      "approval_responses": "55",
+      "country": "IT",
+      "genres": "Tribal / Afro House",
+      "label": "Engeloop Records",
+      "submitHub_track_id": "CmTrpzEsjPwTtZnCN"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "AFTERUS",
+    "track_or_project_title": "For You - SAFARIS Remix",
+    "release_type": "remix",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "AFTERUS - For You - SAFARIS Remix",
+    "source_article_url": "https://www.submithub.com/song/afterus-for-you-safaris-remix-remix-by-safaris",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/07gHIYOVhz2qE2cWYu2hwE"
+    ],
+    "open_graph": {
+      "chart_rank": "12",
+      "popular_points": "33",
+      "hot_or_not_likes": "33",
+      "curator_approvals": "33",
+      "rgb_bonus": "0",
+      "approval_responses": "60",
+      "country": "CA",
+      "genres": "Melodic House",
+      "label": "Enormous Vision",
+      "submitHub_track_id": "kayueAoLWzYFWmo5d"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Desi G",
+    "track_or_project_title": "Locks",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Desi G - Locks",
+    "source_article_url": "https://www.submithub.com/song/desi-g-locks",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/7n8Ww7KrawoqaCMGfSuhj3"
+    ],
+    "open_graph": {
+      "chart_rank": "13",
+      "popular_points": "32",
+      "hot_or_not_likes": "38",
+      "curator_approvals": "38",
+      "rgb_bonus": "2",
+      "approval_responses": "97",
+      "country": "CA",
+      "genres": "Dance Pop, Electro Pop, House (Old-school)",
+      "label": "Desi G Music Publishing",
+      "submitHub_track_id": "WWSQqymzsMow7E3ge"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Slow Ted",
+    "track_or_project_title": "Lost (A Celebration Of Existence)",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Slow Ted - Lost (A Celebration Of Existence)",
+    "source_article_url": "https://www.submithub.com/song/slow-ted-lost-a-celebration-of-existence",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/gRNq8ivHGJPQbApS4/slow-ted-lost-a-celebration-of-existence-radio-vocal-edit-24-bit-master-version-2-tlup7xc.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "15",
+      "popular_points": "31",
+      "hot_or_not_likes": "21",
+      "curator_approvals": "21",
+      "rgb_bonus": "0",
+      "approval_responses": "26",
+      "country": "SE",
+      "genres": "Melodic House",
+      "label": "No Place Like Home",
+      "submitHub_track_id": "NrSavkWuukADw9kDb"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "ATREOUS",
+    "track_or_project_title": "You Let Go",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "ATREOUS - You Let Go",
+    "source_article_url": "https://www.submithub.com/song/atreous-x-kefyr-you-let-go",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/324VjzUZurrrk55xHcjFIj"
+    ],
+    "open_graph": {
+      "chart_rank": "17",
+      "popular_points": "30",
+      "hot_or_not_likes": "26",
+      "curator_approvals": "26",
+      "rgb_bonus": "0",
+      "approval_responses": "42",
+      "country": "IN",
+      "genres": "Deep House, Melodic House",
+      "label": "MODERNDEEP",
+      "submitHub_track_id": "5XTzB76xiHHrkNK2E"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Naws",
+    "track_or_project_title": "Woven",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Naws - Woven",
+    "source_article_url": "https://www.submithub.com/song/naws-x-wldflow3r-woven",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/0Q7nZejsCmstGOtm4y4zGi"
+    ],
+    "open_graph": {
+      "chart_rank": "18",
+      "popular_points": "29",
+      "hot_or_not_likes": "26",
+      "curator_approvals": "26",
+      "rgb_bonus": "0",
+      "approval_responses": "51",
+      "country": "GB",
+      "genres": "Progressive House, Deep House, Melodic House",
+      "label": "",
+      "submitHub_track_id": "DFqkZvoaSAfGErXKZ"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Russi",
+    "track_or_project_title": "Closer Now",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Russi - Closer Now",
+    "source_article_url": "https://www.submithub.com/song/russi-closer-now",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/5w2mESExA17rUQMjuVmvke"
+    ],
+    "open_graph": {
+      "chart_rank": "19",
+      "popular_points": "29",
+      "hot_or_not_likes": "26",
+      "curator_approvals": "26",
+      "rgb_bonus": "1",
+      "approval_responses": "49",
+      "country": "AU",
+      "genres": "EDM, Dance Pop, House (Old-school)",
+      "label": "LoudKult",
+      "submitHub_track_id": "SGBaKapSpugJYnLH4"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Julian Gray",
+    "track_or_project_title": "Silver & Polished",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Julian Gray - Silver & Polished",
+    "source_article_url": "https://www.submithub.com/song/julian-gray-silver-and-polished",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://s.disco.ac/imaasrmjucbr"
+    ],
+    "open_graph": {
+      "chart_rank": "20",
+      "popular_points": "28",
       "hot_or_not_likes": "17",
       "curator_approvals": "17",
       "rgb_bonus": "0",
-      "approval_responses": "43",
-      "country": "GB",
-      "genres": "Disco, House (Old-school), Deep House",
-      "label": "Bad for you records",
-      "submitHub_track_id": "y42qheoH2vz5NQhXB"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Zarka",
-    "track_or_project_title": "Hit the throttle",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Zarka - Hit the throttle",
-    "source_article_url": "https://www.submithub.com/song/zarka-hit-the-throttle",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-24",
-    "embedded_music_links": [
-      "https://www.youtube.com/watch?v=CG6JUR1o2OA"
-    ],
-    "open_graph": {
-      "chart_rank": "63",
-      "popular_points": "16",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
-      "rgb_bonus": "0",
-      "approval_responses": "27",
-      "country": "IL",
-      "genres": "Melodic Techno",
-      "label": "Zarka Records",
-      "submitHub_track_id": "fyXKQmPf7RNm4Hp82"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "timefive",
-    "track_or_project_title": "Fading Again",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "timefive - Fading Again",
-    "source_article_url": "https://www.submithub.com/song/timefive-fading-again",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://soundcloud.com/timefive/timefive-fading-again-original-promo/s-19DLSbtKuPl"
-    ],
-    "open_graph": {
-      "chart_rank": "67",
-      "popular_points": "16",
-      "hot_or_not_likes": "9",
-      "curator_approvals": "9",
-      "rgb_bonus": "0",
-      "approval_responses": "14",
-      "country": "IT",
-      "genres": "Melodic House, Deep House, Chill House",
-      "label": "Only For A Moment",
-      "submitHub_track_id": "BqCFPTbyx8DELrd2H"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Reveka",
-    "track_or_project_title": "Dawnward",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Reveka - Dawnward",
-    "source_article_url": "https://www.submithub.com/song/reveka-dawnward",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-21",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/1AOcGphu4DX7Pp6dvMa55l"
-    ],
-    "open_graph": {
-      "chart_rank": "68",
-      "popular_points": "16",
-      "hot_or_not_likes": "9",
-      "curator_approvals": "9",
-      "rgb_bonus": "0",
-      "approval_responses": "17",
+      "approval_responses": "24",
       "country": "US",
-      "genres": "Progressive House, Melodic House",
-      "label": "Reveka Music",
-      "submitHub_track_id": "McX6fnbLoRy9KyQzm"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Brynx",
-    "track_or_project_title": "Not In Love",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Brynx - Not In Love",
-    "source_article_url": "https://www.submithub.com/song/brynx-not-in-love",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/3BPa7ajfNchQeVwYa3nw3i"
-    ],
-    "open_graph": {
-      "chart_rank": "69",
-      "popular_points": "16",
-      "hot_or_not_likes": "12",
-      "curator_approvals": "12",
-      "rgb_bonus": "0",
-      "approval_responses": "27",
-      "country": "US",
-      "genres": "EDM, Eurodance, Trance",
-      "label": "Brynx",
-      "submitHub_track_id": "Hawvw5uzwdgrq3gNP"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "New Wing",
-    "track_or_project_title": "Do It",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "New Wing - Do It",
-    "source_article_url": "https://www.submithub.com/song/new-wing-do-it",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-29",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/4A5CcAW0RIB89h982l0kBS"
-    ],
-    "open_graph": {
-      "chart_rank": "70",
-      "popular_points": "16",
-      "hot_or_not_likes": "10",
-      "curator_approvals": "10",
-      "rgb_bonus": "1",
-      "approval_responses": "21",
-      "country": "US",
-      "genres": "Tech House, Melodic Techno, Bass House / Electro House",
-      "label": "New Wing Music",
-      "submitHub_track_id": "5jwWQNzJBJ9iqpTAE"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Dynamique",
-    "track_or_project_title": "C'est Magnifique",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Dynamique - C'est Magnifique",
-    "source_article_url": "https://www.submithub.com/song/dynamique-cest-magnifique",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-29",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/4lvkSR6CgCmEcgE7jheN4T"
-    ],
-    "open_graph": {
-      "chart_rank": "71",
-      "popular_points": "15",
-      "hot_or_not_likes": "12",
-      "curator_approvals": "12",
-      "rgb_bonus": "0",
-      "approval_responses": "21",
-      "country": "US",
-      "genres": "Nu-disco, House (Old-school), Disco",
-      "label": "Sparkle Motion Recordings",
-      "submitHub_track_id": "5rpWYB7ARLaSTpist"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Poly Powder",
-    "track_or_project_title": "The Void",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Poly Powder - The Void",
-    "source_article_url": "https://www.submithub.com/song/poly-powder-the-void",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/5p2QcUiVULn6vgHrj62aH8"
-    ],
-    "open_graph": {
-      "chart_rank": "72",
-      "popular_points": "15",
-      "hot_or_not_likes": "8",
-      "curator_approvals": "8",
-      "rgb_bonus": "0",
-      "approval_responses": "15",
-      "country": "DE",
-      "genres": "Techno, Peak / Driving Techno, Melodic Techno",
-      "label": "Animarum Recordings",
-      "submitHub_track_id": "37XuMTtYxNcjvinvZ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Topic",
-    "track_or_project_title": "Sorry Papi",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Topic - Sorry Papi",
-    "source_article_url": "https://www.submithub.com/song/topic-x-becky-g-sorry-papi",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://www.youtube.com/watch?v=CxJu0bncG0k"
-    ],
-    "open_graph": {
-      "chart_rank": "73",
-      "popular_points": "15",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
-      "rgb_bonus": "3",
-      "approval_responses": "25",
-      "country": "DE",
-      "genres": "Latin Pop, Dance Pop, Latin House",
-      "label": "Intercord",
-      "submitHub_track_id": "9BrefX2Edbk8gh2e5"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Sidepiece",
-    "track_or_project_title": "Function",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Sidepiece - Function",
-    "source_article_url": "https://www.submithub.com/song/sidepiece-function",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/1bhRw5feZyeh5Ti0o40wC9"
-    ],
-    "open_graph": {
-      "chart_rank": "74",
-      "popular_points": "15",
-      "hot_or_not_likes": "10",
-      "curator_approvals": "10",
-      "rgb_bonus": "0",
-      "approval_responses": "16",
-      "country": "empty",
-      "genres": "Tech House, Bass House / Electro House",
-      "label": "Catch & Release",
-      "submitHub_track_id": "Qmw3AMkB2z428PZqQ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Saive",
-    "track_or_project_title": "On my Mind",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Saive - On my Mind",
-    "source_article_url": "https://www.submithub.com/song/saive-on-my-mind",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/2P4yNTLjULiibbhYTiHooE"
-    ],
-    "open_graph": {
-      "chart_rank": "76",
-      "popular_points": "15",
-      "hot_or_not_likes": "15",
-      "curator_approvals": "15",
-      "rgb_bonus": "0",
-      "approval_responses": "47",
-      "country": "DE",
-      "genres": "Tech House, Melodic House, Deep House",
-      "label": "Juno Music",
-      "submitHub_track_id": "T94CnYBZBxLqk7rwG"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Venne",
-    "track_or_project_title": "Dimension",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Venne - Dimension",
-    "source_article_url": "https://www.submithub.com/song/venne-dimension",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/6XrqfrQZmNcaHKzZd5WYJj"
-    ],
-    "open_graph": {
-      "chart_rank": "80",
-      "popular_points": "15",
-      "hot_or_not_likes": "12",
-      "curator_approvals": "12",
-      "rgb_bonus": "0",
-      "approval_responses": "20",
-      "country": "DK",
       "genres": "Progressive House, Melodic Techno",
-      "label": "Kreative Underground",
-      "submitHub_track_id": "sB22egf92q626fB8R"
+      "label": "Interstellar",
+      "submitHub_track_id": "JneeJ4mExwu59Cdmb"
     },
     "release_article": true
   },
   {
-    "artist": "Caleb Ross",
-    "track_or_project_title": "Nothing to Lose",
+    "artist": "Phree Direxion",
+    "track_or_project_title": "Frequencies",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Caleb Ross - Nothing to Lose",
-    "source_article_url": "https://www.submithub.com/song/caleb-ross-nothing-to-lose",
+    "source_article_title": "Phree Direxion - Frequencies",
+    "source_article_url": "https://www.submithub.com/song/phree-direxion-frequencies",
     "source_name": "SubmitHub",
-    "article_date": "2026-05-02",
+    "article_date": "2026-07-25",
     "embedded_music_links": [
-      "https://www.youtube.com/watch?v=9UiokWWQfsQ"
+      "https://open.spotify.com/track/0AYzwt8QoWMCaufJp1Hi03"
     ],
     "open_graph": {
-      "chart_rank": "81",
-      "popular_points": "15",
-      "hot_or_not_likes": "9",
-      "curator_approvals": "9",
-      "rgb_bonus": "0",
-      "approval_responses": "14",
-      "country": "US",
-      "genres": "Progressive House, Melodic House",
-      "label": "Caleb Ross",
-      "submitHub_track_id": "CNiSnhcHNjDM2swBw"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "MERSY",
-    "track_or_project_title": "Ritmo",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "MERSY - Ritmo",
-    "source_article_url": "https://www.submithub.com/song/mersy-x-ravepunzel-ritmo",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/1qcwk15tRsUiKcR74natzl"
-    ],
-    "open_graph": {
-      "chart_rank": "82",
-      "popular_points": "15",
-      "hot_or_not_likes": "10",
-      "curator_approvals": "10",
-      "rgb_bonus": "0",
-      "approval_responses": "16",
-      "country": "DE",
-      "genres": "Bass House / Electro House",
-      "label": "Palmlands Records",
-      "submitHub_track_id": "MXhPwJSFFZTzAo7ij"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Command Da Vibez",
-    "track_or_project_title": "The Excellency",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Command Da Vibez - The Excellency",
-    "source_article_url": "https://www.submithub.com/song/command-da-vibez-the-excellency",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-11",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/wKNTgMhvjwL8edGkp/command-da-vibez-excellency-fm4-masterchannel-2026-03-17-1776466904555.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "85",
-      "popular_points": "14",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
+      "chart_rank": "21",
+      "popular_points": "28",
+      "hot_or_not_likes": "50",
+      "curator_approvals": "50",
       "rgb_bonus": "1",
-      "approval_responses": "24",
-      "country": "NG",
-      "genres": "Afrobeats / Afro-pop / Afro-fusion, World Music (African), Amapiano",
-      "label": "Command Da Vibez",
-      "submitHub_track_id": "oiu8rq98odDtETo6f"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Doncare",
-    "track_or_project_title": "The Feeling",
-    "release_type": "track",
-    "confidence_score": 0.8,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Doncare - The Feeling",
-    "source_article_url": "https://www.submithub.com/song/doncare-the-feeling",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/1NtE52sJ4OvGARzizHg2sP"
-    ],
-    "open_graph": {
-      "chart_rank": "86",
-      "popular_points": "14",
-      "hot_or_not_likes": "23",
-      "curator_approvals": "23",
-      "rgb_bonus": "0",
-      "approval_responses": "64",
-      "country": "CH",
-      "genres": "Deep House, Chill House",
-      "label": "profimusic/Warner Music Central Europe",
-      "submitHub_track_id": "NSqDESxJp6WyY3vXn"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Horizon Odyssey",
-    "track_or_project_title": "Fades Away",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Horizon Odyssey - Fades Away",
-    "source_article_url": "https://www.submithub.com/song/horizon-odyssey-fades-away",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/1pqsuvYbi0UNbTKmBNtkjg"
-    ],
-    "open_graph": {
-      "chart_rank": "89",
-      "popular_points": "14",
-      "hot_or_not_likes": "9",
-      "curator_approvals": "9",
-      "rgb_bonus": "0",
-      "approval_responses": "18",
-      "country": "NL",
-      "genres": "Progressive House, Melodic House",
-      "label": "Sirup Records",
-      "submitHub_track_id": "ZHFPjo77XsKaSnunW"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Gabriel Robella",
-    "track_or_project_title": "Gabriel Robella, Nonye Toria - Hụ m n'anya (Original Mix)",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Gabriel Robella - Gabriel Robella, Nonye Toria - Hụ m n'anya (Original Mix)",
-    "source_article_url": "https://www.submithub.com/song/gabriel-robella-gabriel-robella-nonye-toria-hu-m-nanya-original-mix",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/6Gmgyxma3pCimcH8CBdb5o"
-    ],
-    "open_graph": {
-      "chart_rank": "90",
-      "popular_points": "14",
-      "hot_or_not_likes": "10",
-      "curator_approvals": "10",
-      "rgb_bonus": "0",
-      "approval_responses": "16",
+      "approval_responses": "291",
       "country": "US",
-      "genres": "Tribal / Afro House, Deep House",
-      "label": "Batuque Music",
-      "submitHub_track_id": "QAzz9g72nPWkMomyZ"
+      "genres": "Minimal Techno, Deep House, Chill House",
+      "label": "Phree Direxion",
+      "submitHub_track_id": "DfXdvFRhhtrntYFBn"
     },
     "release_article": true
   },
   {
-    "artist": "runThis",
-    "track_or_project_title": "365",
+    "artist": "Chris Savor",
+    "track_or_project_title": "If I Close My Eyes",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "runThis - 365",
-    "source_article_url": "https://www.submithub.com/song/runthis-365",
+    "source_article_title": "Chris Savor - If I Close My Eyes",
+    "source_article_url": "https://www.submithub.com/song/chris-savor-x-dtt-felix-if-i-close-my-eyes",
     "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
+    "article_date": "2026-07-30",
     "embedded_music_links": [
-      "https://s.disco.ac/skccrgbbvbdq"
+      "https://s3.amazonaws.com/submithub/files/G4n8dNpnCaiAeTYkE/dtt-felix-chris-savor-if-i-close-my-eyes-d21g2e7.wav"
     ],
     "open_graph": {
-      "chart_rank": "91",
-      "popular_points": "14",
-      "hot_or_not_likes": "12",
-      "curator_approvals": "12",
-      "rgb_bonus": "1",
+      "chart_rank": "22",
+      "popular_points": "27",
+      "hot_or_not_likes": "20",
+      "curator_approvals": "20",
+      "rgb_bonus": "0",
+      "approval_responses": "26",
+      "country": "GB",
+      "genres": "Melodic House, Chill House",
+      "label": "Oasis.",
+      "submitHub_track_id": "2BmgLRYieBA3cjrQ8"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Daxson",
+    "track_or_project_title": "Vixen",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Daxson - Vixen",
+    "source_article_url": "https://www.submithub.com/song/daxson-x-sarah-de-warren-vixen",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://s.disco.ac/ylulxqilwbrd"
+    ],
+    "open_graph": {
+      "chart_rank": "23",
+      "popular_points": "27",
+      "hot_or_not_likes": "21",
+      "curator_approvals": "21",
+      "rgb_bonus": "4",
       "approval_responses": "39",
-      "country": "US",
-      "genres": "Dance Pop, House (Old-school), Bass House / Electro House",
-      "label": "Gotta Move",
-      "submitHub_track_id": "hXiNgPXkgnvsWcHt6"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Jimmy Jay",
-    "track_or_project_title": "Let It Groove Ya",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Jimmy Jay - Let It Groove Ya",
-    "source_article_url": "https://www.submithub.com/song/jimmy-jay-let-it-groove-ya",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/WWW97BnouMrkh4z8e/let-it-groove-ya-radio-dabbjg7.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "93",
-      "popular_points": "14",
-      "hot_or_not_likes": "8",
-      "curator_approvals": "8",
-      "rgb_bonus": "0",
-      "approval_responses": "13",
-      "country": "NL",
-      "genres": "Tech House, Minimal House, House (Old-school)",
-      "label": "Recode Deep",
-      "submitHub_track_id": "4ZzP2mC4ijctNNg3H"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Tvke It Easy",
-    "track_or_project_title": "Ease My Mind",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Tvke It Easy - Ease My Mind",
-    "source_article_url": "https://www.submithub.com/song/tvke-it-easy-ease-my-mind",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/0d7LEuyzHM3J1QBE2Xgume"
-    ],
-    "open_graph": {
-      "chart_rank": "94",
-      "popular_points": "14",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
-      "rgb_bonus": "0",
-      "approval_responses": "19",
-      "country": "US",
-      "genres": "Tropical House, Deep House, Tribal / Afro House",
-      "label": "Tvke It Easy Music",
-      "submitHub_track_id": "fXmrrSHJeFDu6vC97"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Ceara Cavalieri",
-    "track_or_project_title": "Hush",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Ceara Cavalieri - Hush",
-    "source_article_url": "https://www.submithub.com/song/ceara-cavalieri-hush",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-24",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/Wb6DF4kJrQoojw5RW/hush-main-012225-2-2444-mastered-vysc6y6.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "95",
-      "popular_points": "14",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
-      "rgb_bonus": "1",
-      "approval_responses": "36",
-      "country": "US",
-      "genres": "Dance Pop, Eurodance",
-      "label": "Ceara Cavalieri",
-      "submitHub_track_id": "k5ZBfzyGjohiZnsxC"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Sölus-Sun",
-    "track_or_project_title": "Bruce Wayne",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Sölus-Sun - Bruce Wayne",
-    "source_article_url": "https://www.submithub.com/song/solus-sun-bruce-wayne",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/4K939V8kH3MrBcip7wOOoW"
-    ],
-    "open_graph": {
-      "chart_rank": "96",
-      "popular_points": "14",
-      "hot_or_not_likes": "10",
-      "curator_approvals": "10",
-      "rgb_bonus": "1",
-      "approval_responses": "28",
-      "country": "CA",
-      "genres": "Tech House",
-      "label": "LFTD Global",
-      "submitHub_track_id": "YprETdHcJzpfyc4wW"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Hawkeys",
-    "track_or_project_title": "Gelatyn",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Hawkeys - Gelatyn",
-    "source_article_url": "https://www.submithub.com/song/hawkeys-x-tim-grand-gelatyn",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-28",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/6BNNLxvizMT29kT15HGivM"
-    ],
-    "open_graph": {
-      "chart_rank": "97",
-      "popular_points": "14",
-      "hot_or_not_likes": "10",
-      "curator_approvals": "10",
-      "rgb_bonus": "0",
-      "approval_responses": "18",
-      "country": "BE",
-      "genres": "Tech House",
-      "label": "Data Transmission",
-      "submitHub_track_id": "wRiauPhkBZrL7qk7Z"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Redford (NL)",
-    "track_or_project_title": "My Salvation",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Redford (NL) - My Salvation",
-    "source_article_url": "https://www.submithub.com/song/redford-nl-my-salvation",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/2txUrKXe85hZMycUYt1yb7"
-    ],
-    "open_graph": {
-      "chart_rank": "99",
-      "popular_points": "13",
-      "hot_or_not_likes": "8",
-      "curator_approvals": "8",
-      "rgb_bonus": "0",
-      "approval_responses": "18",
-      "country": "NL",
-      "genres": "Tech House, Jackin House, House (Old-school)",
-      "label": "House Heads",
-      "submitHub_track_id": "vZrC5b9Gc2HNABQrY"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "bufr.",
-    "track_or_project_title": "don't call",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "bufr. - don't call",
-    "source_article_url": "https://www.submithub.com/song/bufr-dont-call",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-29",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/HR3cXmqBbMJHB8Zmp/dont-call-bufr-master-v1-24-44-1k-hz-1776283989441.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "101",
-      "popular_points": "13",
-      "hot_or_not_likes": "12",
-      "curator_approvals": "12",
-      "rgb_bonus": "1",
-      "approval_responses": "53",
-      "country": "US",
-      "genres": "Bass House / Electro House, UK Garage, Alternative Dance",
-      "label": "bufr.",
-      "submitHub_track_id": "voa4ztPpYgmpigawQ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Sam Silver",
-    "track_or_project_title": "All I Think About",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Sam Silver - All I Think About",
-    "source_article_url": "https://www.submithub.com/song/sam-silver-all-i-think-about",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-28",
-    "embedded_music_links": [
-      "https://s.disco.ac/pqttakazdszx"
-    ],
-    "open_graph": {
-      "chart_rank": "102",
-      "popular_points": "13",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
-      "rgb_bonus": "1",
-      "approval_responses": "37",
-      "country": "US",
-      "genres": "Dance Pop, House (Old-school), UK Garage",
-      "label": "IN / ROTATION (Insomniac Records)",
-      "submitHub_track_id": "Sote7mXT6gXjBukm6"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Luca Belotti",
-    "track_or_project_title": "A New Beginning",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Luca Belotti - A New Beginning",
-    "source_article_url": "https://www.submithub.com/song/luca-belotti-a-new-beginning",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/Sbc7fcAP27jt6o3c5/a-new-beginning-radio-edit-luca-belotti-mqz7jdn.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "103",
-      "popular_points": "13",
-      "hot_or_not_likes": "9",
-      "curator_approvals": "9",
-      "rgb_bonus": "0",
-      "approval_responses": "24",
-      "country": "IT",
-      "genres": "Melodic Techno",
-      "label": "Area Verde",
-      "submitHub_track_id": "K5St8qfZ6F74QtHhQ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "KIDY",
-    "track_or_project_title": "Insane",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "KIDY - Insane",
-    "source_article_url": "https://www.submithub.com/song/kidy-insane",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/2JD3NPpgzkpsTpXfqWtyEe"
-    ],
-    "open_graph": {
-      "chart_rank": "105",
-      "popular_points": "13",
-      "hot_or_not_likes": "10",
-      "curator_approvals": "10",
-      "rgb_bonus": "0",
-      "approval_responses": "29",
-      "country": "AE",
-      "genres": "Tribal / Afro House",
-      "label": "Go Deeva Light Records",
-      "submitHub_track_id": "5Wayck7nKuqXmqPHy"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "LUMO",
-    "track_or_project_title": "Dale",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "LUMO - Dale",
-    "source_article_url": "https://www.submithub.com/song/lumo-dale",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/EyBpy5F5RFiesqpXZ/dale-master-1776799112840.mp3"
-    ],
-    "open_graph": {
-      "chart_rank": "106",
-      "popular_points": "13",
-      "hot_or_not_likes": "12",
-      "curator_approvals": "12",
-      "rgb_bonus": "0",
-      "approval_responses": "36",
-      "country": "CH",
-      "genres": "Dance Pop, Chill House, Tropical House",
-      "label": "LUMOSOUNDS",
-      "submitHub_track_id": "izuQMmjp77Sk9yhHw"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Marc Wellon",
-    "track_or_project_title": "All I See (Radio Edit)",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Marc Wellon - All I See (Radio Edit)",
-    "source_article_url": "https://www.submithub.com/song/marc-wellon-all-i-see-radio-edit",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/EXBWW3nixQxFPhPDB/all-i-see-radio-edit-us6a9ku.wav"
-    ],
-    "open_graph": {
-      "chart_rank": "107",
-      "popular_points": "13",
-      "hot_or_not_likes": "9",
-      "curator_approvals": "9",
-      "rgb_bonus": "0",
-      "approval_responses": "16",
-      "country": "CA",
-      "genres": "Tech House, Minimal House, Latin House",
+      "country": "GB",
+      "genres": "Techno, Trance",
       "label": "",
-      "submitHub_track_id": "dFXZxGi93C8F3jsnr"
+      "submitHub_track_id": "E8NiREiP5htRTvw9a"
     },
     "release_article": true
   },
   {
-    "artist": "Sanvero",
-    "track_or_project_title": "Brick by Brick ft. Nuzu Deep",
+    "artist": "Cumbiafrica",
+    "track_or_project_title": "La Escalera",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Sanvero - Brick by Brick ft. Nuzu Deep",
-    "source_article_url": "https://www.submithub.com/song/sanvero-x-henry-mora-x-nuzu-deep-brick-by-brick-ft-nuzu-deep",
+    "source_article_title": "Cumbiafrica - La Escalera",
+    "source_article_url": "https://www.submithub.com/song/cumbiafrica-x-ale-kuma-x-morenita-la-escalera",
     "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
+    "article_date": "2026-07-24",
     "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/ihnnYEA7SDnW7Y8s7/brick-by-brick-ft-nuzu-deep-radio-edit-dfu5uyv.wav"
+      "https://open.spotify.com/track/31MUYsKSi5VAYL0x2kOtAe"
     ],
     "open_graph": {
-      "chart_rank": "110",
-      "popular_points": "13",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
+      "chart_rank": "24",
+      "popular_points": "27",
+      "hot_or_not_likes": "25",
+      "curator_approvals": "25",
       "rgb_bonus": "0",
-      "approval_responses": "16",
-      "country": "US",
-      "genres": "Tribal / Afro House, Melodic House",
-      "label": "Groove Society",
-      "submitHub_track_id": "hJL5Db2JGvSdo4Gw9"
+      "approval_responses": "38",
+      "country": "CO",
+      "genres": "Tribal / Afro House",
+      "label": "Producciones Alé Kumá",
+      "submitHub_track_id": "hb5on2eZ7LDvnrtMh"
     },
     "release_article": true
   },
   {
-    "artist": "Bosquemar",
-    "track_or_project_title": "Sol",
+    "artist": "Rozalla",
+    "track_or_project_title": "Everybody's Free",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.85,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Bosquemar - Sol",
-    "source_article_url": "https://www.submithub.com/song/bosquemar-sol",
+    "source_article_title": "Rozalla - Everybody's Free",
+    "source_article_url": "https://www.submithub.com/song/kidy-everybodys-free-rozalla-cover",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/97WwkQmgYZi3ACChP/bosquemar-sol-24-44-mstr-rev1-0-1776881295048.wav"
+      "https://open.spotify.com/track/1wxD3lvSlHPVFrm2tx7dk0"
     ],
     "open_graph": {
-      "chart_rank": "116",
-      "popular_points": "13",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
-      "rgb_bonus": "0",
-      "approval_responses": "10",
-      "country": "CL",
-      "genres": "Downtempo, Organic House",
-      "label": "Limpio Records",
-      "submitHub_track_id": "vX82ey8nbh8GbgLen"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Will Sparks",
-    "track_or_project_title": "Will Sparks - The Real Thing (Featuring MRYN)",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Will Sparks - Will Sparks - The Real Thing (Featuring MRYN)",
-    "source_article_url": "https://www.submithub.com/song/will-sparks-x-mryn-will-sparks-the-real-thing-featuring-mryn",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/72PAs3QGtxxdNu3tY2wIm8"
-    ],
-    "open_graph": {
-      "chart_rank": "117",
-      "popular_points": "13",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
-      "rgb_bonus": "0",
-      "approval_responses": "10",
-      "country": "AU",
-      "genres": "Techno, EDM, Big Room",
-      "label": "Bourne Recordings",
-      "submitHub_track_id": "wgK3fT3YWbg4HsynH"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Mr.Moudz",
-    "track_or_project_title": "Agoza",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Mr.Moudz - Agoza",
-    "source_article_url": "https://www.submithub.com/song/mr-moudz-agoza",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-it/track/76Do2G3YXOazBKlN5166yy"
-    ],
-    "open_graph": {
-      "chart_rank": "118",
-      "popular_points": "13",
+      "chart_rank": "25",
+      "popular_points": "26",
       "hot_or_not_likes": "16",
       "curator_approvals": "16",
       "rgb_bonus": "0",
-      "approval_responses": "70",
-      "country": "MA",
-      "genres": "Tribal / Afro House",
-      "label": "WE'RE HERE",
-      "submitHub_track_id": "t2TzNB87trC8ZQw6Q"
+      "approval_responses": "19",
+      "country": "ZM",
+      "genres": "Tribal / Afro House, Melodic House, House (Old-school)",
+      "label": "QulaqAs",
+      "submitHub_track_id": "qRvvF55Juken3eDXc"
     },
     "release_article": true
   },
   {
-    "artist": "Flanko",
-    "track_or_project_title": "Lost in the Desert",
+    "artist": "Milo Passier",
+    "track_or_project_title": "Love Fantasy",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Flanko - Lost in the Desert",
-    "source_article_url": "https://www.submithub.com/song/flanko-lost-in-the-desert",
+    "source_article_title": "Milo Passier - Love Fantasy",
+    "source_article_url": "https://www.submithub.com/song/milo-passier-love-fantasy",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
+    "article_date": "2026-07-09",
     "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/0Heo6hcVkBXOqZzzEWPlRF"
+      "https://open.spotify.com/track/5dEFG0prwkwZ9qyPFlNi6x"
     ],
     "open_graph": {
-      "chart_rank": "120",
-      "popular_points": "12",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
+      "chart_rank": "26",
+      "popular_points": "26",
+      "hot_or_not_likes": "23",
+      "curator_approvals": "23",
       "rgb_bonus": "0",
-      "approval_responses": "14",
-      "country": "DE",
-      "genres": "Peak / Driving Techno",
-      "label": "Beyond.",
-      "submitHub_track_id": "8wj5fH3L7qQxfvMhQ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Eva Forte",
-    "track_or_project_title": "As It Is",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Eva Forte - As It Is",
-    "source_article_url": "https://www.submithub.com/song/eva-forte-as-it-is",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/7FBGsiZj8hXm7boOHWXzeC"
-    ],
-    "open_graph": {
-      "chart_rank": "122",
-      "popular_points": "12",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
-      "rgb_bonus": "0",
-      "approval_responses": "10",
+      "approval_responses": "51",
       "country": "NL",
-      "genres": "Deep House",
-      "label": "",
-      "submitHub_track_id": "Fy8qBN5XBX8dw5YHm"
+      "genres": "Tech House, House (Old-school)",
+      "label": "FUNKiMAN",
+      "submitHub_track_id": "7eFrA2wK6iWnEt4DM"
     },
     "release_article": true
   },
   {
-    "artist": "The Versace Boys",
-    "track_or_project_title": "PLOW'D",
+    "artist": "Odd Mob",
+    "track_or_project_title": "Take You There",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "The Versace Boys - PLOW'D",
-    "source_article_url": "https://www.submithub.com/song/the-versace-boys-plowd",
+    "source_article_title": "Odd Mob - Take You There",
+    "source_article_url": "https://www.submithub.com/song/odd-mob-x-omnom-x-hyperbeam-take-you-there",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-28",
+    "article_date": "2026-07-24",
     "embedded_music_links": [
-      "https://open.spotify.com/track/2TyBhZelyrfFNpGSsBux3q"
+      "https://s.disco.ac/usjwrcptoezf"
     ],
     "open_graph": {
-      "chart_rank": "123",
-      "popular_points": "12",
-      "hot_or_not_likes": "9",
-      "curator_approvals": "9",
-      "rgb_bonus": "0",
-      "approval_responses": "18",
+      "chart_rank": "28",
+      "popular_points": "26",
+      "hot_or_not_likes": "23",
+      "curator_approvals": "23",
+      "rgb_bonus": "1",
+      "approval_responses": "39",
       "country": "AU",
-      "genres": "House (Old-school), Disco, Synthpop",
-      "label": "VERSACE BOYS",
-      "submitHub_track_id": "8TiHRsQjsHvD6PzuA"
+      "genres": "Tech House, House (Old-school)",
+      "label": "Insomniac Records",
+      "submitHub_track_id": "hhgmKbhEBpn8EAou3"
     },
     "release_article": true
   },
   {
-    "artist": "A Little Bit Orange",
-    "track_or_project_title": "Physical Pleasure",
+    "artist": "James Lacey",
+    "track_or_project_title": "Just Like That",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.95,
     "extraction_method": "submithub_chart",
-    "source_article_title": "A Little Bit Orange - Physical Pleasure",
-    "source_article_url": "https://www.submithub.com/song/a-little-bit-orange-physical-pleasure",
+    "source_article_title": "James Lacey - Just Like That",
+    "source_article_url": "https://www.submithub.com/song/james-lacey-x-ari-just-like-that",
     "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/RqwBag2YjsBxu9SAs/a-little-bit-orange-physical-pleasure-ykct5uu.wav"
+      "https://s3.amazonaws.com/submithub/files/AAsAkbfNGiNxGXcX7/just-like-that-master-final-l7o6cs5.wav"
     ],
     "open_graph": {
-      "chart_rank": "124",
-      "popular_points": "12",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
+      "chart_rank": "29",
+      "popular_points": "26",
+      "hot_or_not_likes": "23",
+      "curator_approvals": "23",
+      "rgb_bonus": "0",
+      "approval_responses": "37",
+      "country": "DE",
+      "genres": "Dance Pop, Commercial, Deep House",
+      "label": "Blue Lane Records",
+      "submitHub_track_id": "Wf2ECFoAH29BsuwTX"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "PYAR",
+    "track_or_project_title": "Rock To This Beat",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "PYAR - Rock To This Beat",
+    "source_article_url": "https://www.submithub.com/song/pyar-rock-to-this-beat",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/02jwhPGA19INwfVYEc9T2z"
+    ],
+    "open_graph": {
+      "chart_rank": "30",
+      "popular_points": "26",
+      "hot_or_not_likes": "19",
+      "curator_approvals": "19",
+      "rgb_bonus": "0",
+      "approval_responses": "28",
+      "country": "DE",
+      "genres": "Tech House",
+      "label": "JSTDNTKNW",
+      "submitHub_track_id": "raT6CXLjgyKPZjyDg"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Eike Hosenfeld",
+    "track_or_project_title": "El Camino",
+    "release_type": "remix",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Eike Hosenfeld - El Camino",
+    "source_article_url": "https://www.submithub.com/song/eike-hosenfeld-x-ohm-collective-el-camino-remix-by-bob-in-space",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/cRZxiDYKwh7JseeGv/el-camino-bob-in-space-remix-p9ale98.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "31",
+      "popular_points": "25",
+      "hot_or_not_likes": "17",
+      "curator_approvals": "17",
       "rgb_bonus": "0",
       "approval_responses": "20",
-      "country": "GB",
-      "genres": "Minimal House, Deep House",
-      "label": "",
-      "submitHub_track_id": "DABNY3qvZsiQZTAsQ"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Sam Divine",
-    "track_or_project_title": "Club Muzik",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Sam Divine - Club Muzik",
-    "source_article_url": "https://www.submithub.com/song/sam-divine-club-muzik",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/track/3YoTceTAaUYL7JSJfaHt2z"
-    ],
-    "open_graph": {
-      "chart_rank": "125",
-      "popular_points": "12",
-      "hot_or_not_likes": "6",
-      "curator_approvals": "6",
-      "rgb_bonus": "0",
-      "approval_responses": "14",
-      "country": "GB",
-      "genres": "Tech House, House (Old-school)",
-      "label": "555",
-      "submitHub_track_id": "67i3Xj6aRGD35N2HE"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Travis Straw",
-    "track_or_project_title": "Sexual Harassment Training",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Travis Straw - Sexual Harassment Training",
-    "source_article_url": "https://www.submithub.com/song/travis-straw-sexual-harassment-training",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-24",
-    "embedded_music_links": [
-      "https://soundcloud.com/travishobertstraw/sexual-harassment-training?utm_medium=api&utm_campaign=social_sharing&utm_source=id_193463"
-    ],
-    "open_graph": {
-      "chart_rank": "126",
-      "popular_points": "12",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
-      "rgb_bonus": "0",
-      "approval_responses": "21",
-      "country": "US",
-      "genres": "House (Old-school), Bass House / Electro House",
-      "label": "Lucky56",
-      "submitHub_track_id": "hb3i5AudFgs93RDNg"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Kooyman",
-    "track_or_project_title": "Look Back",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Kooyman - Look Back",
-    "source_article_url": "https://www.submithub.com/song/kooyman-look-back",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://soundcloud.com/oystarr-644509926/kooyman-look-back-out-on-may?utm_medium=api&utm_campaign=social_sharing&utm_source=id_193463"
-    ],
-    "open_graph": {
-      "chart_rank": "127",
-      "popular_points": "12",
-      "hot_or_not_likes": "8",
-      "curator_approvals": "8",
-      "rgb_bonus": "0",
-      "approval_responses": "14",
-      "country": "NL",
-      "genres": "Tech House, House (Old-school)",
-      "label": "",
-      "submitHub_track_id": "8J8JZa76Lwkvps6Ha"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Boothed",
-    "track_or_project_title": "Sexy Sturdy",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Boothed - Sexy Sturdy",
-    "source_article_url": "https://www.submithub.com/song/boothed-sexy-sturdy",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-it/track/4AnDy5eoRWMuJCujtOvxoW"
-    ],
-    "open_graph": {
-      "chart_rank": "128",
-      "popular_points": "12",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
-      "rgb_bonus": "3",
-      "approval_responses": "17",
-      "country": "GB",
-      "genres": "Tech House, Bass House / Electro House",
-      "label": "Municipal Recordings",
-      "submitHub_track_id": "FrGP6FaGwKzSnyj5T"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "Mikaji",
-    "track_or_project_title": "Pădure",
-    "release_type": "track",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Mikaji - Pădure",
-    "source_article_url": "https://www.submithub.com/song/mikaji-padure",
-    "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [
-      "https://open.spotify.com/intl-de/track/1mrpwbikNEI6PMVwOjpzPp"
-    ],
-    "open_graph": {
-      "chart_rank": "130",
-      "popular_points": "12",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
-      "rgb_bonus": "0",
-      "approval_responses": "38",
       "country": "DE",
-      "genres": "Deep House, Dance Pop, Chill House",
-      "label": "gaff",
-      "submitHub_track_id": "ce7QzohhurtM2gZCQ"
+      "genres": "Organic House",
+      "label": "Ohm Collective",
+      "submitHub_track_id": "ncow9R8kErpa9NFPe"
     },
     "release_article": true
   },
   {
-    "artist": "Frisian",
-    "track_or_project_title": "Frisian - Shower",
+    "artist": "FLX",
+    "track_or_project_title": "Without You",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.85,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Frisian - Frisian - Shower",
-    "source_article_url": "https://www.submithub.com/song/frisian-frisian-shower",
+    "source_article_title": "FLX - Without You",
+    "source_article_url": "https://www.submithub.com/song/flx-without-you",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://open.spotify.com/track/5uL3Bf7j5qsaFurtgk8dyE"
+      "https://s3.amazonaws.com/submithub/files/KARDSMT9iSv2HKeB7/without-you-flx-final-master-bec51io.wav"
     ],
     "open_graph": {
-      "chart_rank": "131",
-      "popular_points": "12",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
+      "chart_rank": "32",
+      "popular_points": "25",
+      "hot_or_not_likes": "17",
+      "curator_approvals": "17",
       "rgb_bonus": "0",
-      "approval_responses": "13",
-      "country": "NL",
-      "genres": "Techno, Melodic Techno, Slap House / Brazilian Bass",
-      "label": "HMG",
-      "submitHub_track_id": "ytxbtxM5bMkiJYd2g"
+      "approval_responses": "23",
+      "country": "DE",
+      "genres": "Deep House",
+      "label": "Deepium",
+      "submitHub_track_id": "sD88PdQXckv8frfQt"
     },
     "release_article": true
   },
   {
-    "artist": "Teklix",
-    "track_or_project_title": "Zorya",
-    "release_type": "remix",
-    "confidence_score": 0.7,
-    "extraction_method": "submithub_chart",
-    "source_article_title": "Teklix - Zorya",
-    "source_article_url": "https://www.submithub.com/song/teklix-zorya-remix-by-mooh",
-    "source_name": "SubmitHub",
-    "article_date": "2026-05-01",
-    "embedded_music_links": [
-      "https://soundcloud.com/ravvenmusik/premiere-teklix-zorya-mooh-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_193463"
-    ],
-    "open_graph": {
-      "chart_rank": "132",
-      "popular_points": "12",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
-      "rgb_bonus": "0",
-      "approval_responses": "46",
-      "country": "LK",
-      "genres": "Tribal / Afro House, Progressive House, Melodic Techno",
-      "label": "",
-      "submitHub_track_id": "jhHGnhYrgrvoxX75q"
-    },
-    "release_article": true
-  },
-  {
-    "artist": "PENELOPE",
-    "track_or_project_title": "Mirage",
+    "artist": "Wildcrow",
+    "track_or_project_title": "Say It To Me",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.85,
     "extraction_method": "submithub_chart",
-    "source_article_title": "PENELOPE - Mirage",
-    "source_article_url": "https://www.submithub.com/song/penelope-mirage",
+    "source_article_title": "Wildcrow - Say It To Me",
+    "source_article_url": "https://www.submithub.com/song/wildcrow-say-it-to-me",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-23",
     "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/XdCDPeDQFj7MrHuoq/penelope-mirage-mixdownandmaster-2448-sai-v-2-1775336243947.wav"
+      "https://s3.amazonaws.com/submithub/files/Ceh52PKiuQexbEuP4/wildcrow-say-it-to-me-radio-edit-wav-7f1ar7n.wav"
     ],
     "open_graph": {
-      "chart_rank": "133",
-      "popular_points": "12",
-      "hot_or_not_likes": "11",
-      "curator_approvals": "11",
+      "chart_rank": "33",
+      "popular_points": "25",
+      "hot_or_not_likes": "19",
+      "curator_approvals": "19",
       "rgb_bonus": "0",
-      "approval_responses": "96",
+      "approval_responses": "41",
+      "country": "ES",
+      "genres": "Melodic Techno, Bass House / Electro House",
+      "label": "CHAPTER EIGHT",
+      "submitHub_track_id": "CuRsTamkDSqaDfmXt"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "The Meridian",
+    "track_or_project_title": "Afterthought",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "The Meridian - Afterthought",
+    "source_article_url": "https://www.submithub.com/song/the-meridian-afterthought",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-28",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/3ADxzAcbHZsJ81fmpszO58"
+    ],
+    "open_graph": {
+      "chart_rank": "34",
+      "popular_points": "25",
+      "hot_or_not_likes": "17",
+      "curator_approvals": "17",
+      "rgb_bonus": "0",
+      "approval_responses": "22",
+      "country": "CA",
+      "genres": "Melodic House, Deep House, Chill House",
+      "label": "Rewoven",
+      "submitHub_track_id": "pL4q85goiRA9fz2pn"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Aydn Britt",
+    "track_or_project_title": "Injaah",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Aydn Britt - Injaah",
+    "source_article_url": "https://www.submithub.com/song/aydn-britt-injaah",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/jPxSsF53dcssFhA94/aydn-britt-injaah-mastered-final-2q0f07b.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "35",
+      "popular_points": "24",
+      "hot_or_not_likes": "15",
+      "curator_approvals": "15",
+      "rgb_bonus": "0",
+      "approval_responses": "18",
+      "country": "GB",
+      "genres": "Downtempo, Organic House",
+      "label": "Red Dune Records",
+      "submitHub_track_id": "jXqNraQeGSisobcuW"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Krawallandi",
+    "track_or_project_title": "Running Away",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Krawallandi - Running Away",
+    "source_article_url": "https://www.submithub.com/song/krawallandi-x-diebe-running-away",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-de/track/2p6OoBOSIcoMhgghvi3HXm"
+    ],
+    "open_graph": {
+      "chart_rank": "36",
+      "popular_points": "24",
+      "hot_or_not_likes": "26",
+      "curator_approvals": "26",
+      "rgb_bonus": "0",
+      "approval_responses": "84",
+      "country": "AT",
+      "genres": "Melodic Techno, Deep House",
+      "label": "Krawallandi",
+      "submitHub_track_id": "GHoPnsP7HtETM9jDH"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Gavin Moss",
+    "track_or_project_title": "Come Back",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Gavin Moss - Come Back",
+    "source_article_url": "https://www.submithub.com/song/gavin-moss-come-back",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/4PWhJiAENfEWPeUmRmserg"
+    ],
+    "open_graph": {
+      "chart_rank": "37",
+      "popular_points": "24",
+      "hot_or_not_likes": "17",
+      "curator_approvals": "17",
+      "rgb_bonus": "1",
+      "approval_responses": "22",
+      "country": "ES",
+      "genres": "Chill House",
+      "label": "Paraiso",
+      "submitHub_track_id": "hEw8kiHK7eKuuYRYk"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Braydon Terzo",
+    "track_or_project_title": "Satisfy",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Braydon Terzo - Satisfy",
+    "source_article_url": "https://www.submithub.com/song/braydon-terzo-satisfy",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-28",
+    "embedded_music_links": [
+      "https://s.disco.ac/tsagavoamaqz"
+    ],
+    "open_graph": {
+      "chart_rank": "38",
+      "popular_points": "24",
+      "hot_or_not_likes": "17",
+      "curator_approvals": "17",
+      "rgb_bonus": "4",
+      "approval_responses": "30",
       "country": "US",
-      "genres": "Progressive House, Melodic House, Dance Pop",
-      "label": "Think Tank Records",
-      "submitHub_track_id": "rLPYSr7ynFPhbwaRg"
+      "genres": "Tech House, House (Old-school), UK Garage",
+      "label": "IN / ROTATION (Insomniac Records)",
+      "submitHub_track_id": "y4srNqE98wsHpCbwy"
     },
     "release_article": true
   },
   {
-    "artist": "Crys L",
-    "track_or_project_title": "Never Fall",
+    "artist": "Teho",
+    "track_or_project_title": "Fireline",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.85,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Crys L - Never Fall",
-    "source_article_url": "https://www.submithub.com/song/crys-l-never-fall",
+    "source_article_title": "Teho - Fireline",
+    "source_article_url": "https://www.submithub.com/song/teho-fireline",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-28",
+    "article_date": "2026-07-20",
     "embedded_music_links": [
-      "https://open.spotify.com/intl-fr/track/6LwEcGqqif1HC5HciVgdWd"
+      "https://open.spotify.com/intl-fr/track/1idxskVcyltdDu1doL3VNZ"
     ],
     "open_graph": {
-      "chart_rank": "135",
-      "popular_points": "12",
+      "chart_rank": "40",
+      "popular_points": "23",
+      "hot_or_not_likes": "15",
+      "curator_approvals": "15",
+      "rgb_bonus": "2",
+      "approval_responses": "27",
+      "country": "FR",
+      "genres": "Melodic Techno",
+      "label": "This Never Happened",
+      "submitHub_track_id": "hXJaYQ5Wt2P7feHE4"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Thaylo",
+    "track_or_project_title": "From Your Mind",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Thaylo - From Your Mind",
+    "source_article_url": "https://www.submithub.com/song/thaylo-from-your-mind",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-fr/track/4ujNOtEdVR6fIAJ71itFLk"
+    ],
+    "open_graph": {
+      "chart_rank": "41",
+      "popular_points": "23",
+      "hot_or_not_likes": "14",
+      "curator_approvals": "14",
+      "rgb_bonus": "1",
+      "approval_responses": "21",
+      "country": "FR",
+      "genres": "Progressive House, Melodic Techno, Melodic House",
+      "label": "Labo T",
+      "submitHub_track_id": "oX6GqL6or6vJT2kLR"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Kriss Reeve",
+    "track_or_project_title": "Hands On Me",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Kriss Reeve - Hands On Me",
+    "source_article_url": "https://www.submithub.com/song/kriss-reeve-hands-on-me",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/MhhaA5836uPzGpj3H/kriss-reeve-hands-on-me-radio-edit-hugyrw2.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "42",
+      "popular_points": "23",
+      "hot_or_not_likes": "18",
+      "curator_approvals": "18",
+      "rgb_bonus": "0",
+      "approval_responses": "26",
+      "country": "NL",
+      "genres": "Tech House, Bass House / Electro House",
+      "label": "Pulse Control Records",
+      "submitHub_track_id": "7LMehXrpqF5dDreCp"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Self Tape",
+    "track_or_project_title": "Waiting For You",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Self Tape - Waiting For You",
+    "source_article_url": "https://www.submithub.com/song/self-tape-waiting-for-you",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-28",
+    "embedded_music_links": [
+      "https://soundcloud.com/selftapemusic/waitngforyou/s-cqYshEtJdWD"
+    ],
+    "open_graph": {
+      "chart_rank": "43",
+      "popular_points": "23",
+      "hot_or_not_likes": "19",
+      "curator_approvals": "19",
+      "rgb_bonus": "2",
+      "approval_responses": "75",
+      "country": "AU",
+      "genres": "Melodic House, Electronica, Alternative Dance",
+      "label": "Self Tape",
+      "submitHub_track_id": "zZerivYi8CYSw2eAN"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Jared Lee",
+    "track_or_project_title": "Livin' The Life - From the Original Motion Picture \"The Devil's Mouth",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Jared Lee - Livin' The Life - From the Original Motion Picture \"The Devil's Mouth",
+    "source_article_url": "https://www.submithub.com/song/jared-lee-x-ace-hood-livin-the-life-from-the-original-motion-picture-the-devils-mouth",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/6Eq91RdaXaccaioKUKBfUh"
+    ],
+    "open_graph": {
+      "chart_rank": "44",
+      "popular_points": "23",
+      "hot_or_not_likes": "21",
+      "curator_approvals": "21",
+      "rgb_bonus": "1",
+      "approval_responses": "67",
+      "country": "US",
+      "genres": "Dance Pop, Progressive House, EDM",
+      "label": "ELEET Music Group LLC",
+      "submitHub_track_id": "KqmFmStXu6k6GmeSC"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "TORYONTHEBEAT",
+    "track_or_project_title": "So bad",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "TORYONTHEBEAT - So bad",
+    "source_article_url": "https://www.submithub.com/song/toryonthebeat-so-bad",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-18",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-fr/track/6ELClGHACQ5PfBMUShYZjX"
+    ],
+    "open_graph": {
+      "chart_rank": "46",
+      "popular_points": "22",
+      "hot_or_not_likes": "22",
+      "curator_approvals": "22",
+      "rgb_bonus": "1",
+      "approval_responses": "52",
+      "country": "FR",
+      "genres": "Chill House, Lo-fi House, Lounge",
+      "label": "Simple & Sauvage",
+      "submitHub_track_id": "gaDsvCwDYbN6kHjGc"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Santarini",
+    "track_or_project_title": "Bora Dançar",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Santarini - Bora Dançar",
+    "source_article_url": "https://www.submithub.com/song/santarini-bora-dancar",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/5hOaxrSTOL8T6HcgorEYuG"
+    ],
+    "open_graph": {
+      "chart_rank": "47",
+      "popular_points": "22",
+      "hot_or_not_likes": "13",
+      "curator_approvals": "13",
+      "rgb_bonus": "0",
+      "approval_responses": "16",
+      "country": "IT",
+      "genres": "Tribal / Afro House, Deep House",
+      "label": "Scents Music",
+      "submitHub_track_id": "oXGvrNjmPbndpNPhP"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Parcel",
+    "track_or_project_title": "PARCEL - Articulations",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Parcel - PARCEL - Articulations",
+    "source_article_url": "https://www.submithub.com/song/parcel-parcel-articulations",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://soundcloud.com/parcelofficial/parcel-articulations-5/s-YEj3E5RDlgn"
+    ],
+    "open_graph": {
+      "chart_rank": "48",
+      "popular_points": "22",
+      "hot_or_not_likes": "20",
+      "curator_approvals": "20",
+      "rgb_bonus": "1",
+      "approval_responses": "64",
+      "country": "US",
+      "genres": "Progressive House, Melodic Techno",
+      "label": "ZNRA Records",
+      "submitHub_track_id": "dznP6BghHKa3pkCWZ"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Plu2",
+    "track_or_project_title": "Hold Me",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Plu2 - Hold Me",
+    "source_article_url": "https://www.submithub.com/song/plu2-hold-me",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/ShASWuqpS3Yf97n6a/plu2-hold-me-master-v1-jun-28-yszj52g.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "49",
+      "popular_points": "22",
+      "hot_or_not_likes": "24",
+      "curator_approvals": "24",
+      "rgb_bonus": "0",
+      "approval_responses": "55",
+      "country": "SE",
+      "genres": "Progressive House, Melodic Techno, Deep House",
+      "label": "MTAF",
+      "submitHub_track_id": "kq4BEsgbeYoXPegjb"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Plastic Jungle",
+    "track_or_project_title": "I Was Fine",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Plastic Jungle - I Was Fine",
+    "source_article_url": "https://www.submithub.com/song/plastic-jungle-i-was-fine",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-de/track/6t9s5mnPiynBKZaPwVS7Nw"
+    ],
+    "open_graph": {
+      "chart_rank": "50",
+      "popular_points": "22",
+      "hot_or_not_likes": "22",
+      "curator_approvals": "22",
+      "rgb_bonus": "0",
+      "approval_responses": "30",
+      "country": "DE",
+      "genres": "Deep House, Chill House, Indie Electronic",
+      "label": "High On Vibes",
+      "submitHub_track_id": "SbHrjeFW8jFj8jaqu"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "JKRS",
+    "track_or_project_title": "JKRS, JO KX – Riverside [free download]",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "JKRS - JKRS, JO KX – Riverside [free download]",
+    "source_article_url": "https://www.submithub.com/song/jkrs-jkrs-jo-kx-riverside-free-download",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://soundcloud.com/no-mercy-label/jkrs-jo-kx-riverside?utm_medium=api&utm_campaign=social_sharing&utm_source=id_193463"
+    ],
+    "open_graph": {
+      "chart_rank": "51",
+      "popular_points": "22",
       "hot_or_not_likes": "14",
       "curator_approvals": "14",
       "rgb_bonus": "0",
-      "approval_responses": "71",
-      "country": "FR",
-      "genres": "Techno, Tech House, Melodic Techno",
-      "label": "Sekence / Futuria Production",
-      "submitHub_track_id": "Hetozyv2Rhjy9CpN5"
+      "approval_responses": "23",
+      "country": "LT",
+      "genres": "Hard Techno",
+      "label": "No Mercy",
+      "submitHub_track_id": "hoFsbx4ZE5LMyeC8G"
     },
     "release_article": true
   },
   {
-    "artist": "Eren Yildiz",
-    "track_or_project_title": "Make Me Wild",
+    "artist": "Felix Spindler",
+    "track_or_project_title": "Through My Mind",
     "release_type": "track",
-    "confidence_score": 0.7,
+    "confidence_score": 0.85,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Eren Yildiz - Make Me Wild",
-    "source_article_url": "https://www.submithub.com/song/eren-yildiz-make-me-wild",
+    "source_article_title": "Felix Spindler - Through My Mind",
+    "source_article_url": "https://www.submithub.com/song/felix-spindler-through-my-mind",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-16",
+    "article_date": "2026-07-30",
     "embedded_music_links": [
-      "https://open.spotify.com/track/7vxbRoUpoZgamB8VMFpdxC"
+      "https://s3.amazonaws.com/submithub/files/pNivRwxxqnhvXptja/through-my-mind-master-2026-07-10-radio-ko5q3yt.wav"
     ],
     "open_graph": {
-      "chart_rank": "136",
-      "popular_points": "12",
-      "hot_or_not_likes": "7",
-      "curator_approvals": "7",
+      "chart_rank": "53",
+      "popular_points": "21",
+      "hot_or_not_likes": "16",
+      "curator_approvals": "16",
       "rgb_bonus": "0",
-      "approval_responses": "17",
-      "country": "TR",
-      "genres": "Tribal / Afro House, Progressive House",
-      "label": "House On Frame",
-      "submitHub_track_id": "NWGgLwSte7bFcHrkj"
+      "approval_responses": "29",
+      "country": "DE",
+      "genres": "Melodic Techno, Techno, Progressive House",
+      "label": "recordJet",
+      "submitHub_track_id": "zmCJv9q87ocKj22GJ"
     },
     "release_article": true
   },
   {
-    "artist": "nua",
-    "track_or_project_title": "Silhouette",
+    "artist": "Musical Religion",
+    "track_or_project_title": "Twilight Creatures",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Musical Religion - Twilight Creatures",
+    "source_article_url": "https://www.submithub.com/song/musical-religion-twilight-creatures",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/FYFGMJmhsdsSKPLvm/musical-religion-twilight-creatures-kvvls06.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "54",
+      "popular_points": "21",
+      "hot_or_not_likes": "12",
+      "curator_approvals": "12",
+      "rgb_bonus": "0",
+      "approval_responses": "13",
+      "country": "empty",
+      "genres": "Downtempo, Organic House",
+      "label": "Analemma",
+      "submitHub_track_id": "hKsoXEicBG6gMKASX"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "VS Prjct",
+    "track_or_project_title": "Held by the Air",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "VS Prjct - Held by the Air",
+    "source_article_url": "https://www.submithub.com/song/vs-prjct-held-by-the-air",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-it/track/1uT6QhkTiPiuhTnlnttekX"
+    ],
+    "open_graph": {
+      "chart_rank": "55",
+      "popular_points": "21",
+      "hot_or_not_likes": "21",
+      "curator_approvals": "21",
+      "rgb_bonus": "0",
+      "approval_responses": "89",
+      "country": "IT",
+      "genres": "Melodic House, Deep House, Chill House",
+      "label": "Storm Calma",
+      "submitHub_track_id": "wHWorJxBjsMuHqbjN"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "FENRA",
+    "track_or_project_title": "BLESSING",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "FENRA - BLESSING",
+    "source_article_url": "https://www.submithub.com/song/fenra-blessing",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://soundcloud.com/fenra_music/blessing/s-u0BcI6tC46W"
+    ],
+    "open_graph": {
+      "chart_rank": "56",
+      "popular_points": "20",
+      "hot_or_not_likes": "16",
+      "curator_approvals": "16",
+      "rgb_bonus": "1",
+      "approval_responses": "49",
+      "country": "US",
+      "genres": "Deep House, Electronica, Tech House",
+      "label": "Base Layer Records",
+      "submitHub_track_id": "wWPFh7YyZZnmQ87eP"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Chico Rose (NL)",
+    "track_or_project_title": "Groove Control",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Chico Rose (NL) - Groove Control",
+    "source_article_url": "https://www.submithub.com/song/chico-rose-nl-groove-control",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/2akqqzPJ87pGwxppRsgVvD"
+    ],
+    "open_graph": {
+      "chart_rank": "57",
+      "popular_points": "20",
+      "hot_or_not_likes": "11",
+      "curator_approvals": "11",
+      "rgb_bonus": "0",
+      "approval_responses": "16",
+      "country": "NL",
+      "genres": "Tech House",
+      "label": "NUSONIDO",
+      "submitHub_track_id": "oy2zQrSauQkSzNhzv"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Zigan Aldi",
+    "track_or_project_title": "Metu",
+    "release_type": "track",
+    "confidence_score": 0.95,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Zigan Aldi - Metu",
+    "source_article_url": "https://www.submithub.com/song/zigan-aldi-metu",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-16",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-tr/track/2vxTJs3kY3MesuC4IOYjyd"
+    ],
+    "open_graph": {
+      "chart_rank": "58",
+      "popular_points": "20",
+      "hot_or_not_likes": "21",
+      "curator_approvals": "21",
+      "rgb_bonus": "0",
+      "approval_responses": "51",
+      "country": "TR",
+      "genres": "Organic House",
+      "label": "MusicHub",
+      "submitHub_track_id": "csg764GxSxaBZB2Dc"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "DJ Sign",
+    "track_or_project_title": "Lovin' You",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "DJ Sign - Lovin' You",
+    "source_article_url": "https://www.submithub.com/song/dj-sign-lovin-you",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-de/track/1z3xWRTvkKt16gNnHpORex"
+    ],
+    "open_graph": {
+      "chart_rank": "59",
+      "popular_points": "20",
+      "hot_or_not_likes": "14",
+      "curator_approvals": "14",
+      "rgb_bonus": "1",
+      "approval_responses": "25",
+      "country": "DE",
+      "genres": "Dance Pop, House (Old-school), Deep House",
+      "label": "1st Strike",
+      "submitHub_track_id": "MYgvgM2fqkL6XrDSx"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Bushbaby",
+    "track_or_project_title": "Back To Funk",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Bushbaby - Back To Funk",
+    "source_article_url": "https://www.submithub.com/song/bushbaby-x-danny-p-back-to-funk",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://s.disco.ac/cebzlwcnmhnk"
+    ],
+    "open_graph": {
+      "chart_rank": "60",
+      "popular_points": "20",
+      "hot_or_not_likes": "16",
+      "curator_approvals": "16",
+      "rgb_bonus": "2",
+      "approval_responses": "35",
+      "country": "GB",
+      "genres": "House (Old-school), UK Garage",
+      "label": "Insomniac Records",
+      "submitHub_track_id": "CRNgZ4MFYE2p5mQQb"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Piero Farho",
+    "track_or_project_title": "Adored",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Piero Farho - Adored",
+    "source_article_url": "https://www.submithub.com/song/piero-farho-adored",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-it/track/3qPkRjuTtLDkO1Glol3bOq"
+    ],
+    "open_graph": {
+      "chart_rank": "61",
+      "popular_points": "20",
+      "hot_or_not_likes": "18",
+      "curator_approvals": "18",
+      "rgb_bonus": "0",
+      "approval_responses": "72",
+      "country": "NL",
+      "genres": "Melodic House",
+      "label": "VillaHangar",
+      "submitHub_track_id": "RFwvW8X76ysWE54RY"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Palm Brothers",
+    "track_or_project_title": "SWEET ATTENTION (feat. Ameh Fashi)",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Palm Brothers - SWEET ATTENTION (feat. Ameh Fashi)",
+    "source_article_url": "https://www.submithub.com/song/palm-brothers-x-heliograph-x-ameh-fashi-sweet-attention-feat-ameh-fashi",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/3Rh1IKYCU9LFs3Td40kcET"
+    ],
+    "open_graph": {
+      "chart_rank": "62",
+      "popular_points": "20",
+      "hot_or_not_likes": "11",
+      "curator_approvals": "11",
+      "rgb_bonus": "0",
+      "approval_responses": "12",
+      "country": "ES",
+      "genres": "Afrobeats / Afro-pop / Afro-fusion, Tribal / Afro House",
+      "label": "LoudKult",
+      "submitHub_track_id": "cqAkRGgjPihNZcS6D"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Sinatic",
+    "track_or_project_title": "July Again",
+    "release_type": "track",
+    "confidence_score": 0.85,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Sinatic - July Again",
+    "source_article_url": "https://www.submithub.com/song/sinatic-july-again",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-de/track/0YfErQXSCEVFeTL4FZEEpU"
+    ],
+    "open_graph": {
+      "chart_rank": "63",
+      "popular_points": "20",
+      "hot_or_not_likes": "15",
+      "curator_approvals": "15",
+      "rgb_bonus": "0",
+      "approval_responses": "33",
+      "country": "DE",
+      "genres": "Dance Pop, House (Old-school)",
+      "label": "MACARONE MUSIC",
+      "submitHub_track_id": "jnqiJns38oKnfH3jS"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "eta",
+    "track_or_project_title": "Smash Chick",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "eta - Smash Chick",
+    "source_article_url": "https://www.submithub.com/song/eta-smash-chick",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/2Wu0SaCGEmQne7A2ul3cBn"
+    ],
+    "open_graph": {
+      "chart_rank": "66",
+      "popular_points": "19",
+      "hot_or_not_likes": "28",
+      "curator_approvals": "28",
+      "rgb_bonus": "1",
+      "approval_responses": "126",
+      "country": "US",
+      "genres": "Tech House, Minimal House, Deep House",
+      "label": "Reprieve Records",
+      "submitHub_track_id": "ZWcHB8CKJzfvzr8fm"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "MrGabryDj",
+    "track_or_project_title": "Feel That Fire - Radio Edit",
     "release_type": "track",
     "confidence_score": 0.7,
     "extraction_method": "submithub_chart",
-    "source_article_title": "nua - Silhouette",
-    "source_article_url": "https://www.submithub.com/song/nua-silhouette-1",
+    "source_article_title": "MrGabryDj - Feel That Fire - Radio Edit",
+    "source_article_url": "https://www.submithub.com/song/mrgabrydj-feel-that-fire-radio-edit",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
-    "embedded_music_links": [],
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-it/track/1FzjbMx9lZscZajJyNaUyH"
+    ],
     "open_graph": {
-      "chart_rank": "137",
-      "popular_points": "12",
+      "chart_rank": "67",
+      "popular_points": "19",
+      "hot_or_not_likes": "13",
+      "curator_approvals": "13",
+      "rgb_bonus": "0",
+      "approval_responses": "25",
+      "country": "IT",
+      "genres": "Jackin House, House (Old-school), Nu-disco",
+      "label": "FridayFever Sound",
+      "submitHub_track_id": "BkG95xEDqsqJhydYa"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Kosco",
+    "track_or_project_title": "Homeward",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Kosco - Homeward",
+    "source_article_url": "https://www.submithub.com/song/kosco-homeward",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-fr/track/0bIKum7xRm1IubZwBc2UhH"
+    ],
+    "open_graph": {
+      "chart_rank": "68",
+      "popular_points": "19",
       "hot_or_not_likes": "10",
       "curator_approvals": "10",
       "rgb_bonus": "0",
-      "approval_responses": "45",
-      "country": "AT",
-      "genres": "Progressive House, Trance, EDM",
-      "label": "daydream by nua",
-      "submitHub_track_id": "TMgdKGkuwscaoJuqa"
+      "approval_responses": "13",
+      "country": "FR",
+      "genres": "Melodic Techno, Melodic House, Deep House",
+      "label": "Pavillonn",
+      "submitHub_track_id": "s6xZxRPzqFWBt4JWv"
     },
     "release_article": true
   },
   {
-    "artist": "Rakheemow",
-    "track_or_project_title": "Fly",
+    "artist": "Boyd Kelly",
+    "track_or_project_title": "Feel It",
     "release_type": "track",
     "confidence_score": 0.7,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Rakheemow - Fly",
-    "source_article_url": "https://www.submithub.com/song/rakheemow-fly",
+    "source_article_title": "Boyd Kelly - Feel It",
+    "source_article_url": "https://www.submithub.com/song/boyd-kelly-feel-it",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-30",
     "embedded_music_links": [
-      "https://open.spotify.com/track/2NoXfJMgvl3ulAOu8LqwvS"
+      "https://open.spotify.com/track/4QDLbqcao4t8eafGTPvqHL"
     ],
     "open_graph": {
-      "chart_rank": "138",
-      "popular_points": "12",
+      "chart_rank": "69",
+      "popular_points": "19",
+      "hot_or_not_likes": "16",
+      "curator_approvals": "16",
+      "rgb_bonus": "0",
+      "approval_responses": "33",
+      "country": "AU",
+      "genres": "House (Old-school), Disco House, Chicago House",
+      "label": "Broken Curve",
+      "submitHub_track_id": "9eJsTyha5XQ6vTbWm"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Mason Jaxx",
+    "track_or_project_title": "Give Me Everything",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Mason Jaxx - Give Me Everything",
+    "source_article_url": "https://www.submithub.com/song/mason-jaxx-x-st-melody-give-me-everything",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/7GKJYKvN8CHCdj8eWHTLLR"
+    ],
+    "open_graph": {
+      "chart_rank": "70",
+      "popular_points": "18",
+      "hot_or_not_likes": "11",
+      "curator_approvals": "11",
+      "rgb_bonus": "0",
+      "approval_responses": "16",
+      "country": "GB",
+      "genres": "House (Old-school)",
+      "label": "Straight Six Records",
+      "submitHub_track_id": "opciaZdSq4RiF2TuY"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Brisa (ES)",
+    "track_or_project_title": "Discoteca",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Brisa (ES) - Discoteca",
+    "source_article_url": "https://www.submithub.com/song/brisa-es-discoteca",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/140a9HTAzsjzX4GOUN4ExB"
+    ],
+    "open_graph": {
+      "chart_rank": "71",
+      "popular_points": "18",
+      "hot_or_not_likes": "11",
+      "curator_approvals": "11",
+      "rgb_bonus": "0",
+      "approval_responses": "16",
+      "country": "ES",
+      "genres": "Peak / Driving Techno, Hard Techno, Trance",
+      "label": "EXTATIC Records",
+      "submitHub_track_id": "Lu9Dbosp3SWj3cQj9"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "deCourcy",
+    "track_or_project_title": "Afterlight",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "deCourcy - Afterlight",
+    "source_article_url": "https://www.submithub.com/song/decourcy-afterlight",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/fiLvHoxQFrouSGLxn/afterlight-decourcy-blbeitx.mp3"
+    ],
+    "open_graph": {
+      "chart_rank": "72",
+      "popular_points": "18",
+      "hot_or_not_likes": "13",
+      "curator_approvals": "13",
+      "rgb_bonus": "0",
+      "approval_responses": "26",
+      "country": "CA",
+      "genres": "Progressive House, Organic House, Melodic House",
+      "label": "Monowave Records",
+      "submitHub_track_id": "bxuhTKhujGyGdk47o"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Chico Rose (NL)",
+    "track_or_project_title": "Move Yo Body",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Chico Rose (NL) - Move Yo Body",
+    "source_article_url": "https://www.submithub.com/song/chico-rose-nl-move-yo-body",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/4mdIoyxjrFYHvnAHBTwJaT"
+    ],
+    "open_graph": {
+      "chart_rank": "73",
+      "popular_points": "18",
+      "hot_or_not_likes": "13",
+      "curator_approvals": "13",
+      "rgb_bonus": "0",
+      "approval_responses": "27",
+      "country": "NL",
+      "genres": "Tech House, House (Old-school)",
+      "label": "NUSONIDO",
+      "submitHub_track_id": "KuDsHmwjiqwa6BSTv"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "KLP",
+    "track_or_project_title": "2AM",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "KLP - 2AM",
+    "source_article_url": "https://www.submithub.com/song/klp-2am",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/qGHLH7gzDvbM3axyP/klp-2am-edit-24-44-1-master-mhwnh2g.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "74",
+      "popular_points": "18",
+      "hot_or_not_likes": "18",
+      "curator_approvals": "18",
+      "rgb_bonus": "3",
+      "approval_responses": "41",
+      "country": "AU",
+      "genres": "House (Old-school)",
+      "label": "Gotta Move",
+      "submitHub_track_id": "5hRrSZcDh7gWYkA7t"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "GEDI",
+    "track_or_project_title": "The One",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "GEDI - The One",
+    "source_article_url": "https://www.submithub.com/song/gedi-the-one",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/5CkJCxKVn1MRVmEHe091OT"
+    ],
+    "open_graph": {
+      "chart_rank": "75",
+      "popular_points": "18",
+      "hot_or_not_likes": "18",
+      "curator_approvals": "18",
+      "rgb_bonus": "1",
+      "approval_responses": "107",
+      "country": "AU",
+      "genres": "Tech House, Melodic Techno, Melodic House",
+      "label": "Decypher",
+      "submitHub_track_id": "mqDvk2aNN7XyEhJ2t"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BARTY B",
+    "track_or_project_title": "Another One",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "BARTY B - Another One",
+    "source_article_url": "https://www.submithub.com/song/barty-b-another-one",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/5T177lpd659YW4FYHUCJf2"
+    ],
+    "open_graph": {
+      "chart_rank": "76",
+      "popular_points": "18",
+      "hot_or_not_likes": "13",
+      "curator_approvals": "13",
+      "rgb_bonus": "0",
+      "approval_responses": "23",
+      "country": "PL",
+      "genres": "Melodic Techno",
+      "label": "F.T.F.T Records",
+      "submitHub_track_id": "9uEZCova9xcokn7oo"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "21GRMS",
+    "track_or_project_title": "DRUNK",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "21GRMS - DRUNK",
+    "source_article_url": "https://www.submithub.com/song/21grms-drunk",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-it/track/1PvZNmMo5nD0rQSDBx2DZy"
+    ],
+    "open_graph": {
+      "chart_rank": "77",
+      "popular_points": "18",
+      "hot_or_not_likes": "16",
+      "curator_approvals": "16",
+      "rgb_bonus": "0",
+      "approval_responses": "37",
+      "country": "IT",
+      "genres": "Melodic House, Chill House, Electronica",
+      "label": "Warner Music",
+      "submitHub_track_id": "fSynRP38TrBhxoYPR"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "FLAVA.",
+    "track_or_project_title": "Eyes On You",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "FLAVA. - Eyes On You",
+    "source_article_url": "https://www.submithub.com/song/flava-eyes-on-you",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/3jBzokDl3oSIEfn06kIYTZ"
+    ],
+    "open_graph": {
+      "chart_rank": "78",
+      "popular_points": "18",
       "hot_or_not_likes": "9",
       "curator_approvals": "9",
       "rgb_bonus": "0",
-      "approval_responses": "9",
-      "country": "TR",
-      "genres": "Lo-fi House, Chill House",
-      "label": "Rakheemow",
-      "submitHub_track_id": "SN4c7Gv2itXbJFHEs"
+      "approval_responses": "15",
+      "country": "CH",
+      "genres": "House (Old-school), UK Garage",
+      "label": "profimusic/Warner Music Central Europe",
+      "submitHub_track_id": "eBqdhRh8BzgaWq7iq"
     },
     "release_article": true
   },
   {
-    "artist": "plenka",
-    "track_or_project_title": "nightline",
+    "artist": "Indigo Eyes",
+    "track_or_project_title": "Timeless",
     "release_type": "track",
     "confidence_score": 0.7,
     "extraction_method": "submithub_chart",
-    "source_article_title": "plenka - nightline",
-    "source_article_url": "https://www.submithub.com/song/plenka-nightline",
+    "source_article_title": "Indigo Eyes - Timeless",
+    "source_article_url": "https://www.submithub.com/song/indigo-eyes-timeless",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-23",
+    "article_date": "2026-07-30",
     "embedded_music_links": [
-      "https://open.spotify.com/track/50DLH4sZnkLmmvwPwmaDTL"
+      "https://s3.amazonaws.com/submithub/files/QJQPXJb2A5car7kvb/timeless-indigo-eyes-master-g36yu8d.wav"
     ],
     "open_graph": {
-      "chart_rank": "139",
-      "popular_points": "12",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
-      "rgb_bonus": "0",
-      "approval_responses": "59",
-      "country": "KZ",
-      "genres": "Lo-fi House, House (Old-school), Deep House",
-      "label": "plenka",
-      "submitHub_track_id": "Z8BWgHkcPj7qr9TGN"
+      "chart_rank": "79",
+      "popular_points": "18",
+      "hot_or_not_likes": "11",
+      "curator_approvals": "11",
+      "rgb_bonus": "1",
+      "approval_responses": "18",
+      "country": "GB",
+      "genres": "Future House, Alternative Dance",
+      "label": "Indigo Sounds",
+      "submitHub_track_id": "7tEWv8XeysyW4zYdG"
     },
     "release_article": true
   },
   {
-    "artist": "Max Metzinger",
-    "track_or_project_title": "The Sun Comes",
+    "artist": "CymaticZ",
+    "track_or_project_title": "efecto",
     "release_type": "track",
     "confidence_score": 0.7,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Max Metzinger - The Sun Comes",
-    "source_article_url": "https://www.submithub.com/song/max-metzinger-x-flo-von-the-sun-comes",
+    "source_article_title": "CymaticZ - efecto",
+    "source_article_url": "https://www.submithub.com/song/cymaticz-efecto",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-30",
+    "article_date": "2026-07-31",
     "embedded_music_links": [
-      "https://s3.amazonaws.com/submithub/files/jC2hT5dCP3X5WvEuC/max-metzinger-flo-von-the-sun-comes-1776151839638.wav"
+      "https://s3.amazonaws.com/submithub/files/6EdpCN3pDcroG8Brr/cymaticz-efecto-single-rfmstr-v1-24b-48k-p7ecal1.wav"
     ],
     "open_graph": {
-      "chart_rank": "140",
-      "popular_points": "12",
-      "hot_or_not_likes": "13",
-      "curator_approvals": "13",
+      "chart_rank": "80",
+      "popular_points": "17",
+      "hot_or_not_likes": "9",
+      "curator_approvals": "9",
       "rgb_bonus": "0",
-      "approval_responses": "41",
-      "country": "DE",
+      "approval_responses": "14",
+      "country": "US",
+      "genres": "Tech House, Bass House / Electro House, UK Garage",
+      "label": "CZ Records",
+      "submitHub_track_id": "XPHQEsPWW3zDirnG9"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Don Cerise",
+    "track_or_project_title": "Asambé",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Don Cerise - Asambé",
+    "source_article_url": "https://www.submithub.com/song/don-cerise-asambe",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/qMYoYreytuGisExAW/don-cerise-and-velour-rosa-asambe-mp3-bxokfbd.mp3"
+    ],
+    "open_graph": {
+      "chart_rank": "82",
+      "popular_points": "17",
+      "hot_or_not_likes": "15",
+      "curator_approvals": "15",
+      "rgb_bonus": "0",
+      "approval_responses": "24",
+      "country": "NL",
+      "genres": "Tribal / Afro House, Deep House",
+      "label": "Ownit",
+      "submitHub_track_id": "TDRwEbCRaKLWaBFYK"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Pauli Gabrieli",
+    "track_or_project_title": "About You",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Pauli Gabrieli - About You",
+    "source_article_url": "https://www.submithub.com/song/pauli-gabrieli-about-you",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/Xiaeu8uyzidqGS2cn/pauli-gabrieli-about-you-radio-mix-12-fe5910l.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "83",
+      "popular_points": "17",
+      "hot_or_not_likes": "12",
+      "curator_approvals": "12",
+      "rgb_bonus": "0",
+      "approval_responses": "25",
+      "country": "CZ",
       "genres": "House (Old-school), Deep House",
-      "label": "zerrro music",
-      "submitHub_track_id": "idBwvXoXu3oedsDSs"
+      "label": "Teasing",
+      "submitHub_track_id": "rJNNwXJ5jKpYA2dbd"
     },
     "release_article": true
   },
   {
-    "artist": "Zinoleesky",
-    "track_or_project_title": "Nostalgia",
+    "artist": "DTAILR",
+    "track_or_project_title": "Groovy Thang (Agosto Remix)",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "DTAILR - Groovy Thang (Agosto Remix)",
+    "source_article_url": "https://www.submithub.com/song/dtailr-x-agosto-groovy-thang-agosto-remix",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-22",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/0kqYeaiCRWZKAoSy2zLOIS"
+    ],
+    "open_graph": {
+      "chart_rank": "84",
+      "popular_points": "17",
+      "hot_or_not_likes": "21",
+      "curator_approvals": "21",
+      "rgb_bonus": "0",
+      "approval_responses": "58",
+      "country": "CH",
+      "genres": "Tech House, Minimal House, Deep House",
+      "label": "Elegant Bastards",
+      "submitHub_track_id": "kMiZsjay4gLjkqHD9"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Makoom",
+    "track_or_project_title": "Breathe",
     "release_type": "track",
     "confidence_score": 0.7,
     "extraction_method": "submithub_chart",
-    "source_article_title": "Zinoleesky - Nostalgia",
-    "source_article_url": "https://www.submithub.com/song/zinoleesky-nostalgia",
+    "source_article_title": "Makoom - Breathe",
+    "source_article_url": "https://www.submithub.com/song/makoom-x-midi-kittyy-breathe",
     "source_name": "SubmitHub",
-    "article_date": "2026-04-28",
+    "article_date": "2026-07-24",
     "embedded_music_links": [
-      "https://www.youtube.com/watch?v=IR1_rHkXdkI"
+      "https://open.spotify.com/track/78DRNAtPX2hGxUrzq8o3y3"
     ],
     "open_graph": {
-      "chart_rank": "141",
-      "popular_points": "11",
-      "hot_or_not_likes": "6",
-      "curator_approvals": "6",
+      "chart_rank": "85",
+      "popular_points": "17",
+      "hot_or_not_likes": "9",
+      "curator_approvals": "9",
+      "rgb_bonus": "0",
+      "approval_responses": "16",
+      "country": "US",
+      "genres": "Peak / Driving Techno, Trance, Big Room",
+      "label": "Reverie XO",
+      "submitHub_track_id": "YWtxKDvu6ynusReZj"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Midnight Pass",
+    "track_or_project_title": "Invincible Summer",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Midnight Pass - Invincible Summer",
+    "source_article_url": "https://www.submithub.com/song/midnight-pass-invincible-summer",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/4etMFP43Xd2hMQGKo/midnight-pass-invicible-summer-spectrum-master-v1-3xize0a.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "86",
+      "popular_points": "17",
+      "hot_or_not_likes": "13",
+      "curator_approvals": "13",
+      "rgb_bonus": "1",
+      "approval_responses": "29",
+      "country": "US",
+      "genres": "Downtempo, Chill House",
+      "label": "Spectrum Recordings",
+      "submitHub_track_id": "T8Lj2sC67K64G5CwE"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Garla",
+    "track_or_project_title": "Catucadão",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Garla - Catucadão",
+    "source_article_url": "https://www.submithub.com/song/garla-catucadao",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-16",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/17WH0d7Vs7CGFIGwkzFXOp"
+    ],
+    "open_graph": {
+      "chart_rank": "87",
+      "popular_points": "17",
+      "hot_or_not_likes": "9",
+      "curator_approvals": "9",
       "rgb_bonus": "2",
-      "approval_responses": "11",
-      "country": "NG",
-      "genres": "Electro Pop, Commercial, Tribal / Afro House",
-      "label": "Zinodict Music",
-      "submitHub_track_id": "scnmoMn7KkmYYD2zL"
+      "approval_responses": "17",
+      "country": "FR",
+      "genres": "Tech House, Melodic Techno, Melodic House",
+      "label": "AZZUR",
+      "submitHub_track_id": "9GcbaspfnfFPeQA5v"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "David Hohme",
+    "track_or_project_title": "Music For Life",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "David Hohme - Music For Life",
+    "source_article_url": "https://www.submithub.com/song/david-hohme-x-dustin-nantais-music-for-life",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/0m974r5UjiApaqOeD1f93a"
+    ],
+    "open_graph": {
+      "chart_rank": "88",
+      "popular_points": "16",
+      "hot_or_not_likes": "12",
+      "curator_approvals": "12",
+      "rgb_bonus": "0",
+      "approval_responses": "32",
+      "country": "US",
+      "genres": "Progressive House, Organic House, Deep House",
+      "label": "Where The Heart Is",
+      "submitHub_track_id": "g7rg7Pp7wRxJ5crjZ"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Lorenzo Spano",
+    "track_or_project_title": "Baby Take Me Home",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Lorenzo Spano - Baby Take Me Home",
+    "source_article_url": "https://www.submithub.com/song/lorenzo-spano-baby-take-me-home",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-16",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/7odf7IigSWHbtxkUEOgN8z"
+    ],
+    "open_graph": {
+      "chart_rank": "89",
+      "popular_points": "16",
+      "hot_or_not_likes": "10",
+      "curator_approvals": "10",
+      "rgb_bonus": "0",
+      "approval_responses": "20",
+      "country": "IT",
+      "genres": "Tech House, House (Old-school)",
+      "label": "Superfett Records",
+      "submitHub_track_id": "eb8Rd8BGZxMgbF24z"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Gloria Estefan",
+    "track_or_project_title": "Conga",
+    "release_type": "remix",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Gloria Estefan - Conga",
+    "source_article_url": "https://www.submithub.com/song/gloria-estefan-x-bebbo-conga-remix-by-d-lacrux",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/0B2HHUcF9YDeAxF3h3e5T4"
+    ],
+    "open_graph": {
+      "chart_rank": "90",
+      "popular_points": "16",
+      "hot_or_not_likes": "11",
+      "curator_approvals": "11",
+      "rgb_bonus": "0",
+      "approval_responses": "27",
+      "country": "US",
+      "genres": "Tech House, House (Old-school)",
+      "label": "Armada Music",
+      "submitHub_track_id": "He3sq82TjkweDmy3R"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BARTY B",
+    "track_or_project_title": "Algorithms",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "BARTY B - Algorithms",
+    "source_article_url": "https://www.submithub.com/song/barty-b-algorithms",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/5T177lpd659YW4FYHUCJf2"
+    ],
+    "open_graph": {
+      "chart_rank": "91",
+      "popular_points": "16",
+      "hot_or_not_likes": "12",
+      "curator_approvals": "12",
+      "rgb_bonus": "0",
+      "approval_responses": "22",
+      "country": "PL",
+      "genres": "Melodic Techno",
+      "label": "F.T.F.T Records",
+      "submitHub_track_id": "NSHpuGSiEMfTgpooe"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "soya.",
+    "track_or_project_title": "thinking about u",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "soya. - thinking about u",
+    "source_article_url": "https://www.submithub.com/song/soya-thinking-about-u",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/2jVHLcfvkb7fr45MEMikdF"
+    ],
+    "open_graph": {
+      "chart_rank": "92",
+      "popular_points": "16",
+      "hot_or_not_likes": "8",
+      "curator_approvals": "8",
+      "rgb_bonus": "1",
+      "approval_responses": "9",
+      "country": "NL",
+      "genres": "Deep House, Chill House",
+      "label": "Relavel Records",
+      "submitHub_track_id": "bAbJaXNaY3hY4YFkk"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Sound EGO",
+    "track_or_project_title": "Sawubona",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Sound EGO - Sawubona",
+    "source_article_url": "https://www.submithub.com/song/sound-ego-sawubona",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/4pKrh6Ltzdspohf7X1KrBn"
+    ],
+    "open_graph": {
+      "chart_rank": "93",
+      "popular_points": "16",
+      "hot_or_not_likes": "12",
+      "curator_approvals": "12",
+      "rgb_bonus": "1",
+      "approval_responses": "34",
+      "country": "UA",
+      "genres": "Deep House",
+      "label": "",
+      "submitHub_track_id": "XDgK8tr2BsxcDu3BR"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "wuzi",
+    "track_or_project_title": "If I Was High",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "wuzi - If I Was High",
+    "source_article_url": "https://www.submithub.com/song/wuzi-if-i-was-high",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/CCjAp2yWoTgDuZkMP/zachw-ifiwashigh-mainmix-mastered-48k24-mj0gotd.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "95",
+      "popular_points": "16",
+      "hot_or_not_likes": "15",
+      "curator_approvals": "15",
+      "rgb_bonus": "1",
+      "approval_responses": "58",
+      "country": "US",
+      "genres": "Dance Pop, UK Garage, House (Old-school)",
+      "label": "wuzi",
+      "submitHub_track_id": "CuCFRuHtqvgzNAD7t"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Nico Falla",
+    "track_or_project_title": "We Don't Burn",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Nico Falla - We Don't Burn",
+    "source_article_url": "https://www.submithub.com/song/nico-falla-we-dont-burn",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-es/track/7JP5F4SHVpSmOgf26RCuKt"
+    ],
+    "open_graph": {
+      "chart_rank": "96",
+      "popular_points": "16",
+      "hot_or_not_likes": "9",
+      "curator_approvals": "9",
+      "rgb_bonus": "0",
+      "approval_responses": "20",
+      "country": "GT",
+      "genres": "Tech House",
+      "label": "THE SUN GROOVES",
+      "submitHub_track_id": "kRAG2d6a6LosudpMb"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Can U",
+    "track_or_project_title": "I Got It",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Can U - I Got It",
+    "source_article_url": "https://www.submithub.com/song/can-u-i-got-it",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/intl-es/track/3dKZaYgD3MtmNJCD6KryZi"
+    ],
+    "open_graph": {
+      "chart_rank": "97",
+      "popular_points": "16",
+      "hot_or_not_likes": "8",
+      "curator_approvals": "8",
+      "rgb_bonus": "0",
+      "approval_responses": "16",
+      "country": "FR",
+      "genres": "House (Old-school)",
+      "label": "echo cult",
+      "submitHub_track_id": "XfJmWTrWEyimBoXh2"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Pangolea",
+    "track_or_project_title": "Mulin",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Pangolea - Mulin",
+    "source_article_url": "https://www.submithub.com/song/pangolea-mulin",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/0d16Eew7PgVbOW3aAgfSCA"
+    ],
+    "open_graph": {
+      "chart_rank": "98",
+      "popular_points": "16",
+      "hot_or_not_likes": "9",
+      "curator_approvals": "9",
+      "rgb_bonus": "0",
+      "approval_responses": "15",
+      "country": "US",
+      "genres": "Tribal / Afro House, Organic House",
+      "label": "The Magic Sun",
+      "submitHub_track_id": "cR8MhMcPaCzeC2EKd"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Mati Troglia",
+    "track_or_project_title": "Almost",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Mati Troglia - Almost",
+    "source_article_url": "https://www.submithub.com/song/mati-troglia-almost",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/4gQ8A0zWoaAFlPKgxFFuVJ"
+    ],
+    "open_graph": {
+      "chart_rank": "99",
+      "popular_points": "16",
+      "hot_or_not_likes": "8",
+      "curator_approvals": "8",
+      "rgb_bonus": "0",
+      "approval_responses": "13",
+      "country": "AR",
+      "genres": "Deep House, Chill House",
+      "label": "Casual Jam Records",
+      "submitHub_track_id": "HrkA33Y8BYuZZBev4"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "BEN STONE (NL)",
+    "track_or_project_title": "BEN STONE (NL), Drumpet Disco, Keys & Copper ft. Curtis Millen - Disco Eyes (Tell No Lies) Radio Edit",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "BEN STONE (NL) - BEN STONE (NL), Drumpet Disco, Keys & Copper ft. Curtis Millen - Disco Eyes (Tell No Lies) Radio Edit",
+    "source_article_url": "https://www.submithub.com/song/ben-stone-nl-x-curtis-millen-x-drumpet-disco-x-keys-and-copper-ben-stone-nl-drumpet-disco-keys-and-copper-ft-curtis-millen-disco-eyes-tell-no-lies-radio-edit",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-30",
+    "embedded_music_links": [
+      "https://soundcloud.com/benstonedj/ben-stone-nl-drumpet-disco-ft/s-Bq2inY29FXT"
+    ],
+    "open_graph": {
+      "chart_rank": "100",
+      "popular_points": "16",
+      "hot_or_not_likes": "8",
+      "curator_approvals": "8",
+      "rgb_bonus": "0",
+      "approval_responses": "13",
+      "country": "NL",
+      "genres": "Jackin House, Disco House, Nu-disco",
+      "label": "Vondell Records",
+      "submitHub_track_id": "8W5Xw2rgZHYpiKWb3"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "D-Rashid",
+    "track_or_project_title": "El Toro",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "D-Rashid - El Toro",
+    "source_article_url": "https://www.submithub.com/song/d-rashid-x-cloudrider-el-toro",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/5bMnE8rhJbHBJGBk41Bfkw"
+    ],
+    "open_graph": {
+      "chart_rank": "101",
+      "popular_points": "16",
+      "hot_or_not_likes": "11",
+      "curator_approvals": "11",
+      "rgb_bonus": "0",
+      "approval_responses": "25",
+      "country": "NL",
+      "genres": "Tech House, House (Old-school)",
+      "label": "What Da House",
+      "submitHub_track_id": "ZC4HLNcQxZBRtWq75"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Deadlynoiz",
+    "track_or_project_title": "No Sleep",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Deadlynoiz - No Sleep",
+    "source_article_url": "https://www.submithub.com/song/deadlynoiz-no-sleep-1",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://soundcloud.com/deadlynoizmusic/no-sleep/s-HgNxJbIsmaR"
+    ],
+    "open_graph": {
+      "chart_rank": "102",
+      "popular_points": "15",
+      "hot_or_not_likes": "20",
+      "curator_approvals": "20",
+      "rgb_bonus": "1",
+      "approval_responses": "259",
+      "country": "US",
+      "genres": "Bass House / Electro House, UK Garage, Big Room",
+      "label": "LVLD MUSIC",
+      "submitHub_track_id": "66re8eZv8Q8ZRBFZA"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "fran&co",
+    "track_or_project_title": "Kundi",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "fran&co - Kundi",
+    "source_article_url": "https://www.submithub.com/song/fran-and-co-kundi",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/gfYPmKMhD7t9TrK34/fran-and-co-kundivhuira-radio-pobla-mstrd-1wxc5gc.mp3"
+    ],
+    "open_graph": {
+      "chart_rank": "103",
+      "popular_points": "15",
+      "hot_or_not_likes": "14",
+      "curator_approvals": "14",
+      "rgb_bonus": "0",
+      "approval_responses": "36",
+      "country": "empty",
+      "genres": "Tribal / Afro House",
+      "label": "Mad Hatter",
+      "submitHub_track_id": "Su27ok8LaDPhG9q2W"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Michael Leathers",
+    "track_or_project_title": "It's In Your Blood",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Michael Leathers - It's In Your Blood",
+    "source_article_url": "https://www.submithub.com/song/michael-leathers-its-in-your-blood",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/x3QiM6DJQgxB82E3o/michael-leathers-it-s-in-your-blood-radio-edit-mstr-320kbps-ngfu1u3.mp3"
+    ],
+    "open_graph": {
+      "chart_rank": "104",
+      "popular_points": "15",
+      "hot_or_not_likes": "12",
+      "curator_approvals": "12",
+      "rgb_bonus": "0",
+      "approval_responses": "29",
+      "country": "US",
+      "genres": "Industrial, Bass House / Electro House, Acid Techno",
+      "label": "",
+      "submitHub_track_id": "YjefBGCtNo5mehuCL"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Théatrophone",
+    "track_or_project_title": "Waiting For You",
+    "release_type": "track",
+    "confidence_score": 0.8,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Théatrophone - Waiting For You",
+    "source_article_url": "https://www.submithub.com/song/theatrophone-waiting-for-you",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/bayq2EMLX4JdtKkNA/theatrophone-waiting-master-jonathan-va-currency-th-1od4pby.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "106",
+      "popular_points": "15",
+      "hot_or_not_likes": "30",
+      "curator_approvals": "30",
+      "rgb_bonus": "0",
+      "approval_responses": "67",
+      "country": "DE",
+      "genres": "Dance Pop, Deep House",
+      "label": "Defined Sound Records",
+      "submitHub_track_id": "EHc5sfhms3cMkC7bf"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Nicky Dippin'",
+    "track_or_project_title": "Báilalo",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Nicky Dippin' - Báilalo",
+    "source_article_url": "https://www.submithub.com/song/nicky-dippin-bailalo",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-22",
+    "embedded_music_links": [
+      "https://s3.amazonaws.com/submithub/files/45LYaiYtu2sEe7ape/nicky-dippin-bailalo-radio-edit-htwtrk7.wav"
+    ],
+    "open_graph": {
+      "chart_rank": "107",
+      "popular_points": "15",
+      "hot_or_not_likes": "10",
+      "curator_approvals": "10",
+      "rgb_bonus": "0",
+      "approval_responses": "18",
+      "country": "NL",
+      "genres": "Latin House, Tech House",
+      "label": "Nicky Dippin' Records",
+      "submitHub_track_id": "dnyoWHh9XgXoBhNra"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "LIGHTLEAK",
+    "track_or_project_title": "Casa Ponte (feat. A.D.O.R.)",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "LIGHTLEAK - Casa Ponte (feat. A.D.O.R.)",
+    "source_article_url": "https://www.submithub.com/song/lightleak-casa-ponte-feat-a-d-o-r",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-31",
+    "embedded_music_links": [
+      "https://s.disco.ac/eifkrocvavns"
+    ],
+    "open_graph": {
+      "chart_rank": "108",
+      "popular_points": "15",
+      "hot_or_not_likes": "8",
+      "curator_approvals": "8",
+      "rgb_bonus": "3",
+      "approval_responses": "24",
+      "country": "US",
+      "genres": "Tech House, Minimal House, House (Old-school)",
+      "label": "",
+      "submitHub_track_id": "ct2Pa4effdAHQWFSA"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "Husky",
+    "track_or_project_title": "Get Up On This - Deepah Mix",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "Husky - Get Up On This - Deepah Mix",
+    "source_article_url": "https://www.submithub.com/song/husky-get-up-on-this-deepah-mix",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-23",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/6iiQh8ARfEbAOMEL46YGz2"
+    ],
+    "open_graph": {
+      "chart_rank": "111",
+      "popular_points": "15",
+      "hot_or_not_likes": "8",
+      "curator_approvals": "8",
+      "rgb_bonus": "0",
+      "approval_responses": "12",
+      "country": "AU",
+      "genres": "House (Old-school), Deep House",
+      "label": "Bobbin Head Music",
+      "submitHub_track_id": "JRHQSwuyxz8ZXgNB8"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "DvirNuns",
+    "track_or_project_title": "Bad B$tch",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "DvirNuns - Bad B$tch",
+    "source_article_url": "https://www.submithub.com/song/dvirnuns-bad-busdtch",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://s.disco.ac/aktahgnvctia"
+    ],
+    "open_graph": {
+      "chart_rank": "113",
+      "popular_points": "15",
+      "hot_or_not_likes": "13",
+      "curator_approvals": "13",
+      "rgb_bonus": "3",
+      "approval_responses": "34",
+      "country": "US",
+      "genres": "Tech House, House (Old-school)",
+      "label": "Nu Moda",
+      "submitHub_track_id": "8pGqMpvmWjwXX5xFh"
+    },
+    "release_article": true
+  },
+  {
+    "artist": "ÜDORĀ",
+    "track_or_project_title": "Star - Rework Mix",
+    "release_type": "track",
+    "confidence_score": 0.7,
+    "extraction_method": "submithub_chart",
+    "source_article_title": "ÜDORĀ - Star - Rework Mix",
+    "source_article_url": "https://www.submithub.com/song/udora-star-rework-mix",
+    "source_name": "SubmitHub",
+    "article_date": "2026-07-24",
+    "embedded_music_links": [
+      "https://open.spotify.com/track/0MNflHMai8ikVh8R8dHA4p"
+    ],
+    "open_graph": {
+      "chart_rank": "114",
+      "popular_points": "15",
+      "hot_or_not_likes": "17",
+      "curator_approvals": "17",
+      "rgb_bonus": "0",
+      "approval_responses": "49",
+      "country": "US",
+      "genres": "Tribal / Afro House",
+      "label": "RYTHMICA",
+      "submitHub_track_id": "foSEQuBrp7P42tqCE"
     },
     "release_article": true
   }
